@@ -1,0 +1,8 @@
+.DS_Store
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+cmvr_rule_ais_checkpoint.jsonl
+cmvr_rule_review/

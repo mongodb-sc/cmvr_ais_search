@@ -1,0 +1,1274 @@
+[
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "SECTION 0",
+    "heading_number": "0",
+    "subheading": null,
+    "rule": "0.0",
+    "description": "The Government of India felt the need for a permanent agency to expedite the publication of standards and development of test facilities in parallel when the work on the preparation of the standards is going on, as the development of improved safety critical parts can be undertaken only after the publication of the standard and commissioning of test facilities. To this end, the erstwhile Ministry of Surface Transport (MOST) has constituted a permanent Automotive Industry Standards Committee (AISC) vide order No.RT-11028/11/97-MVL dated September 15, 1997. The standards prepared by AISC will be approved by the permanent CMVR Technical Standing Committee (CTSC). After approval, the Automotive Research Association of India, (ARAI), Pune, being the Secretariat of the AIS Committee, has published this standard. For better dissemination of this information ARAI may publish this document on their Web site.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "SECTION 0",
+    "heading_number": "0",
+    "subheading": "Accordingly, AIS-002 covering mandatory requirements regarding installation of rear-view mirrors was published in 2001 and implemented thereafter in 2003",
+    "rule": "0.1",
+    "description": "Accordingly, AIS-002 covering mandatory requirements regarding installation of rear-view mirrors was published in 2001 and implemented thereafter in 2003.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "SECTION 0",
+    "heading_number": "0",
+    "subheading": "With technological developments in the rear-view mirrors and devices for Indirect Vision, AIS-002 was taken up for revision is prepared in two parts",
+    "rule": "0.2",
+    "description": "With technological developments in the rear-view mirrors and devices for Indirect Vision, AIS-002 was taken up for revision is prepared in two parts. This part covers the requirements for installation of rear-view mirrors and devices for indirect vision for L category vehicles with bodywork, M and N category of vehicles.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "SECTION 0",
+    "heading_number": "0",
+    "subheading": "This part is based on the following UN regulation",
+    "rule": "0.3",
+    "description": "This part is based on the following UN regulation:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "SECTION 0",
+    "heading_number": "0",
+    "subheading": "While preparing this standard attempt has been made to align with the above UN regulation. However, certain changes were necessary in the Indian context",
+    "rule": "0.4",
+    "description": "While preparing this standard attempt has been made to align with the above UN regulation. However, certain changes were necessary in the Indian context.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "SECTION 0",
+    "heading_number": "0",
+    "subheading": "The following standards contain provisions, which through reference in this text constitute provisions of the standard",
+    "rule": "0.5",
+    "description": "The following standards contain provisions, which through reference in this text constitute provisions of the standard UN R 46 Revision 6, Amendment 7 Supplement 9 to the 04 series of amendments Date of entry into force: 30 September 2021, 1 = Uniform provisions concerning the approval of devices for indirect vision and of motor vehicles with regard to the installation of these devices AIS-001 (Part 1), 1 = Automotive Vehicles - Approval of Devices for Indirect Vision intended for use on M, N category. (Rev. 2), 1 = and L category with bodywork vehicles - specification. AIS-007, 1 = Information on Technical Specifications to be Submitted by the Vehicle Manufacturer IS 14272: 2011, 1 = Automotive Vehicles - Types - Terminology. IS 2553 (Part 2) (Revision 1): 2019., 1 = Safety glass - Specification - Part 2 for Road Transport. AIS-097: 2007, 1 = Procedure for Determining the \"H\" Point and the Torso Angle for 50th Percentile Adult Male in Seating Positions of Motor Vehicles. ISO 4130-1978, 1 = Road vehicles - Three-dimensional reference system and fiducial marks - Definitions. ISO 612-1978, 1 = Road vehicles - Dimension of motor vehicles and towed vehicles - Terms and definitions.",
+    "AIS": [
+      "AIS-001",
+      "AIS-007",
+      "AIS-097"
+    ]
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "SECTION 0",
+    "heading_number": "0",
+    "subheading": "The composition of AIS panel and AIS Committee responsible for preparation of this standard is given in Annex P and Annex Q respectively",
+    "rule": "0.6",
+    "description": "The composition of AIS panel and AIS Committee responsible for preparation of this standard is given in Annex P and Annex Q respectively. 1., Contents = Scope. 1., Page No. = 1/65. 2. to 11., Contents = Reserved. 2. to 11., Page No. = 1/65. 12., Contents = Definitions. 12., Page No. = 1/65. 13., Contents = Application for approval. 13., Page No. = 2/65. 14., Contents = Approval. 14., Page No. = 3/65. 15., Contents = Requirements. 15., Page No. = 3/65. 16., Contents = Requirement for Devices for indirect vision other than mirrors. 16., Page No. = 19/65. 17., Contents = Modifications of the vehicle type and extension of type approval. 17., Page No. = 24/65. 18., Contents = Conformity of production. 18., Page No. = 25/65. 19. to 21., Contents = Reserved. 19. to 21., Page No. = 25/65. 22., Contents = Transitional provisions. 22., Page No. = 25/65. 23., Contents = Amendments to UN regulations after the level described in 0.3 of introduction. 23., Page No. = 26/65. List of Annexes:, Contents = List of Annexes:. List of Annexes:, Page No. = . Annex A Reserved, Contents = Annex A Reserved. Annex A Reserved, Page No. = 27/65. Annex B Information, Contents = to be submitted at the time of type approval. Annex B Information, Page No. = 28/65. Annex C to G Reserved, Contents = Annex C to G Reserved. Annex C to G Reserved, Page No. = 30/65. Annex H Procedure for determining the \"H\" point and the actual torso angle for seating positions in motor vehicles, Contents = Annex H Procedure for determining the \"H\" point and the actual torso angle for seating positions in motor vehicles. Annex H Procedure for determining the \"H\" point and the actual torso angle for seating positions in motor vehicles, Page No. = 31/65. Annex HA Description of the three dimensional \"H\" point machine, Contents = Annex HA Description of the three dimensional \"H\" point machine. Annex HA Description of the three dimensional \"H\" point machine, Page No. = 37/65. Annex HB Three - dimensional reference system, Contents = Annex HB Three - dimensional reference system. Annex HB Three - dimensional reference system, Page No. = 40/65. Annex HC Reference data concerning seating positions, Contents = Annex HC Reference data concerning seating positions. Annex HC Reference data concerning seating positions, Page No. = 41/65. Annex J Reserved, Contents = Annex J Reserved. Annex J Reserved, Page No. = 42/65. Annex K Calculation of the detection distance for CMS of Class V and VI, Contents = Annex K Calculation of the detection distance for CMS of Class V and VI. Annex K Calculation of the detection distance for CMS of Class V and VI, Page No. = 43/65. Annex L Determination of the displayed object size for CMS of Class V &, Contents = Annex L Determination of the displayed object size for CMS of Class V &. Annex L Determination of the displayed object size for CMS of Class V &, Page No. = 47/65. Annex M Test methods and safety provisions for CMS of Classes I to IV, Contents = Annex M Test methods and safety provisions for CMS of Classes I to IV. Annex M Test methods and safety provisions for CMS of Classes I to IV, Page No. = 50/65. Annex N Criteria for extension of approval, Contents = Annex N Criteria for extension of approval. Annex N Criteria for extension of approval, Page No. = . , Contents = . , Page No. = 61/65. Annex P Composition of AISC panel on rear view mirrors Annex Q Committee composition Automotive Industry Standards Committee, Contents = Annex P Composition of AISC panel on rear view mirrors Annex Q Committee composition Automotive Industry Standards Committee. Annex P Composition of AISC panel on rear view mirrors Annex Q Committee composition Automotive Industry Standards Committee, Page No. = 63/65",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "SCOPE",
+    "heading_number": "1",
+    "subheading": null,
+    "rule": "1",
+    "description": "Main rear-view Classes III or VII: Second Para of footnote 1 in table shall be corrected as below. Where a single class III or VII rear-view mirror is fitted this shall be located on the right-hand side of the vehicle. M 1, Rear-view Class I = Compulsory Unless the vehicle is fitted with anything other than safety glazing material in the field of vision prescribed in paragraph 15.2.4.1. See 15.2.2.10. M 1, Main rear-view Class II = Optional. M 1, Main rear-view Class III = Compulsory 1 on the driver's side and 1 on the passenger's side. Class II mirrors may be fitted as an alternative.. M 1, Wide-angle view Class IV = Optional 1 on the driver's side and / or 1 on the passenger's side. M 1, Close-proximity view Class V = Optional 1 on the driver's side and 1 on the passenger's side (both shall be fitted at least 2 m above the ground). M 1, Front view Class VI = Optional (shall be fitted at least 2 m above the ground). M 2, Rear-view Class I = Optional (no requirements for the field of view). M 2, Main rear-view Class II = Compulsory 1 on the driver's side and 1 on the passenger's side See 15.2.2.11. M 2, Main rear-view Class III = See 15.2.2.11. M 2, Wide-angle view Class IV = Optional 1 on the driver's side and / or 1 on the passenger's side. M 2, Close-proximity view Class V = Optional 1 on the driver's side and 1 on the passenger's side (both shall be fitted at least 2 m above the ground). M 2, Front view Class VI = Optional (shall be fitted at least 2 m above the ground). M 3, Rear-view Class I = Optional (no requirements for the field of view). M 3, Main rear-view Class II = Compulsory 1 on the driver's side and 1 on the passenger's side. M 3, Main rear-view Class III = Not permitted. M 3, Wide-angle view Class IV = Optional 1 on the driver's side and / or 1 on the passenger's side. M 3, Close-proximity view Class V = Optional 1 on the driver's side and 1 on the passenger's side (both shall be fitted at least 2 m above the ground). M 3, Front view Class VI = Mandatory (shall be fitted at least 2 m above the ground) See 15.2.2.7 and 15.2.2.12. N 1, Rear-view Class I = Compulsory Unless the vehicle is fitted with anything other than safety glazing material in the field of vision prescribed in paragraph 15.2.4.1. See 15.2.2.10. N 1, Main rear-view Class II = Optional. N 1, Main rear-view Class III = Compulsory 1 on the driver's side and 1 on the passenger's side. Class II mirrors may be fitted as an alternative.. N 1, Wide-angle view Class IV = Optional 1 on the driver's side and / or 1 on the passenger's side. N 1, Close-proximity view Class V = Optional 1 on the driver's side and 1 on the passenger's side (both shall be fitted at least 2 m above the ground). N 1, Front view Class VI = Optional (shall be fitted at least 2 m above the ground) N 2  7.5 t, Rear-view Class I = Optional (no requirements for the field of view). N 2  7.5 t, Main rear-view Class II = Compulsory 1 on the driver's side and 1 on the passenger's side. N 2  7.5 t, Main rear-view Class III = Not permitted. N 2  7.5 t, Wide-angle view Class IV = Compulsory For both sides if a Class V mirror can be fitted. Optional 1 on the driver's side and 1 on the passenger's side In addition, according to paragraphs 15.2.4.5.6 to 15.2.4.5.11 for vehicles with a mounting height of the Class V mirror of not less than 2.4 m (see paragraph 15.2.4.5.12): the required field of vision (paragraphs 15.2.4.5.6 to 15.2.4.5.9) may be viewed using a combination of direct view and indirect vision devices (of Classes IV, V, VI).. N 2  7.5 t, Close-proximity view Class V = Compulsory see paragraph 15.2.2.7. and 15.2.4.5.5. 1 on the passenger's side. Optional 1 on driver's side (both shall be fitted at least 2 m above the ground) A tolerance of +10 cm may be applied. In addition, according to paragraphs 15.2.4.5.6 to 15.2.4.5.11 for vehicles with amounting height of the Class V mirror of not less than 2.4 m (see paragraph 15.2.4.5.12): the required field of vision (paragraphs 15.2.4.5.6 to 15.2.4.5.9) maybe viewed using a combination of direct view and indirect vision devices (of Classes IV, V, VI).. N 2  7.5 t, Front view Class VI = Optional 1 front mirror (shall be fitted at least 2 m above the ground) In addition, according to paragraphs 15.2.4.5.6 to 15.2.4.5.11 for vehicles with amounting height of the Class V mirror of not less than 2.4m (see paragraph 15.2.4.5.12): the required field of vision (paragraphs 15.2.4.5.6 to 15.2.4.5.9) may be viewed using a combination of direct view and indirect vision devices (of Classes IV, V, VI). N 2 > 7.5 t, Rear-view Class I = Optional (no requirementsfor the field of view). N 2 > 7.5 t, Main rear-view Class II = Compulsory 1 on the driver's side and 1 on the passenger's side. N 2 > 7.5 t, Main rear-view Class III = Not permitted. N 2 > 7.5 t, Wide-angle view Class IV = Compulsory 1 on the driver's side and 1 on the passenger's side In addition, according to paragraphs 15.2.4.5.6 to 15.2.4.5.11 for vehicles with amounting height of the Class V mirror of not less than 2.4 m (see paragraph 15.2.4.5.12): the required field of vision (paragraphs 15.2.4.5.6 to 15.2.4.5.9) may be viewed using a combination of direct view and indirect vision devices (of Classes IV, V, VI).. N 2 > 7.5 t, Close-proximity view Class V = Compulsory, see paragraph 15.2.2.7. and 15.2.4.5.5. 1 on the passenger's side Optional 1 on driver's side (both shall be fitted at least 2 m above the ground) In addition, according to paragraphs 15.2.4.5.6 to15.2.4.5.11 for vehicles with amounting height of the Class V mirror of not less than 2.4 m (see paragraph 15.2.4.5.12): the required field of vision (paragraphs 15.2.4.5.6 to 15.2.4.5.9) maybe viewed using a combination of direct view and indirect vision devices (of Classes IV, V, VI).. N 2 > 7.5 t, Front view Class VI = Compulsory, see paragraph 15.2.1.1.2. 1 front mirror (shall be fitted at least 2 m above the ground) See 15.2.2.7 and 15.2.2.12 In addition, according to paragraph s15.2.4.5.6 to 15.2.4.5.11 for vehicles with amounting height of the Class V mirror of not less than 2.4m (see paragraph 15.2.4.5.12): the required field of vision (paragraphs 15.2.4.5.6 to 15.2.4.5.9) may be viewed using a combination of direct view and indirect vision devices (of Classes IV, V, VI). AIS-002 (Part 1) (Rev.2):2023 N 3, Rear-view Class I = Optional (no requirements for the field of view). N 3, Main rear-view Class II = Compulsory 1 on the driver's side and 1 on the passenger's side. N 3, Main rear-view Class III = Not permitted. N 3, Wide-angle view Class IV = Compulsory 1 on the driver's side and 1 on the passenger's side In addition, according to paragraphs 15.2.4.5.6. to 15.2.4.5.11 for vehicles with amounting height of the Class V mirror of not less than 2.4 m(see paragraph 15.2.4.5.12.): the required field of vision (paragraphs 15.2.4.5.6. to 15.2.4.5.9.) may be viewed using a combination of direct view and indirect vision devices (of Classes IV, V, VI).. N 3, Close-proximity view Class V = Compulsory, see paragraph 15.2.2.7. and 15.2.4.5.5.1 on the passenger's side Optional 1 on driver's side (both shall be fitted at least 2 m above the ground) In addition, according to paragraphs 15.2.4.5.6 to15.2.4.5.11 for vehicles with amounting height of the Class V mirror of not less than 2.4 m (see paragraph15.2.4.5.12.): the required field of vision (paragraphs 15.2.4.5.6. to 15.2.4.5.9.) maybe viewed using a combination of direct view and indirect vision devices (of Classes IV, V, VI).. N 3, Front view Class VI = Compulsory, see paragraph 15.2.1.1.2. 1 front mirror (shall be fitted at least 2 m above the ground) See 15.2.2.7 and 15.2.2.12 In addition, according to paragraphs 15.2.4.5.6. to15.2.4.5.11. for vehicles with amounting height of the Class V mirror of not less than 2.4m (see paragraph 15.2.4.5.12.): the required field of vision (paragraphs 15.2.4.5.6. to 15.2.4.5.9) may be viewed using a combination of direct view and indirect vision devices (of Classes IV, V, VI). Note: 'Passenger's' side means the side opposite to where the driver seat is provided. - Optional rear-view mirrors for L-category vehicles with body work The fitting of a Class III or VII rear-view mirror on the side of the vehicle opposite to that of the mandatory rear-view mirror referred to in clause 15.2.1.1.3. above, is permissible. The rear-view mirror shall meet the requirements of this standard",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "SCOPE",
+    "heading_number": "1",
+    "subheading": "GENERAL",
+    "rule": "1.1",
+    "description": "This standard applies to compulsory and optional devices for indirect vision set out in the table under clause 15.2.1.1.1. of this standard for vehicles of category M and N and to compulsory and optional devices for indirect vision mentioned in clauses 15.2.1.1.3 and 15.2.1.1.4 of this standard for vehicles of category L with bodywork at least partly enclosing the driver.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "SCOPE",
+    "heading_number": "1",
+    "subheading": "CASE A: SMEAR APPEARS",
+    "rule": "1.2",
+    "description": "This standard does not apply to devices other than those prescribed under clause 1.1 and their installation, for observing the vision area(s) immediately adjacent to the front and/or the passenger's side of vehicles of category M1, M2, M3, N1 and N2 ≤ 7.5 t.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "to 11. Reserved",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2",
+    "description": "'15.2.2.4 The prescribed Classes II, III, IV and VII mirror or monitor on the driver's side of the vehicle shall be so located that an angle of not more than 55° is formed between the vertical longitudinal median plane of the vehicle and the vertical plane passing through the centre of the mirror or monitor and through the centre of the straight line 65 mm long which joins the driver's two ocular points. This condition shall be met if the manufacturer certifies so for the vehicles which are already approved as per AIS-002(Part 1) (Rev. 1) and there is no change in any parameter affecting the above-mentioned requirement. For new installation requirement, verification may be carried out based on agreement between the testing agency and manufacturer/applicant. 2. to 11. Reserved",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "DEFINITIONS",
+    "heading_number": "12",
+    "subheading": null,
+    "rule": "12",
+    "description": "For the purpose of this standard:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "DEFINITIONS",
+    "heading_number": "12",
+    "subheading": null,
+    "rule": "12.1",
+    "description": "\"The driver's ocular points\" means two points 65 mm apart and 635 mm vertically above point R of the driver's seat as defined in Annex H. The straight line joining these points runs perpendicular to the vertical longitudinal median plane of the vehicle. The centre of the segment joining the two ocular points is in a vertical longitudinal plane which shall pass through the centre of the driver's designated seating position, as specified by the vehicle manufacturer. Note: The R point declared by the manufacturer may be used for measurement of field of visions",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "DEFINITIONS",
+    "heading_number": "12",
+    "subheading": null,
+    "rule": "12.2",
+    "description": "\"Ambinocular vision\" means the total field of vision obtained by the superimposition of the monocular fields of the right eye and the left eye (see Figure 3 below). Note : Figures 1 and 2 reserved. Figure 3 (See 12.2) Ambinocular vision E= interior rear-view mirror OD = driver's eyes OE = driver's eyes ID = virtual monocular images IE = virtual monocular images I = virtual ambinocular images A = angle of vision of right eye. B = angle of vision of left eye. C = binocular angle of vision. D = angle of Ambinocular vision.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "DEFINITIONS",
+    "heading_number": "12",
+    "subheading": null,
+    "rule": "12.3",
+    "description": "\"Type of vehicle as regards indirect vision\" means motor vehicles which are identical in respect of the following basic features:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "DEFINITIONS",
+    "heading_number": "12",
+    "subheading": "Type of device for indirect vision;",
+    "rule": "12.3.1",
+    "description": "Type of device for indirect vision;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "DEFINITIONS",
+    "heading_number": "12",
+    "subheading": "The bodywork features which reduce the field of vision",
+    "rule": "12.3.2",
+    "description": "The bodywork features which reduce the field of vision",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "DEFINITIONS",
+    "heading_number": "12",
+    "subheading": "The coordinates of point R (where applicable);",
+    "rule": "12.3.3",
+    "description": "The coordinates of point R (where applicable);",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "DEFINITIONS",
+    "heading_number": "12",
+    "subheading": "The prescribed positions, and type-approval markings of compulsory and (if fitted) optional devices for indirect vision",
+    "rule": "12.3.4",
+    "description": "The prescribed positions, and type-approval markings of compulsory and (if fitted) optional devices for indirect vision.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "DEFINITIONS",
+    "heading_number": "12",
+    "subheading": "Reserved",
+    "rule": "12.4",
+    "description": "Reserved",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "DEFINITIONS",
+    "heading_number": "12",
+    "subheading": null,
+    "rule": "12.5",
+    "description": "\"Forward control\" means a configuration in which more than half of the engine length is rearward of the foremost point of the windshield base and the steering wheel hub in the forward quarter of the vehicle length.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "DEFINITIONS",
+    "heading_number": "12",
+    "subheading": null,
+    "rule": "12.6",
+    "description": "\"Ocular reference point\" means the middle point between the driver's ocular points.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "DEFINITIONS",
+    "heading_number": "12",
+    "subheading": null,
+    "rule": "12.7",
+    "description": "'Unladen (kerb) mass\" (kg) means the mass of the vehicle in running order, unoccupied and unladen but with the addition of 75 kg for the mass of the driver, the mass of fuel, in the case of liquid fuels, corresponding to 90 per cent of the capacity of the fuel tank specified by the manufacturer, and in the case of gaseous fuels such as CNG, LPG etc. the legally permitted maximum, and the masses of coolant, lubricant, tools and spare wheel, if any.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "APPLICATION FOR APPROVAL",
+    "heading_number": "13",
+    "subheading": "Information to be submitted at the time of applying for type approval of the devices for indirect vision shall be as given in Annex B",
+    "rule": "13.1",
+    "description": "Information to be submitted at the time of applying for type approval of the devices for indirect vision shall be as given in Annex B",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "APPLICATION FOR APPROVAL",
+    "heading_number": "13",
+    "subheading": "Reserved",
+    "rule": "13.2",
+    "description": "Reserved.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "APPLICATION FOR APPROVAL",
+    "heading_number": "13",
+    "subheading": "A vehicle representative of the vehicle type to be approved shall be submitted to the testing agency responsible for conducting the approval tests",
+    "rule": "13.3",
+    "description": "A vehicle representative of the vehicle type to be approved shall be submitted to the testing agency responsible for conducting the approval tests.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "APPLICATION FOR APPROVAL",
+    "heading_number": "13",
+    "subheading": "Reserved",
+    "rule": "13.4",
+    "description": "Reserved",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "APPLICATION FOR APPROVAL",
+    "heading_number": "13",
+    "subheading": null,
+    "rule": "13.5",
+    "description": "The CMS shall be provided by the applicant with the following documents: - (a) Technical specification of the CMS; - (b) Operator's manual - (c) Documentation referred to in Annex M, clause 2.3. - (d) Documentation referred to in clause 16.1.1.1.1., if applicable",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "APPROVAL",
+    "heading_number": "14",
+    "subheading": "If the vehicle type submitted for approval in accordance with clause 13 above, meets the requirements of clause 15 of this standard, approval shall be granted",
+    "rule": "14.1",
+    "description": "If the vehicle type submitted for approval in accordance with clause 13 above, meets the requirements of clause 15 of this standard, approval shall be granted.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "APPROVAL",
+    "heading_number": "14",
+    "subheading": "Reserved",
+    "rule": "14.2",
+    "description": "Reserved",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "APPROVAL",
+    "heading_number": "14",
+    "subheading": "Reserved",
+    "rule": "14.3",
+    "description": "Reserved",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "General",
+    "rule": "15.1.1",
+    "description": "The compulsory and optional devices for indirect vision, set out in the table under clause 15.2.1.1.1, below installed on the vehicle shall be classes described in AIS-001 (Part 1) (Rev. 2).",
+    "AIS": [
+      "AIS-001"
+    ]
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "General",
+    "rule": "15.1.2",
+    "description": "Devices for indirect vision shall be fitted in such a way that the device does not move so as significantly to change the field of vision as measured or vibrate to an extent which would cause the driver to misinterpret the nature of the image perceived.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "The conditions laid down in 15.1.2 shall be maintained when the vehicle is moving at speeds of up to 80 per cent of its maximum design speed, but not exceeding 150 km/h",
+    "rule": "15.1.3",
+    "description": "The conditions laid down in 15.1.2 shall be maintained when the vehicle is moving at speeds of up to 80 per cent of its maximum design speed, but not exceeding 150 km/h.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "General",
+    "rule": "15.1.4",
+    "description": "The fields of vision defined below shall be established using ambinocular vision, the eyes being at the \"driver's ocular points\" as defined in 12.1. above The fields of vision shall be determined when the vehicle is in the Unladen kerb mass condition as defined in 12.7, plus for M1 and N1 vehicles one front seat passenger (75 kg). When established through windows the glazing shall have a total light transmission factor in accordance with IS 2553 (Part 2): (Revision 1) 2019.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "Devices for indirect vision",
+    "rule": "15.2",
+    "description": "No rear-view mirror Class I is required if the visibility conditions referred to in paragraph 15.2.5.4.1. below cannot be met. In this case two Class III or VII rear-view mirrors are required, one giving the view on the left and one giving the view on the right-hand side of the vehicle. Where a single class III or VII rear-view mirror is fitted this shall be located on the left-hand side of the vehicle. It is recommended that articulation adjustment for CMS may be limited only to such positions at which it meets the provisions of Field of Vision mentioned in this standard",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "Number",
+    "rule": "15.2.1",
+    "description": "Number",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "Minimum number of compulsory devices for indirect vision",
+    "rule": "15.2.1.1",
+    "description": "Minimum number of compulsory devices for indirect vision",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "Minimum number of compulsory devices for indirect vision",
+    "rule": "15.2.1.1.1",
+    "description": "The fields of vision prescribed in clause 15.2.4 shall be obtained from the minimum number of mandatory mirrors or camera-monitor devices set out in the following table. A minimum number of camera-monitor systems is undefined, but they shall provide the same field of vision as given in the table below and the provision on the minimum mounting height does not apply. In the case of camera-monitor systems, the maximum number of monitors shall not exceed the corresponding number of mirrors.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "Minimum number of compulsory devices for indirect vision",
+    "rule": "15.2.1.1.2",
+    "description": "In the case a camera-monitor system is used for rendering (the) field(s) of vision, the relevant field(s) of vision shall be permanently visible to the driver when the ignition is on or the vehicle master control switch is activated (whichever is applicable) and not used for other information. However, when the vehicle is moving forward at a speed above 10 km/h or backwards, the monitor or the part of the monitor intended for rendering the Class VI field of vision may be used for other information. Multiple images may be used or displayed provided that the monitor has been approved in this mode.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "Rear-view mirrors required for L-category vehicles with body work",
+    "rule": "15.2.1.1.3",
+    "description": "Rear-view mirrors required for L-category vehicles with body work Category of vehicle, 1 = Rear-view Class I. Category of vehicle, 2 = Main rear-view Classes III and VII. L category motor vehicles fitted with bodywork which partly or wholly encloses the driver, 1 = 1 1. L category motor vehicles fitted with bodywork which partly or wholly encloses the driver, 2 = 1, if there is a Class I rear-view mirror; 2, if there is not a Class I rear-view mirror",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "Number",
+    "rule": "15.2.1.2",
+    "description": "The provisions of this standard do not apply to the surveillance mirrors defined in clause 2.1.1.3 of AIS-001 (Part 1) (Rev. 2). Nevertheless, the exterior surveillance mirrors shall be mounted at least 2 m above the ground when the vehicle is under a load corresponding to its maximum technical permissible mass or shall be fully integrated in a housing including Class II or III mirror(s) which is (are) type approved to this standard.",
+    "AIS": [
+      "AIS-001"
+    ]
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "Position",
+    "rule": "15.2.2.1",
+    "description": "Devices for indirect vision shall be so placed that the driver, when sitting on the driving seat in a normal driving position, has a clear view of the road to the rear , side(s) or front of the vehicle.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "Position",
+    "rule": "15.2.2.2",
+    "description": "Classes II to VII mirrors shall be visible through the side windows or through the portion of the windscreen that is swept by the windscreen wiper. Nevertheless, for design reasons, this last provision (i.e. the provisions relating the cleaned part of the windscreen) shall not apply to: - (a) Classes II to VII mirrors on the passenger side and optional exterior mirrors on the driver side of vehicles of categories M2 and M3; - (b) Class VI front-view mirrors",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "Position",
+    "rule": "15.2.2.3",
+    "description": "In the case of any vehicle, which is in chassis/cab form when the field of vision is measured, the minimum and maximum body widths shall be stated by the manufacturer and, if necessary, simulated by dummy headboards. All vehicles and devices for indirect vision configurations taken into consideration during the tests shall be shown in the test report for a vehicle with regard to the installation of devices for indirect vision.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "Position",
+    "rule": "15.2.2.4",
+    "description": "The prescribed Classes II, III, IV and VII mirror or monitor on the driver's side of the vehicle shall be so located that an angle of not more than 55° is formed between the vertical longitudinal median plane of the vehicle and the vertical plane passing through the centre of the mirror or monitor and through the centre of the straight line 65 mm long which joins the driver's two ocular points.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "Position",
+    "rule": "15.2.2.5",
+    "description": "Devices for indirect vision shall not project beyond the external bodywork of the vehicle substantially more than is necessary to comply with the requirements concerning fields of vision laid down in clause 15.2.4. below.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "Position",
+    "rule": "15.2.2.6",
+    "description": "Where the lower edge of a Classes II to VII mirror is less than 2 m above the ground when the vehicle is loaded to its technically permissible maximum laden mass, this mirror shall not project more than 250 mm beyond the overall width of the vehicle measured without mirrors.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "Position",
+    "rule": "15.2.2.7",
+    "description": "Class V and Class VI mirrors shall be mounted on vehicles in such a way that, regardless of their position after adjustment, no part of these mirrors or their holders is less than 2 m from the ground when the vehicle is under a load corresponding to its prescribed GVW declared by vehicle manufacturer. These mirrors shall not, however, be mounted on vehicles the cab height of which is such as to prevent compliance with this requirement. In this case another device for indirect vision is not mandatory. Note : In the following cases, fitment of rear view mirror meeting the conditions of clause 15.2.2.7 is considered not possible: Whether the requirement of parts of rear-view mirror cannot be fitted above 2m from the ground, to achieve a field of vision, shall be verified as follows: Vehicles with the ocular point of the driver ≤ 2m from the ground under prescribed GVW declared by vehicle manufacturer. In other cases, manufacturer demonstrates the condition in an appropriate layout sketch.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "Subject to the requirements of 15.2.2.5, 15.2.2.6 and 15.2.2.7, devices for indirect vision may project beyond the permissible maximum widths of vehicles",
+    "rule": "15.2.2.8",
+    "description": "Subject to the requirements of 15.2.2.5, 15.2.2.6 and 15.2.2.7, devices for indirect vision may project beyond the permissible maximum widths of vehicles.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "All Class VII mirrors shall be attached in such a way that they remain in a stable position under normal vehicle driving conditions",
+    "rule": "15.2.2.9",
+    "description": "All Class VII mirrors shall be attached in such a way that they remain in a stable position under normal vehicle driving conditions.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "Position",
+    "rule": "15.2.2.10",
+    "description": "If the vehicle is fitted with anything other than safety glazing material in the field of vision prescribed in clause 15.2.4.1, fitment of rear-view device Class I for categories of M1 and N1 is optional. In such cases, the field of vision requirements need not be complied with.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "Position",
+    "rule": "15.2.2.11",
+    "description": "Class III Main rear-view device are permitted in the place of Class II Main rear-view device. In such cases, field of vision prescribed for Class III device shall be complied with.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "Fitment of Class VI device is optional on vehicles which are not forward control. (see 12.5)",
+    "rule": "15.2.2.12",
+    "description": "Fitment of Class VI device is optional on vehicles which are not forward control. (see 12.5)",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "If a Class I mirror is fitted, it shall be capable of being adjusted by the driver from driving position",
+    "rule": "15.2.3.1",
+    "description": "If a Class I mirror is fitted, it shall be capable of being adjusted by the driver from driving position.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "Adjustment",
+    "rule": "15.2.3.2",
+    "description": "If a Class II, III, IV or VII mirror is fitted on the driver's side, it shall be capable of being adjusted from inside the vehicle while the door is closed, although the window may be open. The mirror may, however, be locked in position from the outside.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "Adjustment",
+    "rule": "15.2.3.3",
+    "description": "The requirements of clause 15.2.3.2 do not apply to mirrors which, after having been knocked out of alignment, may be returned to their former position without the need for adjustment.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "Class I rear-view device",
+    "rule": "15.2.4.1",
+    "description": "The field of vision shall be such that the driver is able to see at least a 20 m wide, flat, horizontal portion of the road centred on the vertical longitudinal median plane of the vehicle and extending from 60 m behind the driver's ocular points (Figure 4) to the horizon. Figure 4 Class I Field of vision of",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "main rear-view device on the driver's side",
+    "rule": "15.2.4.2.1",
+    "description": "The field of vision shall be such that the driver is able to see at least a 5 m wide, flat, horizontal portion of the road, which is bounded by a plane which is parallel to the median longitudinal vertical plane and passing through the outermost point of the vehicle on the driver's side of the vehicle and extends from 30 m behind the driver's ocular points to the horizon. In addition, the road shall be visible to the driver over a width of 1 m, which is bounded by a plane parallel to the median longitudinal vertical plane and passing through the outermost point of the vehicle starting from a point 4 m behind the vertical plane passing through the driver's ocular points (see Figure 5).",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "Main rear-view mirror device on the passenger's side",
+    "rule": "15.2.4.2.2",
+    "description": "The field of vision shall be such that the driver is able to see at least a 5 m wide, flat, horizontal portion of the road, which is bounded on the passenger's side by a plane parallel to the median longitudinal vertical plane of the vehicle and passing through the outermost point of the vehicle on the passenger's side and which extends from 30 m behind the driver's ocular points to the horizon. In addition, the road shall be visible to the driver over a width of 1 m, which is bounded by a plane parallel to the median longitudinal vertical plane and passing through the outermost point of the vehicle starting from a point 4 m behind the vertical plane passing through the driver's ocular points (see Figure 5). Figure 5 Class II Field of vision of",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "Main rear-view device on the driver's side",
+    "rule": "15.2.4.3.1",
+    "description": "The field of vision shall be such that the driver is able to see at least a 4 m wide, flat, horizontal portion of the road, which is bounded by a plane parallel to the median longitudinal vertical plane and passing through the outermost point of the vehicle on the driver's side of the vehicle and extends from 20 m behind the driver's ocular points to the horizon (see Figure 6). In addition, the road shall be visible to the driver over a width of 1 m, which is bounded by a plane parallel to the median longitudinal vertical plane and passing through the outermost point of the vehicle starting from a point 4 m behind the vertical plane passing through the driver's ocular points.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "Main rear-view device on the passenger's side",
+    "rule": "15.2.4.3.2",
+    "description": "The field of vision shall be such that the driver is able to see at least a 4 m wide flat, horizontal portion of the road which is bounded by a plane parallel to the median longitudinal vertical plane passing through the outermost point of the vehicle on the passenger's side and which extends from 20 m behind the driver's ocular points to the horizon (see Figure 6). In addition, the road shall be visible to the driver over a width of 1 m, which is bounded by a plane parallel to the median longitudinal vertical plane and passing through the outermost point of the vehicle starting from a point 4 m behind the vertical plane passing through the driver's ocular points. Figure 6 Class III Field of vision of",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "Class IV \"Wide-angle\" view device",
+    "rule": "15.2.4.4",
+    "description": "The field of vision shall be such that the driver is able to see at least a 15 m wide, flat, horizontal portion of the road, which is bounded by a plane parallel to the median longitudinal vertical plane of the vehicle and passing through the outermost point of the vehicle on the driver's side and which extends from at least 10 m to 25 m behind the driver's ocular points. In addition, the road shall be visible to the driver over a width of 4.5 m, which is bounded by a plane parallel to the median longitudinal vertical plane and passing through the outermost point of the vehicle starting from a point 1.5 m behind the vertical plane passing through the driver's ocular points (see Figure 7). The field of vision shall be such that the driver is able to see at least a 15 m wide, flat, horizontal portion of the road, which is bounded by a plane parallel to the median longitudinal vertical plane of the vehicle and passing through the outermost point of the vehicle on the passenger's side and which extends from at least 10 m to 25 m behind the driver's ocular points. In addition, the road shall be visible to the driver over a width of 4.5 m, which is bounded by a plane parallel to the median longitudinal vertical plane and passing through the outermost point of the vehicle starting from a point 1.5 m behind the vertical plane passing through the driver's ocular points (see Figure 7). Figure 7 Class IV Field of vision - 15.2.4.5. \" Class V close-proximity view device The field of vision shall be such that the driver is able to see a flat horizontal portion of the road along the side of the vehicle, bounded by the following vertical planes (see Figures 8a and 8b): of the vehicle bumper is less than 1 m in front of the vertical plane passing through the driver's ocular points, the field of vision shall be limited to that plane. - 15.2.4.5.5. In case the field of vision described in Figures 8a and 8b is able to be perceived through the combination of the field of vision from a Class IV wide-angle view device and that of a Class VI front view device, the installation of a Class V close proximity view device is not compulsory. Figures 8a and 8b Class V Field of vision Figures 8c and 8d Larger field of vision on the passenger side",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "The plane parallel to the median longitudinal vertical plane of the vehicle which passes through the outermost point of the vehicle cab on the passenger's side;",
+    "rule": "15.2.4.5.1",
+    "description": "The plane parallel to the median longitudinal vertical plane of the vehicle which passes through the outermost point of the vehicle cab on the passenger's side;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "in the transverse direction, the parallel plane passing at a distance of 2 m in front of the plane mentioned in clause 15.2.4.5.1. above",
+    "rule": "15.2.4.5.2",
+    "description": "in the transverse direction, the parallel plane passing at a distance of 2 m in front of the plane mentioned in clause 15.2.4.5.1. above",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "to the rear, the plane parallel to the vertical plane passing through the driver's ocular points and situated at a distance of 1.75 m behind that plane;",
+    "rule": "15.2.4.5.3",
+    "description": "to the rear, the plane parallel to the vertical plane passing through the driver's ocular points and situated at a distance of 1.75 m behind that plane;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "Fields of vision",
+    "rule": "15.2.4.5.4",
+    "description": "to the front, the plane parallel to the vertical plane passing through the driver's ocular points and situated at a distance of 1 m in front of that plane. If the vertical transverse plane passing through the leading edge",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "Fields of vision",
+    "rule": "15.2.4.5.6",
+    "description": "On the passenger side only, the field of vision shall also be such that the driver can see a flat horizontal portion of the road along the side of the vehicle which is outside the field defined in clauses 15.2.4.5.1. to 15.2.4.5.4. above but within the field bounded by the following vertical planes; the front of this field of vision may be rounded off with a radius of 2,000 mm (see Figures 8c and 8d):",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "In the transverse direction, the parallel plane passing at a distance of 4.5 m in front of the plane mentioned in clause 15.2.4.5.1. above",
+    "rule": "15.2.4.5.7",
+    "description": "In the transverse direction, the parallel plane passing at a distance of 4.5 m in front of the plane mentioned in clause 15.2.4.5.1. above.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "To the rear, the plane parallel to the vertical plane passing through the driver's ocular points and situated at a distance of 1.75 m behind that plane",
+    "rule": "15.2.4.5.8",
+    "description": "To the rear, the plane parallel to the vertical plane passing through the driver's ocular points and situated at a distance of 1.75 m behind that plane.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "Fields of vision",
+    "rule": "15.2.4.5.9",
+    "description": "To the front, the plane parallel to the vertical plane passing through the driver's ocular points and situated at a distance of 3 m in front of that plane. This field of vision may be partially provided by a frontview device (Class VI).",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "Fields of vision",
+    "rule": "15.2.4.5.10",
+    "description": "The field of vision prescribed in clause 15.2.4.5.6. to 15.2.4.5.9. above may be partially provided by a wide-angle view device (Class IV) or a combination of a close-proximity view device (Class V) and a front-view device Class VI).",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "The area prescribed in clause 15.2.4.5.6. to 15.2.4.5.9. above may be viewed using a combination of direct view and indirect vision devices (of Class IV, V, VI)",
+    "rule": "15.2.4.5.11",
+    "description": "The area prescribed in clause 15.2.4.5.6. to 15.2.4.5.9. above may be viewed using a combination of direct view and indirect vision devices (of Class IV, V, VI).",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "The area prescribed in clause 15.2.4.5.6. to 15.2.4.5.9. above may be viewed using a combination of direct view and indirect vision devices (of Class IV, V, VI)",
+    "rule": "15.2.4.5.11.1",
+    "description": "If an indirect vision device of Class IV is used to provide a part of the field of vision prescribed in clause 15.2.4.5.6. to 15.2.4.5.9., its hall be adjusted in a way that it simultaneously provides the field of vision prescribed in clause 15.2.4.4.2.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "The area prescribed in clause 15.2.4.5.6. to 15.2.4.5.9. above may be viewed using a combination of direct view and indirect vision devices (of Class IV, V, VI)",
+    "rule": "15.2.4.5.11.2",
+    "description": "If an indirect vision device of Class V is used to provide a part of the field of vision prescribed in clause 15.2.4.5.6. to 15.2.4.5.9., it shall be adjusted in a way that it simultaneously provides the field of vision prescribed in clauses 15.2.4.5.1. to 15.2.4.5.4",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "The area prescribed in clause 15.2.4.5.6. to 15.2.4.5.9. above may be viewed using a combination of direct view and indirect vision devices (of Class IV, V, VI)",
+    "rule": "15.2.4.5.11.3",
+    "description": "If an indirect vision device of Class VI is used to provide a part of the field of vision prescribed in clause 15.2.4.5.6. to 15.2.4.5.9., it shall be adjusted in a way that it simultaneously provides the field of vision prescribed in clause 15.2.4.6.1.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "Fields of vision",
+    "rule": "15.2.4.5.12",
+    "description": "The field of vision prescribed in clauses15.2.4.5.1. to 15.2.4.5.4. - may be viewed using a combination of a close-proximity view device (Class V) and a wide-angle view device (Class IV). In such cases the close-proximity view mirror (Class V) shall provide at least 90 per cent of the field of vision prescribed in clause 15.2.4.5.1 to 15.2.4.5.4. and the Class IV mirror shall be adjusted in a way that it simultaneously provides the field of vision prescribed in clause 15.2.4.4.2.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "Fields of vision",
+    "rule": "15.2.4.5.13",
+    "description": "Clause 15.2.4.5.6. to 15.2.4.5.12. above shall not apply to a vehicle where any part of a Class V mirror, if fitted, or its holder, is less than 2.4 m above the ground, regardless of its position after adjustment.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "Clause 15.2.4.5.6. to 15.2.4.5.12. above shall not apply to a vehicle of category M2 or M3",
+    "rule": "15.2.4.5.14",
+    "description": "Clause 15.2.4.5.6. to 15.2.4.5.12. above shall not apply to a vehicle of category M2 or M3.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "Class VI front-view device",
+    "rule": "15.2.4.6",
+    "description": "- (a) a transverse vertical plane through the outermost point of the front of the vehicle, - (b) a transverse vertical plane 2000 mm in front of the plane defined in (a), - (c) a longitudinal vertical plane parallel to the longitudinal vertical median plane going through the outermost side of the vehicle at the driver's side and, - (d) a longitudinal vertical plane parallel to the longitudinal vertical median plane 2000 mm outside the outermost side of the vehicle opposite to the driver's side The front of this field of vision opposite to the driver's side may be rounded off with a radius of 2,000 mm (see Figure 9). For the defined field of vision, see also clause 15.2.4.9.2. The provisions for Class VI front view device are compulsory for forward controlled (as defined in clause 12.5) vehicles of categories N2 > 7.5 t and N3. If vehicles of these categories cannot fulfil the requirements by using a front-view device, a vision support system shall be used. In the case of a vision support system this device shall be able to detect an object of 50 cm height and with a diameter of 30 cm within the field defined in figure 9. Figure 9 Class VI Field of vision of 2.50 m wide, flat, horizontal portion of the road, which is bounded by a plane parallel to the median longitudinal vertical plane and passing through the outermost point of the vehicle on the driver's side of the vehicle and extends from 10 m behind the driver's ocular points to the horizon (see Figure 10). The field of vision shall be such that the driver is able to see at least a 4 m wide flat, horizontal portion of the road which is bounded by a plane parallel to the median longitudinal vertical plane passing through the outermost point of the vehicle on the passenger's side and which extends from 20 m behind the driver's ocular points to the horizon (see Figure 10). Figure 10 Class VII Field of vision of - 15.2.4.8. In the case of mirrors consisting of several reflecting surfaces which are either of different curvature or make an angle with each other, at least one of the reflecting surfaces shall provide the field of vision and have the dimensions (6.1.2.1.2.2 of AIS-001 (Part 1) (Rev. 2)) specified for the class to which they belong.",
+    "AIS": [
+      "AIS-001"
+    ]
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "Class VI front-view device",
+    "rule": "15.2.4.6.2",
+    "description": "However, if the driver is able to see, taking into account the obstructions by the A-pillars, a straight line 300 mm in front of the vehicle at a height of 1,200 mm above the road surface and which is situated between a longitudinal vertical plane parallel to the longitudinal vertical median plane going through the outermost side of the vehicle at the driver's side and a longitudinal vertical plane parallel to the longitudinal vertical median plane 900 mm outside the outermost side of the vehicle opposite to the driver's side, a Class VI device for indirect vision is not mandatory.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "Class VII main rear-view mirror",
+    "rule": "15.2.4.7",
+    "description": "Class VII main rear-view mirror",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "Main rear-view mirror on the driver's side The field of vision shall be such that the driver is able to see at least a",
+    "rule": "15.2.4.7.1",
+    "description": "Main rear-view mirror on the driver's side The field of vision shall be such that the driver is able to see at least a",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "Main rear-view mirror on the passenger's side",
+    "rule": "15.2.4.7.2",
+    "description": "Main rear-view mirror on the passenger's side",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "Class I rear-view device",
+    "rule": "15.2.4.9.1",
+    "description": "The field of vision may be reduced by the presence of devices such as, sun visors, windscreen wipers, heating elements and stop lamp of category S3, provided that all these devices together do not obscure more than 15 percent of the prescribed field of vision. Headrest or framework or bodywork such as window columns of rear split doors, rear window frames shall be excluded from the calculations. This requirement shall be tested by projection on to a vertical plane at right angle to the longitudinal centre plane of the vehicle. The degree of obstruction shall be measured with the sun visors folded back.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "Classes II, III, IV, V, and VI devices for indirect vision and Class VII mirrors",
+    "rule": "15.2.4.9.2",
+    "description": "In the fields of vision specified above, obstruction due to the bodywork and its components, such as other cab devices for indirect vision, door handles, outline marker lights, direction indicators and front and rear bumpers, as well as reflective-surface cleaning components, shall not be taken into account if they are responsible for a total obstruction of less than 10 percent of the specified field of vision. In the case of a vehicle designed and constructed for special purposes where, due to its special features, it is not possible to meet this requirement, the obstruction of the required field of vision of a Class VI mirror caused by the special features may be more than 10 percent but not more than necessary for its special function.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "15",
+    "subheading": "Test procedure",
+    "rule": "15.2.4.10",
+    "description": "The field of vision shall be determined by placing powerful light sources at the ocular points and examining the light reflected on the vertical monitoring screen. Other equivalent methods may be used.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENT FOR DEVICES FOR INDIRECT VISION OTHER THAN MIRRORS",
+    "heading_number": "16",
+    "subheading": "Class I to IV camera-monitor devices (see Annex M)",
+    "rule": "16.1",
+    "description": "Unless otherwise provided in this standard, the definitions and symbols used in clause 16.1. are in accordance with ISO 16505:2015, Chapters 3 and 4. Unless otherwise provided in this standard the requirements given in clause 16.1. shall be verified according to the test procedures given in ISO 16505:2015, Chapter 7, where available.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENT FOR DEVICES FOR INDIRECT VISION OTHER THAN MIRRORS",
+    "heading_number": "16",
+    "subheading": "Intended use, activation and deactivation",
+    "rule": "16.1.1",
+    "description": "The intended use shall be mentioned within the operator's manual. The procedure for activation and deactivation of the CMS of Classes II and III shall allow a safe use of the vehicle. The CMS shall be activated when the vehicle is opened (e.g. unlocking of the doors, opening of a front door or any other means by the choice of the manufacturer). In addition to the requirements mentioned in clause 15.2.1.1.2., after each engine switch-off the system shall remain operational for a period of at least T1 = 120 s. After T1 period and for a period of at least T2 = (420-T1) seconds the system shall be able to be reactivated such that the required field of vision is made available within 1 second by manoeuvring any front door opening automatically and, if available, manually by the driver. After T2 period the system shall be able to be reactivated within 7 seconds (e.g. by initiating any front door opening process). Notwithstanding the provisions above, any other concept to activate or deactivate the system shall be demonstrated to the satisfaction of the testing agency within the safety concept that is provided according to the provisions in Annex M, clause 2.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENT FOR DEVICES FOR INDIRECT VISION OTHER THAN MIRRORS",
+    "heading_number": "16",
+    "subheading": "Default view",
+    "rule": "16.1.1.1",
+    "description": "In default view the CMS shall show the field of view at least as defined in clause 15.2.4., with at least the required magnification and resolution as defined in clause 16.1.3. In the case of mirror and CMS dual function system of Class I, the CMS mode shall be set by the driver. Activation and deactivation device shall be located directly on the mirror and CMS dual function system.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENT FOR DEVICES FOR INDIRECT VISION OTHER THAN MIRRORS",
+    "heading_number": "16",
+    "subheading": "Temporarily modified view",
+    "rule": "16.1.1.1.1",
+    "description": "To enable an improved view in special manoeuvres (e.g., where in the case of conventional mirrors the field of view is usually changed by the driver moving their head to achieve incident angle to the mirror), it shall be permitted to change temporarily the field of view, so that the requirements laid down in clause 15.2.4. (Field of vision) and 16.1.3. (Magnification and resolution) may not be fulfilled during this temporarily modified view. The operation of this function shall be intuitive to the driver and not cause additional safety risks such as additional blind spots. In the case of articulated vehicles, this includes an adaptation of the modified view to cover the full length of the vehicle combination. The operation of the function shall cease, when the maneuver has been completed and the CMS shall return to the default view. It shall be indicated to the driver, that a temporarily modified view is displayed. At any time, the driver shall be able to deactivate the function. The operator's manual shall inform the driver accordingly.' The vehicle manufacturer shall demonstrate the improvement of the view by an analysis to the satisfaction of the Testing agency. If manual adjustment is provided, the operator's manual shall provide information on how to change the luminance/contrast. Each overlay shall not exceed 2.5 per cent of the required field of view displayed surface of the corresponding class. The total surface of all obstructions shall not exceed the provision of clause 15.2.4.9.1. or 15.2.4.9.2. at the same time. Overlay and any other obstruction surface shall be determined (for example on screenshots) taking into account the worst case(s). Non-operation of the system shall be recognizable to the driver is (e.g. CMS failure by, i.e. warning indication, display information, absence of status indicator). The information for the driver shall be explained in the operator's manual.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENT FOR DEVICES FOR INDIRECT VISION OTHER THAN MIRRORS",
+    "heading_number": "16",
+    "subheading": "Luminance and contrast adjustment",
+    "rule": "16.1.1.2",
+    "description": "Luminance and contrast adjustment",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENT FOR DEVICES FOR INDIRECT VISION OTHER THAN MIRRORS",
+    "heading_number": "16",
+    "subheading": "Intended use, activation and deactivation",
+    "rule": "16.1.1.3",
+    "description": "Overlay requirements within the minimum required field of vision Overlays shall display only safety-related rearward vision information. All overlays shall be considered as an obstruction regardless of their transparency.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENT FOR DEVICES FOR INDIRECT VISION OTHER THAN MIRRORS",
+    "heading_number": "16",
+    "subheading": "Operating readiness (System availability)",
+    "rule": "16.1.2",
+    "description": "Operating readiness (System availability)",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENT FOR DEVICES FOR INDIRECT VISION OTHER THAN MIRRORS",
+    "heading_number": "16",
+    "subheading": "Magnification factor",
+    "rule": "16.1.3.1",
+    "description": "The minimum and the average magnification factors of the CMS, in both horizontal and vertical directions shall not be lower than the magnification factors indicated below. The minimum magnification factor shall not be less than: - (a) for Class I: 0.31; - (b) for Class II (driver's side): 0.26; - (c) for Class III (driver's side): 0.29; - (d) for Class IV (driver's side): 0.054; - (e) for Class II (passenger's side): 0.13; - (f) for Class III (passenger's side): 0.19; - (g) for Class IV (passenger's side): 0.016. The average magnification factor shall not be less than: - (h) for Class I: 0.33; - (i) for Class II (driver's side): 0.31; - (j) for Class III (driver's side): 0.31; - (k) for Class IV (driver's side): 0.091; - (l) for Class II (passenger's side): 0.16; - (m) for Class III (passenger's side): 0.20; - (n) for Class IV (passenger's side): 0.046",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENT FOR DEVICES FOR INDIRECT VISION OTHER THAN MIRRORS",
+    "heading_number": "16",
+    "subheading": "Resolution (MTF)",
+    "rule": "16.1.3.2",
+    "description": "The resolution (MTF) defines the minimum distinguishable details observable in an image as is represented by the MTF10. For reasons of simplicity the requirement is defined assuming an aspect ratio of 1:1. Resolution MTF10, at the centre of the monitor defined size shall fulfil the following requirements <!-- formula-not-decoded --> Resolution MTF10, at the corner measurement points as illustrated in the figure below shall fulfil the following requirements: <!-- formula-not-decoded -->",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENT FOR DEVICES FOR INDIRECT VISION OTHER THAN MIRRORS",
+    "heading_number": "16",
+    "subheading": "Magnification aspect ratio",
+    "rule": "16.1.4",
+    "description": "In the required field of view, the difference between the average magnification factor for horizontal and vertical direction of a CMS shall satisfy the following equations depending on the individual mirror classes. For devices Class I the acceptable range shall be: <!-- formula-not-decoded --> For devices Class II the acceptable range shall be: <!-- formula-not-decoded --> For devices Class III the acceptable range shall be: <!-- formula-not-decoded --> For devices Class IV no restriction in magnification ratio is required.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENT FOR DEVICES FOR INDIRECT VISION OTHER THAN MIRRORS",
+    "heading_number": "16",
+    "subheading": "The centre of the monitor(s) shall not be below a plane passing through the driver's ocular points, as defined in clause 12.1., and declined 30° below",
+    "rule": "16.1.5.1",
+    "description": "The centre of the monitor(s) shall not be below a plane passing through the driver's ocular points, as defined in clause 12.1., and declined 30° below.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENT FOR DEVICES FOR INDIRECT VISION OTHER THAN MIRRORS",
+    "heading_number": "16",
+    "subheading": "The arrangement of the monitor(s) inside the vehicle shall be convenient to the driver",
+    "rule": "16.1.5.2",
+    "description": "The arrangement of the monitor(s) inside the vehicle shall be convenient to the driver. Thus, the image of the right-side field of view shall be presented to the right of the longitudinal vertical plane through the ocular reference point, defined in clause 12.6. The image of the left side field of view shall be presented to the left of the longitudinal vertical plane through the ocular reference point. If the CMS shows more than one field of vision on the same display, noncontinuous images shall be clearly separated from each other. If the field of vision from different classes of devices for indirect vision are shown on the monitor(s) without hiding any part of the required field of vision, a combined continuous image is allowed. In this case, a clear separation of the different fields of vision is not necessary and any changes in magnification may be indicated to the driver using indication lines. Indication lines shall not hide information",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENT FOR DEVICES FOR INDIRECT VISION OTHER THAN MIRRORS",
+    "heading_number": "16",
+    "subheading": "The monitor defined size shall be visible without any obstruction from the ocular reference point. A virtual testing is acceptable",
+    "rule": "16.1.5.3",
+    "description": "The monitor defined size shall be visible without any obstruction from the ocular reference point. A virtual testing is acceptable.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENT FOR DEVICES FOR INDIRECT VISION OTHER THAN MIRRORS",
+    "heading_number": "16",
+    "subheading": "Obstruction of the driver's direct view caused by the installation of a device for indirect vision shall be restricted to a minimum",
+    "rule": "16.1.6",
+    "description": "Obstruction of the driver's direct view caused by the installation of a device for indirect vision shall be restricted to a minimum",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENT FOR DEVICES FOR INDIRECT VISION OTHER THAN MIRRORS",
+    "heading_number": "16",
+    "subheading": "Decreasing accommodation",
+    "rule": "16.1.7",
+    "description": "The installation of the monitor inside the vehicle should follow the needs of the intended user group. The operator's manual shall provide information on the decreasing capacity of the human being to accommodate and shall recommend suitable assistance for the user's needs. The requirements to be applied to the safety aspects of electronic systems for indirect vision are given in Annex M, clause 2.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENT FOR DEVICES FOR INDIRECT VISION OTHER THAN MIRRORS",
+    "heading_number": "16",
+    "subheading": "Safety of electronic systems for indirect vision",
+    "rule": "16.1.8",
+    "description": "Safety of electronic systems for indirect vision",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENT FOR DEVICES FOR INDIRECT VISION OTHER THAN MIRRORS",
+    "heading_number": "16",
+    "subheading": "Classes V and VI Camera-monitor devices",
+    "rule": "16.2.1",
+    "description": "A device for indirect vision shall give such performances that a critical object can be observed by the driver over the entire required field of vision, taking into account the critical perception according the procedure of Annex K. Alternatively, the determination of the displayed object size shall be performed according to Annex L.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENT FOR DEVICES FOR INDIRECT VISION OTHER THAN MIRRORS",
+    "heading_number": "16",
+    "subheading": "Obstruction of the driver's direct view caused by the installation of a device for indirect vision shall be restricted to a minimum",
+    "rule": "16.2.2",
+    "description": "Obstruction of the driver's direct view caused by the installation of a device for indirect vision shall be restricted to a minimum.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENT FOR DEVICES FOR INDIRECT VISION OTHER THAN MIRRORS",
+    "heading_number": "16",
+    "subheading": "Installation requirements for the monitor",
+    "rule": "16.2.3",
+    "description": "Installation requirements for the monitor The viewing direction of the monitor shall roughly be the same direction as the one for the main mirror.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENT FOR DEVICES FOR INDIRECT VISION OTHER THAN MIRRORS",
+    "heading_number": "16",
+    "subheading": "Vehicles may be equipped with additional devices for indirect vision",
+    "rule": "16.2.4",
+    "description": "Vehicles may be equipped with additional devices for indirect vision.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "REQUIREMENT FOR DEVICES FOR INDIRECT VISION OTHER THAN MIRRORS",
+    "heading_number": "16",
+    "subheading": "Classes V and VI Camera-monitor devices",
+    "rule": "16.2.5",
+    "description": "The provisions of this standard do not apply to the surveillance cameramonitor-recording devices defined in 2.3 of AIS-001(Part1) (Rev.2). Exterior surveillance cameras either shall be mounted at least 2 m above the ground when the vehicle is under a load corresponding to its maximum technical permissible mass, or, if their lower edge is less than 2 m from the ground, shall not project more than 50 mm beyond the overall width of the vehicle measured without this device and have a radius of curvature of not less than 2.5 mm",
+    "AIS": [
+      "AIS-001"
+    ]
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "MODIFICATIONS OF THE VEHICLE TYPE AND EXTENSION OF TYPE APPROVAL",
+    "heading_number": "17",
+    "subheading": null,
+    "rule": "17.1",
+    "description": "Every functional modification in technical specifications pertaining to installation of rear-view mirror declared in accordance with clause 13.1 shall be intimated to the testing agency. Testing agency may then consider, whether,",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "MODIFICATIONS OF THE VEHICLE TYPE AND EXTENSION OF TYPE APPROVAL",
+    "heading_number": "17",
+    "subheading": "Vehicle with modifications complies with specified requirements, or,",
+    "rule": "17.1.1",
+    "description": "Vehicle with modifications complies with specified requirements, or,",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "MODIFICATIONS OF THE VEHICLE TYPE AND EXTENSION OF TYPE APPROVAL",
+    "heading_number": "17",
+    "subheading": "any testing is required",
+    "rule": "17.1.2",
+    "description": "any testing is required.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "MODIFICATIONS OF THE VEHICLE TYPE AND EXTENSION OF TYPE APPROVAL",
+    "heading_number": "17",
+    "subheading": "For considering whether testing is required or not, guidelines given in Annex M shall be followed",
+    "rule": "17.2",
+    "description": "For considering whether testing is required or not, guidelines given in Annex M shall be followed.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "MODIFICATIONS OF THE VEHICLE TYPE AND EXTENSION OF TYPE APPROVAL",
+    "heading_number": "17",
+    "subheading": "In case of 17.1.2, checks for those parameters which are affected by the modifications only need to be carried out",
+    "rule": "17.3",
+    "description": "In case of 17.1.2, checks for those parameters which are affected by the modifications only need to be carried out.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "MODIFICATIONS OF THE VEHICLE TYPE AND EXTENSION OF TYPE APPROVAL",
+    "heading_number": "17",
+    "subheading": "In the event of. 17.1.1. or in the case of 17.1.2 after successful compliance to requirements, the certificate of compliance shall be validated for the modified version",
+    "rule": "17.4",
+    "description": "In the event of. 17.1.1. or in the case of 17.1.2 after successful compliance to requirements, the certificate of compliance shall be validated for the modified version.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "CONFORMITY OF PRODUCTION",
+    "heading_number": "18",
+    "subheading": null,
+    "rule": "18",
+    "description": "Every vehicle approved under this standard shall be so manufactured as to conform to the type approved by meeting the requirements set out in clause 15 or 16 as applicable Note : Verification of conformity of production will be applicable when the Whole Vehicle COP procedure is implemented.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "TRANSITIONAL PROVISIONS",
+    "heading_number": "22",
+    "subheading": null,
+    "rule": "22.1",
+    "description": "At the request of the applicant, type approvals for compliance to AIS-002 (Part 1) (Rev. 2): 2023, shall be granted by testing agencies from 17 th May 2023 (date of adoption of this standard in CMVR-TSC). Such type approvals shall be deemed to be compliance to AIS-002 (Part 1) (Rev.1):2011.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "TRANSITIONAL PROVISIONS",
+    "heading_number": "22",
+    "subheading": null,
+    "rule": "22.2",
+    "description": "At the request of applicant, type approval to the compliance to AIS-002 (Part 1) (Rev.1):2011 shall be granted up to the notified date of implementation of AIS-002 (Part 1) (Rev. 2): 2023.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "TRANSITIONAL PROVISIONS",
+    "heading_number": "22",
+    "subheading": "Type approvals issued for compliance to AIS-002 (Part 1) (Rev.1):2011 shall",
+    "rule": "22.3",
+    "description": "Type approvals issued for compliance to AIS-002 (Part 1) (Rev.1):2011 shall:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "TRANSITIONAL PROVISIONS",
+    "heading_number": "22",
+    "subheading": "be extended for L category vehicles without any further verification, for compliance to AIS-002 (Part 1) (Rev. 2): 2023",
+    "rule": "22.3.1",
+    "description": "be extended for L category vehicles without any further verification, for compliance to AIS-002 (Part 1) (Rev. 2): 2023.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "TRANSITIONAL PROVISIONS",
+    "heading_number": "22",
+    "subheading": "not be extended for M and N category vehicles for compliance to AIS-002 (Part 1) (Rev. 2): 2023",
+    "rule": "22.3.2",
+    "description": "not be extended for M and N category vehicles for compliance to AIS-002 (Part 1) (Rev. 2): 2023. Note: Additional verification for the above need not be carried out, if compliance to the above requirements has already been established during the type approval as per AIS-002 (Part 1) (Rev.1):2011.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "TRANSITIONAL PROVISIONS",
+    "heading_number": "22",
+    "subheading": "Extension of Approvals for engineering and administrative changes",
+    "rule": "22.4",
+    "description": "Extension of Approvals for engineering and administrative changes:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "TRANSITIONAL PROVISIONS",
+    "heading_number": "22",
+    "subheading": "Extension of Approvals for engineering and administrative changes",
+    "rule": "22.4.1",
+    "description": "In the case of 22.1, extensions shall be granted subject to the conditions of AIS-002 (Part 1) (Rev. 2): 2023. Such extensions shall be deemed to be compliance to AIS-002 (Part 1) (Rev.1):2011.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "TRANSITIONAL PROVISIONS",
+    "heading_number": "22",
+    "subheading": "Extension of Approvals for engineering and administrative changes",
+    "rule": "22.4.2",
+    "description": "In the case of 22.2, extensions shall be granted subject to conditions of AIS- 002 (Part 1) (Rev.1):2011 till the notified date of implementation of AIS-002 (Part 1) (Rev.2): 2023. PRINTED BY THE AUTOMOTIVE RESEARCH ASSOCIATION OF INDIA P. B. NO. 832, PUNE 411 004 ON BEHALF OF AUTOMOTIVE INDUSTRY STANDARDS COMMITTEE UNDER CENTRAL MOTOR VEHICLES RULES - TECHNICAL STANDING COMMITTEE SET-UP BY MINISTRY OF ROAD TRANSPORT & HIGHWAYS (DEPARTMENT OF ROAD TRANSPORT & HIGHWAYS) GOVERNMENT OF INDIA - 22.4.2 In the case of 21.1, extensions shall be granted subject to the conditions of AIS-002 (Part 1) (Rev. 2): 2023. Such extensions shall be deemed to be compliance to AIS-002 (Part 1) (Rev.1):2011. - 22.4.2 In the case of 21.2, extensions shall be granted subject to conditions of AIS-002 (Part 1) (Rev.1):2011 till the notified date of implementation of AIS-002 (Part 1) (Rev.2): 2023.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "AMENDMENTS TO UN REGULATIONS AFTER THE LEVEL DESCRIBED IN 0.3 OF INTRODUCTION",
+    "heading_number": "23",
+    "subheading": "Supplements",
+    "rule": "23.1",
+    "description": "In case of changes in UN regulation , which are issued as supplements (Supplements do not affect the earlier type approvals) at the request of applicant, approval of compliance to this standard shall be issued taking into account the changes arising out of such supplement(s) to UN regulation with approval from Chairman AISC. This shall be incorporated in the test report. Note : Such changes will be considered for inclusion in this standard at the time of its next amendment /revision.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "AMENDMENTS TO UN REGULATIONS AFTER THE LEVEL DESCRIBED IN 0.3 OF INTRODUCTION",
+    "heading_number": "23",
+    "subheading": "Series of amendments",
+    "rule": "23.2",
+    "description": "Changes in UN regulation, which are issued as series of amendments (series of amendments may affect the earlier type approvals) will not be considered for issuing approval to this standard. However, Chairman, AISC may, on a case to case basis, permit to accept latest series of amendments. This shall be incorporated in the test report. Note : Such changes will be considered for inclusion in this standard at the time of its next revision.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "7_AIS_002_Part1_Rev2_&_Amd_a9d73d40-acb0-4b0b-a89c-0f9f5fe09787.pdf",
+    "heading": "th May 2024",
+    "heading_number": "29",
+    "subheading": null,
+    "rule": "29",
+    "description": "th May 2024 2/2 (Revision 2) PRINTED BY THE AUTOMOTIVE RESEARCH ASSOCIATION OF INDIA P.B. NO. 832, PUNE 411 004 ON BEHALF OF AUTOMOTIVE INDUSTRY STANDARDS COMMITTEE UNDER CENTRAL MOTOR VEHICLE RULES - TECHNICAL STANDING COMMITTEE SET-UP BY MINISTRY OF ROAD TRANSPORT & HIGHWAYS (DEPARTMENT OF ROAD TRANSPORT & HIGHWAYS) GOVERNMENT OF INDIA May 2023",
+    "AIS": null
+  }
+]

@@ -1,0 +1,460 @@
+[
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "Page No. 3, clause 5.1 Table, 3 rd row",
+    "heading_number": "1",
+    "subheading": null,
+    "rule": "1",
+    "description": "Substitute following text in 3 rd row of Table for existing text: N 1 with GVW not exceeding 2 T, M1 and L7 ., Field of vision requirements.Mandatory = (F2 + F1) or (F2 + F3). N 1 with GVW not exceeding 2 T, M1 and L7 ., Field of vision requirements.Additional Options = F3 or F1 PRINTED BY THE AUTOMOTIVE RESEARCH ASSOCIATION OF INDIA P. B. NO. 832, PUNE 411 004 ON BEHALF OF AUTOMOTIVE INDUSTRY STANDARDS COMMITTEE UNDER CENTRAL MOTOR VEHICLES RULES - TECHNICAL STANDING COMMITTEE SET-UP BY MINISTRY OF ROAD TRANSPORT & HIGHWAYS (DEPARTMENT OF ROAD TRANSPORT & HIGHWAYS) GOVERNMENT OF INDIA 1. ECE 46 Uniform provisions concerning the approval of rear view mirrors of motor vehicles with regard to the installation of rear view mirrors. This standard specifies installation requirements of interior and exterior rear view mirrors in Automotive vehicles.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "REFERENCES",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2",
+    "description": "ECE R 81 Uniform provisions concerning the approval of rear view mirrors of two wheeled power driven vehicles, with or without side car, with regard to the mounting of rear view mirrors on handle bars.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "REFERENCES",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.1",
+    "description": "1 = Following Indian standards are necessary adjuncts to this standard :. 2.1, 2 = Following Indian standards are necessary adjuncts to this standard :. 2.1, 3 = Following Indian standards are necessary adjuncts to this standard :. , 1 = (1). , 2 = IS 11825-1986 :. , 3 = Method of weighment of automotive vehicles.. , 1 = (2). , 2 = IS 9727 -1981 :. , 3 = Terms and definitions of dimensions for Mopeds.. , 1 = (3). , 2 = IS 9211 -1979. , 3 = Denominations and definitions of weights of road vehicles.. , 1 = (4). , 2 = IS 11422-1985 :. , 3 = Terms and definitions of weights of Scooters and Motorcycles.. , 1 = (5). , 2 = IS 14413-1996 :. , 3 = Automotive vehicles - Tell tales symbols and controls on Two-wheeled and Three-wheeled vehicles.. , 1 = (6). , 2 = IS 14272 (Part 1)- 1995 :. , 3 = Automotive vehicles - Types - Terminology -part 1 - three and four-wheelers.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "REFERENCES",
+    "heading_number": "2",
+    "subheading": "The definitions given in AIS 001 shall apply",
+    "rule": "2.2",
+    "description": "The definitions given in AIS 001 shall apply.",
+    "AIS": [
+      "AIS-001"
+    ]
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "REFERENCES",
+    "heading_number": "2",
+    "subheading": "The definitions given in AIS 001 shall apply",
+    "rule": "2.2.1",
+    "description": "'Type of vehicle in respect of rear view mirrors' means motor vehicles do not differ among themselves in respect of the specifications given in Annex I.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "EEC directive 71/127/EEC as amended by Directive 79/795/EEC, 85/205/EEC, 86/562/EEC, 87/354/EEC and 88/321/EEC",
+    "heading_number": "3",
+    "subheading": null,
+    "rule": "3",
+    "description": "EEC directive 71/127/EEC as amended by Directive 79/795/EEC, 85/205/EEC, 86/562/EEC, 87/354/EEC and 88/321/EEC.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "EEC directive 71/127/EEC as amended by Directive 79/795/EEC, 85/205/EEC, 86/562/EEC, 87/354/EEC and 88/321/EEC",
+    "heading_number": "3",
+    "subheading": "Application for Type Approval",
+    "rule": "3.1",
+    "description": "Application for Type Approval",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "EEC directive 71/127/EEC as amended by Directive 79/795/EEC, 85/205/EEC, 86/562/EEC, 87/354/EEC and 88/321/EEC",
+    "heading_number": "3",
+    "subheading": "The vehicle manufacturer shall submit following information for type approval of a vehicle",
+    "rule": "3.1.1",
+    "description": "The vehicle manufacturer shall submit following information for type approval of a vehicle: Technical specifications of vehicle and mirror which shall include at least the details given in Annex 1.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "EEC directive 71/127/EEC as amended by Directive 79/795/EEC, 85/205/EEC, 86/562/EEC, 87/354/EEC and 88/321/EEC",
+    "heading_number": "3",
+    "subheading": "Modifications/changes in technical specification",
+    "rule": "3.2",
+    "description": "Modifications/changes in technical specification.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "EEC directive 71/127/EEC as amended by Directive 79/795/EEC, 85/205/EEC, 86/562/EEC, 87/354/EEC and 88/321/EEC",
+    "heading_number": "3",
+    "subheading": "Modifications/changes in technical specification",
+    "rule": "3.2.1",
+    "description": "Every functional modification in technical specifications pertaining to installation of rear view mirror declared in accordance with 3.1, shall be intimated to the testing agency. Testing agency may then consider, whether;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "EEC directive 71/127/EEC as amended by Directive 79/795/EEC, 85/205/EEC, 86/562/EEC, 87/354/EEC and 88/321/EEC",
+    "heading_number": "3",
+    "subheading": "Vehicle with modifications complies with specified requirements, or,",
+    "rule": "3.2.1.1",
+    "description": "Vehicle with modifications complies with specified requirements, or,",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "EEC directive 71/127/EEC as amended by Directive 79/795/EEC, 85/205/EEC, 86/562/EEC, 87/354/EEC and 88/321/EEC",
+    "heading_number": "3",
+    "subheading": "any testing is required",
+    "rule": "3.2.1.2",
+    "description": "any testing is required.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "EEC directive 71/127/EEC as amended by Directive 79/795/EEC, 85/205/EEC, 86/562/EEC, 87/354/EEC and 88/321/EEC",
+    "heading_number": "3",
+    "subheading": "For considering whether testing is required or not, guidelines given in Annex 2 shall be followed",
+    "rule": "3.2.2",
+    "description": "For considering whether testing is required or not, guidelines given in Annex 2 shall be followed.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "EEC directive 71/127/EEC as amended by Directive 79/795/EEC, 85/205/EEC, 86/562/EEC, 87/354/EEC and 88/321/EEC",
+    "heading_number": "3",
+    "subheading": "In case of 3.2.1.2, checks for those parameters which are affected by the modifications only need to be carried out",
+    "rule": "3.2.3",
+    "description": "In case of 3.2.1.2, checks for those parameters which are affected by the modifications only need to be carried out.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "EEC directive 71/127/EEC as amended by Directive 79/795/EEC, 85/205/EEC, 86/562/EEC, 87/354/EEC and 88/321/EEC",
+    "heading_number": "3",
+    "subheading": "In the event of 3.2.1.1. or in the case of 3.2.1.2 after successful compliance to requirements, the certificate of compliance shall be validated for the modified version",
+    "rule": "3.2.4",
+    "description": "In the event of 3.2.1.1. or in the case of 3.2.1.2 after successful compliance to requirements, the certificate of compliance shall be validated for the modified version.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "EEC directive 71/127/EEC as amended by Directive 79/795/EEC, 85/205/EEC, 86/562/EEC, 87/354/EEC and 88/321/EEC",
+    "heading_number": "3",
+    "subheading": "These conditions are applicable irrespective of any change in commercial name of the model",
+    "rule": "3.2.5",
+    "description": "These conditions are applicable irrespective of any change in commercial name of the model.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "EEC directive 97/24/EC, Chapter 4",
+    "heading_number": "4",
+    "subheading": null,
+    "rule": "4",
+    "description": "EEC directive 97/24/EC, Chapter 4. The Committee responsible for preparation of this standard is given in Annex 4.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "EEC directive 97/24/EC, Chapter 4",
+    "heading_number": "4",
+    "subheading": null,
+    "rule": "4.1",
+    "description": "Rear-view mirrors shall be complying with the requirements of AIS No 001 from the date notified and shall be fitted in such a way that the mirror does not move significantly to change the field of vision as measured or vibrate to an extent which would cause the driver to misinterpret the nature of the image perceived.",
+    "AIS": [
+      "AIS-001"
+    ]
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "EEC directive 97/24/EC, Chapter 4",
+    "heading_number": "4",
+    "subheading": null,
+    "rule": "4.2",
+    "description": "The adjusted position of mirror shall remain substantially unchanged after vehicle is driven at speeds of up to 80% of its maximum design speed, but not exceeding 150 km/h, for about 10 minutes time, on test track or highways.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "EEC directive 97/24/EC, Chapter 4",
+    "heading_number": "4",
+    "subheading": null,
+    "rule": "4.3",
+    "description": "If the interior rear view mirror does not provide any rearward vision, its presence is not mandatory. However, such a fitment is allowed even if it gives partial rearward vision, provided all other vision requirements are met.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "EEC directive 97/24/EC, Chapter 4",
+    "heading_number": "4",
+    "subheading": null,
+    "rule": "4.4",
+    "description": "In case of 2 wheelers with engine capacity upto 70cc, one mirror on right side and for other 2 wheelers and unbodied 3 wheelers, two mirrors, one on right side and another on left side, shall be fitted or set in such a way that the center of the reflecting surface is at least 280 mm towards the outside of the longitudinal median plane of the vehicle. Before the measurement, the handlebars must remain in the position corresponding to the vehicle's traveling in a straight line and the rear view mirror(s) shall be set in their normal position of use. In case of 2 wheelers with engine capacity not exceeding 70cc, additional mirror on left side may be optionally fitted.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "EEC directive 97/24/EC, Chapter 4",
+    "heading_number": "4",
+    "subheading": "In the case of mirrors fitted on 2 and 3 wheelers (Class VI), mirrors shall comply with the dimensional requirements of clause 6.5 of AIS 001",
+    "rule": "4.5",
+    "description": "In the case of mirrors fitted on 2 and 3 wheelers (Class VI), mirrors shall comply with the dimensional requirements of clause 6.5 of AIS 001.",
+    "AIS": [
+      "AIS-001"
+    ]
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "FIELD OF VISION REQUIREMENTS",
+    "heading_number": "5",
+    "subheading": "Vehicle Completely built by the vehicle manufacturer",
+    "rule": "5.1",
+    "description": "Vehicle Completely built by the vehicle manufacturer: In case of completely built vehicles and in the case of incompletely built vehicles (Drive away Chassis), where the rear view mirror is a part of the fitment by the vehicle manufacturer, the field of vision requirements for vehicles with body as mentioned below shall be fulfilled by fitment of suitable class and number of rear view mirrors. Class of vehicle, 1 = Field of vision requirements. Class of vehicle, 2 = Field of vision requirements. Class of vehicle, 1 = Mandatory. Class of vehicle, 2 = Additional Options. N1 with GVW not exceeding 2 T, M1 and L7, 1 = (F2 + F1) or (F2 + F3). N1 with GVW not exceeding 2 T, M1 and L7, 2 = F3 or F1. N 1 with GVW > 2t, 1 = (F2 + F1) or (F2 + F4). N 1 with GVW > 2t, 2 = F3 or F1. M 2, 1 = (F2 + F4). M 2, 2 = F5 and (F6 or F7 * ). N 2 with GVW not exceeding 7.5t, 1 = (F2 + F4) or F5 (F5 is mandatory if F4 is not achieved by convex mirrors). N 2 with GVW not exceeding 7.5t, 2 = F1 and (F6 or F7 * ). N 2 with GVW > 7.5t, 1 = (F2 + F4 + F5). N 2 with GVW > 7.5t, 2 = F1 and (F6 or F7 * ). M 3, 1 = (F2 + F4). M 3, 2 = F5 and (F6 or F7 * ). N 3, 1 = (F2 + F4 + F5) and (F6 or F7*). N 3, 2 = F1. 3WH with body, 1 = (F2 + F3). 3WH with body, 2 = F1 Amendment No. 1 dated 18 May 2015 substitutes the clause 5.1 row with N1 having GVW not exceeding 2 T, M1 and L7; mandatory field of vision (F2 + F1) or (F2 + F3); additional options F3 or F1.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "FIELD OF VISION REQUIREMENTS",
+    "heading_number": "5",
+    "subheading": "Incomplete vehicles (Drive-away Chassis)",
+    "rule": "5.2",
+    "description": "Incomplete vehicles (Drive-away Chassis):",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "FIELD OF VISION REQUIREMENTS",
+    "heading_number": "5",
+    "subheading": "Incomplete vehicles (Drive-away Chassis)",
+    "rule": "5.2.1",
+    "description": "In case of incompletely built vehicles (Drive away Chassis), where the rear view mirror is not a part of the fitment by the vehicle manufacturer, the sizes of mirror shall be as follows:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "FIELD OF VISION REQUIREMENTS",
+    "heading_number": "5",
+    "subheading": "Incomplete vehicles (Drive-away Chassis)",
+    "rule": "5.2.2",
+    "description": "In such cases, verification would not have been carried out at the time of type approval, as the fitment of mirror would be fitted only at the time of bodybuilding. This shall be indicated in the certificate and is to be verified by the registering authority. M2 , N2, Mirror Size = 130 mm W X 240 mm H. M3, N3, Mirror Size = Upper size 183 mm W X 315 mm H Lower Size 183 mm W X 122 mm H The lower mirror would have a wider angle vision than the upper mirror. 3 Wheelers, Mirror Size = Equivalent to circle of 110 mm diameter.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "POSITION",
+    "heading_number": "6",
+    "subheading": null,
+    "rule": "6.1",
+    "description": "Rear view mirrors shall be so placed that the driver, when sitting on the driving seat, in a normal driving position, has a clear view of the road to the rear and side(s) of the vehicle.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "POSITION",
+    "heading_number": "6",
+    "subheading": null,
+    "rule": "6.2",
+    "description": "Exterior rear-view mirrors shall be visible through side windows or through the portion of the windscreen that is swept by the windscreen wiper, nevertheless, for design reasons visibility through wiped area shall not apply to exterior rear-view mirrors fitted on left side of vehicles of categories M2 and M3 and visible",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "POSITION",
+    "heading_number": "6",
+    "subheading": null,
+    "rule": "6.3",
+    "description": "In the case of any vehicle which is in chassis/cab form when the field of vision is measured, the minimum and maximum body widths shall be stated by the manufacturer and, if necessary, simulated by dummy headboards. All vehicles and mirror configurations taken into consideration during the tests shall be shown on the test report.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "POSITION",
+    "heading_number": "6",
+    "subheading": null,
+    "rule": "6.4",
+    "description": "The prescribed exterior rear-view mirror on the driver's side of the vehicles shall be so located that an angle of not more than 55° is formed between the vertical longitudinal median plane of the vehicle and the vertical plane passing through the center of rear-view mirror and through the center of the straight line 65mm long which joins the driver's two ocular points (See figure a). This condition shall deemed to have met if the vehicle manufacturer certifies so.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "POSITION",
+    "heading_number": "6",
+    "subheading": "Rear-view mirrors shall not project beyond the exterior bodywork of the vehicle substantially more than necessary to comply with the field of vision requirements",
+    "rule": "6.5",
+    "description": "Rear-view mirrors shall not project beyond the exterior bodywork of the vehicle substantially more than necessary to comply with the field of vision requirements.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "POSITION",
+    "heading_number": "6",
+    "subheading": null,
+    "rule": "6.6",
+    "description": "Where the lower edge of an exterior rear-view mirror is less than 2 m above the ground when the vehicle is loaded to its maximum permissible weight (GVW), this rear-view mirror shall not project more than 0.20 m beyond the overall width of the vehicles measured without rear-view mirrors. Figure a",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "POSITION",
+    "heading_number": "6",
+    "subheading": null,
+    "rule": "6.7",
+    "description": "In case of vehicle satisfying field of view requirement of F6 or F7, rear view mirrors shall be mounted on vehicles in such a way that, regardless of their position after adjustment, no part of these mirrors or their holders is less than 2 m from the ground when the vehicle is under a load corresponding to its maximum permissible weight (GVW). These rear-view mirrors shall not, however, be mounted on vehicles, the cab height of which, is such as to prevent compliance with this requirement.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "POSITION",
+    "heading_number": "6",
+    "subheading": "Subject to the requirements of items 6.5, 6.6 and 6.7 rear-view mirrors may project beyond the permissible maximum width of vehicle",
+    "rule": "6.8",
+    "description": "Subject to the requirements of items 6.5, 6.6 and 6.7 rear-view mirrors may project beyond the permissible maximum width of vehicle.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "ADJUSTMENT",
+    "heading_number": "7",
+    "subheading": "The interior rear-view mirror shall be capable of being adjusted by the driver from his driving position",
+    "rule": "7.1",
+    "description": "The interior rear-view mirror shall be capable of being adjusted by the driver from his driving position.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "ADJUSTMENT",
+    "heading_number": "7",
+    "subheading": null,
+    "rule": "7.2",
+    "description": "The exterior rear-view mirror situated on the driver's side shall be capable of being adjusted from inside the vehicle while the door is closed although the window may be open. The mirror may, however, be locked in position from the outside.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "ADJUSTMENT",
+    "heading_number": "7",
+    "subheading": null,
+    "rule": "7.3",
+    "description": "The requirements of item 7.2 do not apply to exterior rear-view mirrors, which, after having been knocked out of alignment, can be returned to their former position without the need of adjustment.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "FIELDS OF VISION",
+    "heading_number": "8",
+    "subheading": "The fields of vision have been defined in clause 5 of this standard. A tolerance of ± 10 % shall apply on all dimensions",
+    "rule": "8.1",
+    "description": "The fields of vision have been defined in clause 5 of this standard. A tolerance of ± 10 % shall apply on all dimensions.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "FIELDS OF VISION",
+    "heading_number": "8",
+    "subheading": null,
+    "rule": "8.2",
+    "description": "The fields of vision defined in clause 5 shall apply in respect of Ambinocular vision, the eyes being at the driver's ocular points. The fields of vision shall be determined when the vehicle is in running order (includes vehicle in kerb weight condition and driver of weight 75 ± 5 kg ). In case of vehicle other than 2 or 3 wheelers, the vehicle shall carry in addition one front seat passenger, the mass of the passenger being 75 ± 5 kg.. The field of vision shall be established through windows which have a total light transmission factor of at least 70% measured perpendicularly to the surface.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "FIELDS OF VISION",
+    "heading_number": "8",
+    "subheading": null,
+    "rule": "8.3",
+    "description": "In the case of rear-view mirrors consisting of several reflecting surfaces which are either of different curvature or make an angle with each other on the reflecting surfaces, the combinations (see item 6.2.2 of AIS 001) shall provide the field of vision specified for the class of which they belong.",
+    "AIS": [
+      "AIS-001"
+    ]
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "FIELDS OF VISION",
+    "heading_number": "8",
+    "subheading": "Interior rear-view mirrors",
+    "rule": "8.4.1.1",
+    "description": "A reduction in the field of vision due to the presence of devices such as head restraints, parts of body work, sun visors, rear window wipers and heating elements etc,, is permissible provided that all these devices together do not obscure more than 15% of the specified field of vision.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "FIELDS OF VISION",
+    "heading_number": "8",
+    "subheading": "The degree of obstruction is measured with the headrests adjusted to their lowest possible position and with the sun visors folded back",
+    "rule": "8.4.1.2",
+    "description": "The degree of obstruction is measured with the headrests adjusted to their lowest possible position and with the sun visors folded back.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "FIELDS OF VISION",
+    "heading_number": "8",
+    "subheading": "Exterior rear-view mirrors",
+    "rule": "8.4.2.1",
+    "description": "In the fields of vision specified above, obstruction due to the bodywork components, such as door handles, outline marker lights, direction indicators and the extremities of rear bumpers, as well as reflective surface cleaning components etc, shall not be taken into account if they are responsible for a total obstruction of less than 10% of the specified field of vision.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "FIELDS OF VISION",
+    "heading_number": "8",
+    "subheading": "Test Procedure",
+    "rule": "8.5",
+    "description": "The field of vision shall be determined by placing powerful light sources at the ocular points and examining the light reflected on the vertical monitoring screen. Other equivalent methods may be used.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-002",
+    "source_file": "5192015105902AMAIS_002.PDF",
+    "heading": "May 2015",
+    "heading_number": "18",
+    "subheading": null,
+    "rule": "18",
+    "description": "May 2015 PRINTED BY: THE AUTOMOTIVE RESEARCH ASSOCIATION OF INDIA P. B. NO. 832. PUNE 411 004 ON BEHALF OF : AUTOMOTIVE INDUSTRY STANDARD COMMITTEE UNDER CENTRAL MOTOR VEHICLE RULES - TECHNICAL STANDING COMMITTEE SET-UP BY MINISTRY OF ROAD TRANSPORT & HIGHWAYS GOVERNMENT OF INDIA June 2001 Status chart of the Standard to be used by the purchaser for updating the record Sr. No.. Corr- igenda.. Amend- ment. Revision. Date. Remark. Misc. General remarks : The Government of India felt the need for a permanent agency to expedite the publication of standards and development of test facilities in parallel when the work on the preparation of the standards is going on, as the development of improved safety critical parts can be undertaken only after the publication of the standard and commissioning of test facilities. To this end, the Ministry of Surface Transport (MOST) has constituted a permanent Automotive Industry Standard Committee (AISC) vide order No.RT-11028/11/97-MVL dated September 15, 1997. The standards prepared by AISC will be approved by the permanent CMVR Technical Standing Committee (CTSC). After approval, the Automotive Research Association of India, (ARAI), Pune, being the secretariat of the AIS Committee, has published this standard. For better dissemination of this information ARAI may publish this document on their Web site. Rear view mirrors and the field of vision provided by them is a safety requirement. This standard prescribes the field of vision to be provided by the rearview mirrors for various categories of vehicles. Considerable assistance has been taken from the following EEC directives and ECE Regulations in preparing this standard.",
+    "AIS": null
+  }
+]

@@ -1,0 +1,624 @@
+[
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "Page I and 1 of 16,",
+    "heading_number": "1",
+    "subheading": null,
+    "rule": "1",
+    "description": "Substitute the existing title of standard by following; Automotive Vehicles - Testing Procedure for Windscreen Wiping System for 4 Wheelers including Agricultural Tractors other than M1 Category of Vehicles. 1. Page no. 12, Table 1: Replace the existing column 1 ' Classification' by following column : Classification = Vehicles having GVW exceeding 7500 kg., except M3 category vehicles with full forward control.. Classification = M3 category vehicles with full forward control and GVW exceeding 7500 kg.. Classification = Vehicles of category M2, M3, N1 and N2 having GVW not exceeding 7500 kg. THE AUTOMOTIVE RESEARCH ASSOCIATION OF INDIA P. B. NO. 832. PUNE 411 004 ON BEHALF OF : AUTOMOTIVE INDUSTRY STANDARDS COMMITTEE UNDER CENTRAL MOTOR VEHICLE RULES - TECHNICAL STANDING COMMITTEE SET-UP BY MINISTRY OF ROAD TRANSPORT & HIGHWAYS GOVERNMENT OF INDIA May 2004 PRINTED BY: THE AUTOMOTIVE RESEARCH ASSOCIATION OF INDIA P. B. NO. 832. PUNE 411 004 ON BEHALF OF : AUTOMOTIVE INDUSTRY STANDARDS COMMITTEE UNDER CENTRAL MOTOR VEHICLE RULES - TECHNICAL STANDING COMMITTEE SET-UP BY MINISTRY OF ROAD TRANSPORT & HIGHWAYS GOVERNMENT OF INDIA April 2001 AIS - 011/2001 Status chart of the Standard to be used by the purchaser for updating the record Sr. No.. Corr- igenda.. Amend- ment. Revision. Date. Remark. Misc. General remarks : The Government of India felt the need for a permanent agency to expedite the publication of standards and development of test facilities in parallel when the work on the preparation of the standards is going on, as the development of improved safety critical parts can be undertaken only after the publication of the standard and commissioning of test facilities. To this end, the Ministry of Surface Transport (MOST) has constituted a permanent Automotive Industry Standard Committee (AISC) vide order No. RT-11028/11/97-MVL dated September 15, 1997. The standards prepared by AISC will be approved by the permanent CMVR Technical Standing Committee (CTSC). After approval, the Automotive Research Association of India, (ARAI), Pune, being the secretariat of the AIS Committee, has published this standard. For better dissemination of this information ARAI may publish this document on their Web site. This standard AIS:011 is based on the CMVR DOC. NO. ARAI/005/101(2)/DECEMBER 1992. The standard is modified based on the discussions held till date with various organization concerned in executing and implementing the same to bring in the current trends and requirements. In the process of harmonizing the Indian Standards with the EEC/ECE Standards the requirements of the windscreen wiping system were deliberated. As there was no reference EEC/ECE available for the other than M1 category of vehicles, it was decided to base this standard on the SAE test procedures. Other interpretational difficulties in implementation of the CMVR Doc. No. ARAI/005/101(2)/DECEMBER 1992 were also considered and the modified CMVR document has been released as AIS:011/1998. As a separate standard is intended for the M1 category and the 3-wheeler vehicles the requirements of these categories have been excluded from this standard. Considerable assistance has been taken from Federal Motor Vehicle Safety Standards, Australian Design Rules and particularly from SAE J941 JUN 97 for driver's eyellipse and its location. The Committee responsible for preparation of this standard is given in Annexure - A.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "Page I and 1 of 16,",
+    "heading_number": "1",
+    "subheading": "TEST REQUIREMENT",
+    "rule": "1.0",
+    "description": "This standard specifies requirements for front windscreen wiping system. (a) Drafting equipment sufficient for full-size windscreen and wiper system layout. (b) Transparent heavy gauge plastic sheet - prepared in clear acetate or equivalent. (c) Test rig - A test rig shall consist of structure capable of maintaining, throughout the test, the proper relationship of the glazing surface and the windshield wiping system components as established by the vehicle manufacturer. (d) Power source - The power source shall supply to the wiper motor the maximum power expected by the vehicle manufacturer under the conditions specified in any of the test procedure's paragraphs. (e) Spray equipment - spray nozzles to apply water to glazing surface.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "Page I and 1 of 16,",
+    "heading_number": "1",
+    "subheading": "The wiper system shall be capable of attaining the minimum operating frequency of 20 cycles per minute regardless of engine load and engine speed",
+    "rule": "1.1",
+    "description": "The wiper system shall be capable of attaining the minimum operating frequency of 20 cycles per minute regardless of engine load and engine speed.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "Page I and 1 of 16,",
+    "heading_number": "1",
+    "subheading": null,
+    "rule": "1.2",
+    "description": "Tractors fitted with windscreens shall also be equipped with motor-driven windscreen wipers and the area swept by these wipers shall ensure an unobstructed forward view corresponding to a chord of the semi-circle of vision at least 9.5 m long within the sector of vision when conducting field of vision test in accordance with AIS-107.",
+    "AIS": [
+      "AIS-107"
+    ]
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "Page I and 1 of 16,",
+    "heading_number": "1",
+    "subheading": null,
+    "rule": "1.3",
+    "description": "'Windscreen wiper Blade' used for windscreen wiper system of agricultural tractors shall comply requirements specified in clause No. 5.2 AIS-011. THE AUTOMOTIVE RESEARCH ASSOCIATION OF INDIA P. B. NO. 832, PUNE 411 004 ON BEHALF OF AUTOMOTIVE INDUSTRY STANDARDS COMMITTEE UNDER CENTRAL MOTOR VEHICLES RULES - TECHNICAL STANDING COMMITTEE SET-UP BY MINISTRY OF ROAD TRANSPORT & HIGHWAYS (DEPARTMENT OF ROAD TRANSPORT & HIGHWAYS) GOVERNMENT OF INDIA",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "Page 1 of 16, clause 3,",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2",
+    "description": "Substitute following text for existing text:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "Page 1 of 16, clause 3,",
+    "heading_number": "2",
+    "subheading": "PURPOSE",
+    "rule": "2.0",
+    "description": "The purpose is to specify performance requirement of wiping system to ensure a clear visibility for the driver on the road during inclement weather so as to make the driving safe. (a) Work to exterior surface of windshield glazing. (b) The design wipe pattern will be as shown plus the growth due to wetted windshield and high - speed system operation. This growth may be determined experimentally or an assumed allowance for each direction of wipe may be utilized. (c) All calculations shall be made in the unwrapped view. (d) In vehicle position plan view and side view, layout windshield surface, DLO (day light opening) 95th percentile eyellipse and the areas A, B and C, are generated on the exterior of the windscreen, glazing surface using the angles. (e) Develop an unwrapped view of the windscreen glazing surface and DLO. Design the wipe pattern, apply growth and transfer the pattern together with areas A, B and C into unwrapped view. (f) Calculate the percentages of areas A, B and C that are wiped with design pattern plus growth in the unwrapped view.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "Page 4 of 16, clause 5.0,",
+    "heading_number": "3",
+    "subheading": null,
+    "rule": "3",
+    "description": "Substitute following text for existing text:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "Page 4 of 16, clause 5.0,",
+    "heading_number": "3",
+    "subheading": "APPLICATION",
+    "rule": "3.0",
+    "description": "This standard applies to all motor vehicles having minimum four wheels including Agricultural Tractors and having windscreen except M1 category of vehicles. This standard applies to all motor vehicles having minimum four wheels and having windscreen except M1 category of vehicles. (a) Operate test rig with water 'ON' and wiper system on high speed, and mark outline of wipe pattern. (b) Transfer full size unwrapped view with wipe pattern and areas A, B and C to transparent heavy gauge plastic sheet. (c) Transfer wipe pattern from the test rig to the plastic sheet and recalculate the percentages of areas A, B and C that are wiped.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 4",
+    "heading_number": "4",
+    "subheading": "DEFINITIONS",
+    "rule": "4.0",
+    "description": "For the purpose of this standard following definitions shall apply. A procedure for determining the position of driver's eye on vehicle, as given below. Manufacturer should specify the H point i.e., dimension H-30 and all the dimensions given in the figures 1 & 2. However, the H-point as determined by this method and other dimensions as measured on vehicle will be used for checking the requirements of windscreen wiping .These measurements will be recorded for comparing with the values specified by the manufacturer. Class A Vehicles : Vehicles where driver's workspace is close to N1 category of vehicles. Following limits are given as guidelines (Ref. fig 1 and 2) Dimension H-30 equal to or less than 405 mm Steering wheel diameter less than 450 mm Torso angle L-40 range 5° to 40° Class B Vehicles: Vehicles where driver's workspace is close to heavy truck. Following limits are given as guidelines. (Ref. Fig 1 and 2) Dimension H30 more than 405 mm Steering Wheel diameter more than 450 mm Torso angle L-40 range 1° to 18°. (c) A 3D-H point machine is to be used . (d) The 3D-H point machine is seated as in fig 1. The H point as given by machine is used . (e) Eyellipse focus is taken at 635 mm above H point and right eye eyellipse focus is located as shown in fig 1(A) for bench seats. For bucket seats, right & left eye will be 32.5 mm on either side of steering wheel centre line. (f) For further work any of the following methods may be used. (a) The dimensions may be now transferred to the computer and further work may be done by simulation . (b) Any other method to achieve the geometrical requirements. (g) Eyellipse for left & right eye are identical except that their centroids are separated horizontally by 65 mm. - (h) The eyellipse for each eye is separately rotated about its centroid.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 4",
+    "heading_number": "4",
+    "subheading": "Windscreen Wiping System",
+    "rule": "4.1",
+    "description": "The wiping system consists of all apparatus for cleaning the exterior surface of windscreen glazing together with the necessary devices and controls to actuate and arrest the operations.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 4",
+    "heading_number": "4",
+    "subheading": "Windscreen Wiper Blade",
+    "rule": "4.2",
+    "description": "A device for clearing the effective wipe pattern, capable of receiving pressure from an arm comprising a suitable superstructure, for supporting and controlling a wiper blade element.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 4",
+    "heading_number": "4",
+    "subheading": "Wiper Blade Element",
+    "rule": "4.3",
+    "description": "The resilient member of the wiper blade that contacts the windscreen glazing surface.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 4",
+    "heading_number": "4",
+    "subheading": "Effective Wipe Pattern",
+    "rule": "4.4",
+    "description": "That portion of the wet windscreen glazing surface which is cleaned when the wiper blade travels through a cycle with system working on or above the minimum frequency",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 4",
+    "heading_number": "4",
+    "subheading": "Tandem Pattern",
+    "rule": "4.5",
+    "description": "The pattern produced by the wiper blades moving in the same direction across the windscreen glazing surface simultaneously.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 4",
+    "heading_number": "4",
+    "subheading": "Opposed Pattern",
+    "rule": "4.6",
+    "description": "The pattern produced by the wiper blades moving in opposite directions across the windscreen glazing simultaneously.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 4",
+    "heading_number": "4",
+    "subheading": "Chatter",
+    "rule": "4.7",
+    "description": "Irregular movement of the wiper blade usually accompanied by temporary visible radial lines and/or noise.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 4",
+    "heading_number": "4",
+    "subheading": "Ballooning",
+    "rule": "4.8",
+    "description": "Unwiped area within the wiped pattern, varying in size and usually round.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 4",
+    "heading_number": "4",
+    "subheading": "Streaking",
+    "rule": "4.9",
+    "description": "Fine accurate lines of unwiped moisture within the wipe pattern.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 4",
+    "heading_number": "4",
+    "subheading": "Scalloping",
+    "rule": "4.10",
+    "description": "Uneven wipe at the outer periphery of pattern.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 4",
+    "heading_number": "4",
+    "subheading": "Lace Curtain",
+    "rule": "4.11",
+    "description": "A maze of fine individual water droplets which are formed after the wiper blade passes over the windscreen glazing surface.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 4",
+    "heading_number": "4",
+    "subheading": "Hazing",
+    "rule": "4.12",
+    "description": "An aerated film spread by the blade and resulting in a transient trailing band on the windscreen glazing surface.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 4",
+    "heading_number": "4",
+    "subheading": "Wiper Cycle",
+    "rule": "4.13",
+    "description": "Wiper cycle shall consist of wiper blade movement during system operation from one extreme of the windscreen wipe pattern to the other extreme and return.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 4",
+    "heading_number": "4",
+    "subheading": "Snow Load",
+    "rule": "4.14",
+    "description": "The load imposed on the wiper system by the accumulation of packed snow, resulting in a limitation of blade travel.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 4",
+    "heading_number": "4",
+    "subheading": "Motor Stall Torque",
+    "rule": "4.15",
+    "description": "The maximum torque that the motor can maintain for two cycles at specified condition.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 4",
+    "heading_number": "4",
+    "subheading": "System Torque",
+    "rule": "4.16",
+    "description": "Torque necessary to overcome maximum friction of the wiper blade and the driving mechanism under specified conditions.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 4",
+    "heading_number": "4",
+    "subheading": "Damp Dry",
+    "rule": "4.17",
+    "description": "The condition of the windscreen which produces the highest friction during the transition from a wet to dry surface.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 4",
+    "heading_number": "4",
+    "subheading": "Moisture",
+    "rule": "4.18",
+    "description": "Atmospheric water precipitation in liquid, semiliquid or frozen state (snow)",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 4",
+    "heading_number": "4",
+    "subheading": "Relative Air Speed",
+    "rule": "4.19",
+    "description": "The vector difference of vehicle speed and component of the wind speed parallel to the direction of travel of the vehicle.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 4",
+    "heading_number": "4",
+    "subheading": "Growth",
+    "rule": "4.20",
+    "description": "Growth is the apparent increase in the wiped area due to the drying of the water or scatter of water on the boundaries of the real wiped area due to the very high wind velocity and the resultant shift of the wiper blade on both side ends of the stroke.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 4",
+    "heading_number": "4",
+    "subheading": "Unwrapped View",
+    "rule": "4.21",
+    "description": "The actual surface area of glazing surface viewed by the driver from the inside of the vehicle taking into account the curvature, but without any side frame, top and bottom supports, central pillars and other decorative linings.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 4",
+    "heading_number": "4",
+    "subheading": "Daylight Opening (DLO)",
+    "rule": "4.22",
+    "description": "The term 'Daylight Opening' (DLO) refers to the maximum unobstructed opening through any glass aperture, with reveal or garnish mouldings adjoining the glazing surface installed normal to the glass surface.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 4",
+    "heading_number": "4",
+    "subheading": "Glazing Surface Reference Line",
+    "rule": "4.23",
+    "description": "Means the line resulting from the intersection of the glazing surface and a horizontal plane 635 mm above the seating reference point, as shown in figure 1 (b).",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 4",
+    "heading_number": "4",
+    "subheading": "Overall Width",
+    "rule": "4.24",
+    "description": "Means the maximum body width measured across the body, excluding hardware and applied mouldings, but including fenders when integral with body.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 4",
+    "heading_number": "4",
+    "subheading": "Plan View Reference Line means",
+    "rule": "4.25",
+    "description": "(a) For vehicle with bench type seats, a line parallel to the vehicle longitudinal centreline outboard of the steering wheel centreline 0.15 times the difference between one half of the shoulder room dimensions shown as 'a' in figure 2 and the distance between the steering wheel centreline to the vehicle centreline shown as 'b' in Figure 2. (b) For vehicles with individual type seats - A line parallel to the vehicle longitudinal centreline located so that the geometric centre of the 95 percent eye range contour is positioned on the longitudinal centre line of the drivers designated seating position.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 4",
+    "heading_number": "4",
+    "subheading": "Shoulder Room Dimension means",
+    "rule": "4.26",
+    "description": "The minimum lateral dimension between the door garnish mouldings or nearest interference measured in the lateral plan through the driver's seating reference point.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 4",
+    "heading_number": "4",
+    "subheading": "Eyellipse",
+    "rule": "4.27",
+    "description": "The contraction of the words 'eye' and 'ellipse' used to describe a statistically derived elliptical model representing driver eye locations in road vehicles.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "REQUIREMENTS",
+    "rule": "5.0",
+    "description": "Each vehicle other than agricultural tractor shall have a power driven windscreen wiping system that meets the requirements of 5.1.1 to 5.1.4. Every agricultural tractor fitted with windscreen shall also be equipped with motor-driven windscreen wipers that meet the requirements of Appendix B. (2) one of them shall not be less than 10 and not more than 55 cycles /min. (3) The difference between the highest and the least one of the lower sweep frequencies must be at least 15 cycles/min. The planes are fixed by angles above and below X-X line. In the plan view, the left and the right boundary of the area is established by the intersection of two vertical planes tangent to the left and right edges of the eyellipse with the windscreen glazing surface. The planes are fixed by angles to the left and right of the X-X line. The areas used in determining the percentage of wiped area are those areas on the exterior glazing surface, which are not within 25 mm of the edge of the opaque support or rubber beading. The percentage is the ratio of wiped area within the defined area to the defined area, using test procedures established in Clause 6.2.1 (See Table 1 and 2 for percentages to be wiped). The wiped area is the area of the design pattern as explained above plus growth (to be measured during the test) as shown in Figure 2. If the angles as per Table 1 meet outside the windscreen glazing surface, the areas lying on the windscreen within 25 mm from the edge of the rubber beading or opaque surface are to be considered.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Each vehicle shall have a power driven windscreen wiping system that meets the requirements of 5.1.1 to 5.1.4",
+    "rule": "5.1",
+    "description": "(See 5.1) - 5.1 Each vehicle shall have a power driven windscreen wiping system that meets the requirements of 5.1.1 to 5.1.4.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Each vehicle shall have a power driven windscreen wiping system that meets the requirements of 5.1.1 to 5.1.4",
+    "rule": "5.1.1",
+    "description": "The wiper system shall be capable of attaining the minimum operating frequency of 30 cycles per minute regardless of engine load and engine speed. If the windscreen wiper is having two or more sweep frequencies then; - (1) one of them shall not be less than 45 cycles/min (a cycle being the forward and return movement of the windscreen wiper.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Each vehicle shall have a power driven windscreen wiping system that meets the requirements of 5.1.1 to 5.1.4",
+    "rule": "5.1.2",
+    "description": "Wiped Area: The minimum windscreen wiped area is described by three specific areas as percentage on defined areas on the exterior windscreen glazing surface. Three defined areas are developed with the vehicle loaded to the manufacturer's recommended designed load and are identified in Table 1 and 2 for all types of vehicle, as areas A, B and C. Each area will be established using the angles of Table 1 applied as shown in Figure 1 A and 1 B. In the side view, the upper and lower boundary of the area is established by the intersection of two planes, which are seen as lines tangent to the upper and lower edges of the eyellipse, with the windscreen glazing surface.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Strength",
+    "rule": "5.1.3",
+    "description": "The system shall be capable of withstanding the loads induced by stall, using test conditions and test procedures established in Clause 6.4 with all mechanical components remaining functional..",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Temperature Operational Capability",
+    "rule": "5.1.4",
+    "description": "The windscreen wiper system shall be capable of operating between temperatures 55 ± 3°C and 0 ± 3°C, using test procedures and test conditions established in clause 6.5.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Ageing",
+    "rule": "5.2.1",
+    "description": "The wiper blade element of the wiper blade assembly shall withstand the ozone test described in Clause 6.6.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Chemical Resistance",
+    "rule": "5.2.2",
+    "description": "A section of the wiper blade element when placed in a 50% solution of either methyl or isopropyl alcohol for a period of 24 hours shall not exceed by more than 2% weight change.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": null,
+    "rule": "6.1",
+    "description": "The test specified in Clauses 6.2 to 6.5 shall be conducted either on the complete vehicle with the wiper system installed on the vehicle or it shall be conducted with the help of the test equipment and test rig as described in Appendix 'A'.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Area to be wiped -Procedure",
+    "rule": "6.2",
+    "description": "Area to be wiped -Procedure",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "The procedure as given in Appendix 'A' will be followed using the test rig explained therein or on a complete vehicle",
+    "rule": "6.2.1",
+    "description": "The procedure as given in Appendix 'A' will be followed using the test rig explained therein or on a complete vehicle.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Wiper System Frequency Test",
+    "rule": "6.3",
+    "description": "Wiper System Frequency Test",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Test Equipment",
+    "rule": "6.3.1",
+    "description": "Apart from the test rig the additional equipments required will be Counters, Water Softener, Cleanser, Temperature measuring device and Voltmeter. (c) Water nozzles - to be located so as to provide an approximately equally distributed water flow on windscreen glazing surface at the rate of not less than 820 cc/min. (d) Clean, Oil - free water. (e) Power input level at electrical drive motor (frequency test only) shall be maintained at 6.75 ±0.1, 13.5 ± 0.1 and 27 ± 0.2V for 6, 12 and 24V system respectively or power available at the drive motor, under normal vehicle operating conditions, as specified by vehicle manufacturer, whichever is less. (f) Power input level at pneumatic drive motor (frequency test only) shall be maintained at 7±1 Kg/cm 2 air pressure or power available at the drive motor under normal vehicle operating conditions as specified by vehicle manufacturer whichever is less.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Wiper System frequency Test shall be conducted under the following conditions; - (a) Ambient temperature not exceeding 40°C - (b) Water temperature 40°C maximum",
+    "rule": "6.3.2",
+    "description": "Wiper System frequency Test shall be conducted under the following conditions; - (a) Ambient temperature not exceeding 40°C - (b) Water temperature 40°C maximum.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Frequency Test Procedure",
+    "rule": "6.3.3",
+    "description": "Clean the windscreen. Water is to be applied continuously to the windscreen throughout the test, as indicated in Clause 6.3.2 (c). Apply power to the drive motor as specified in clause 6.3.2 (e/f). With appropriate control settings, determine system operating frequencies.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Test Equipment",
+    "rule": "6.4.1",
+    "description": "- (a) Test rig : As described in Appendix 'A' clause 1 (c) - (b) Power source : As described in Appendix 'A' Clause 1 (d).",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Test Procedure",
+    "rule": "6.4.2",
+    "description": "At an ambient temperature not exceeding 40°C and with the specified power supply, the wiper system shall meet the requirements specified in 5.1.3 when the wiper arms, in any position in the wipe circle, are restrained from movement for 15 seconds.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Test Equipment",
+    "rule": "6.5.1",
+    "description": "(a) General - Test rig, power source, timing device, and other pertinent equipment described in clause 6.3.1 shall be used in this test. (b) Test Chamber - A room or chamber large enough to contain the complete test rig and capable of maintaining a temperature of 52°C to 80°C in the upper range and 0° to -10°C in the lower range.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Hot Test procedure",
+    "rule": "6.5.2",
+    "description": "The test rig and spray equipments are to be soaked in the test chamber at a temperature of 55 ± 3° C for 4 hours. Following this soak period and in the same temperature environment, the wiper system and spray equipments are to be turned on and operated for a period of half an hour at maximum wiper speed control setting with water applied continuously as indicated in 6.3.2 (c).",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Cold Test",
+    "rule": "6.5.3",
+    "description": "The test rig is to be soaked in the test chamber at temperature of 0±3°C for 4 hours. Following this soak period and in the same temperature environment, the wiper system is to be turned 'ON' and the wipers operated for half an hour at maximum wiper system speed control setting.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Preparation of wiper blade element",
+    "rule": "6.6.1",
+    "description": "A 150 mm specimen of the wiper blade element assembly is to be installed in a suitable clamping fixture, in which it is to be stretched so as to cause an extension of 15% measured between gauge, marks that are 100 mm. apart. The mounted specimens are then to be exposed for 48 hours in an ozonefree atmosphere.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Procedure",
+    "rule": "6.6.2",
+    "description": "Test specimens are to be placed in the ozone test chamber for a period of 72 hours. The test chamber is to be operated at a temperature of 40 ± 3 °C and at a concentration of 50 pphm, by volume.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Specimens shall be examined for signs of cracks and shall not show cracks under '7x' magnification",
+    "rule": "6.6.3",
+    "description": "Specimens shall be examined for signs of cracks and shall not show cracks under '7x' magnification. The x-axis is inward 5.4 degrees ( looking forward) in plan view and down 6.4 degrees (looking forward ) in side-view. The x-axis is inward 5.4 degrees (looking forward) in plan view and down 11.6 degrees (looking forward) in side-view. (i) The angles as given in Table 1 are marked. (j) Further work is now proceeded with as per the standard. TABLE 1 Vehicles having GVW exceeding 7500 kg. and without full, 'F' Dimensions See Fig 1 B. = . Vehicles having GVW exceeding 7500 kg. and without full, Area. = A. Vehicles having GVW exceeding 7500 kg. and without full, Angle in Degrees.Up = 10. Vehicles having GVW exceeding 7500 kg. and without full, Angle in Degrees.Down = 5. Vehicles having GVW exceeding 7500 kg. and without full, Angle in Degrees.Right = 18. Vehicles having GVW exceeding 7500 kg. and without full, Angle in Degrees.Left = 56 53. forward control., 'F' Dimensions See Fig 1 B. = 0 to 1016 mm. forward control., Area. = B. forward control., Angle in Degrees.Up = 5. forward control., Angle in Degrees.Down = 3. forward control., Angle in Degrees.Right = 14. forward control., Angle in Degrees.Left = 56. , 'F' Dimensions See Fig 1 B. = . , Area. = C. , Angle in Degrees.Up = 5. , Angle in Degrees.Down = 1. , Angle in Degrees.Right = 10. , Angle in Degrees.Left = 15. , 'F' Dimensions See Fig 1 B. = . , Area. = A. , Angle in Degrees.Up = 8. , Angle in Degrees.Down = 7. , Angle in Degrees.Right = 18. , Angle in Degrees.Left = 53. , 'F' Dimensions See Fig 1 B. = 1016 to 1270 mm. , Area. = B. , Angle in Degrees.Up = 3. , Angle in Degrees.Down = 5. , Angle in Degrees.Right = 14. , Angle in Degrees.Left = . , 'F' Dimensions See Fig 1 B. = . , Area. = . , Angle in Degrees.Up = 3. , Angle in Degrees.Down = 3. , Angle in Degrees.Right = 10. , Angle in Degrees.Left = 15. , 'F' Dimensions See Fig 1 B. = . , Area. = C. , Angle in Degrees.Up = . , Angle in Degrees.Down = . , Angle in Degrees.Right = . , Angle in Degrees.Left = . , 'F' Dimensions See Fig 1 B. = . , Area. = A. , Angle in Degrees.Up = 6. , Angle in Degrees.Down = 9. , Angle in Degrees.Right = 18. , Angle in Degrees.Left = 56. , 'F' Dimensions See Fig 1 B. = Above 1270 mm. , Area. = B. , Angle in Degrees.Up = 1. , Angle in Degrees.Down = 7. , Angle in Degrees.Right = 14. , Angle in Degrees.Left = 53. , 'F' Dimensions See Fig 1 B. = . , Area. = C. , Angle in Degrees.Up = 1. , Angle in Degrees.Down = 5. , Angle in Degrees.Right = 10. , Angle in Degrees.Left = 15. and GVW exceeding, 'F' Dimensions See Fig 1 B. = . and GVW exceeding, Area. = B C. and GVW exceeding, Angle in Degrees.Up = 2. and GVW exceeding, Angle in Degrees.Down = 11 11. and GVW exceeding, Angle in Degrees.Right = 18 18. and GVW exceeding, Angle in Degrees.Left = 65 25. 7500 kg., 'F' Dimensions See Fig 1 B. = . 7500 kg., Area. = . 7500 kg., Angle in Degrees.Up = 1. 7500 kg., Angle in Degrees.Down = . 7500 kg., Angle in Degrees.Right = . 7500 kg., Angle in Degrees.Left = . Vehicles having GVW not exceeding 7500 kg., 'F' Dimensions See Fig 1 B. = . Vehicles having GVW not exceeding 7500 kg., Area. = B C. Vehicles having GVW not exceeding 7500 kg., Angle in Degrees.Up = 4 3. Vehicles having GVW not exceeding 7500 kg., Angle in Degrees.Down = 3 1. Vehicles having GVW not exceeding 7500 kg., Angle in Degrees.Right = 13 7. Vehicles having GVW not exceeding 7500 kg., Angle in Degrees.Left = 46 13 TABLE 2 Windshield, 1 = Minimum % Areas to be Wiped. Windshield, 2 = Minimum % Areas to be Wiped. Windshield, 3 = Minimum % Areas to be Wiped. Windshield, 1 = Area. Windshield, 2 = Area B. Windshield, 3 = Area C. One Piece, 1 = 80. One Piece, 2 = 94. One Piece, 3 = 99. Multi Piece, 1 = 65. Multi Piece, 2 = 70. Multi Piece, 3 = 84 SIDE VIEW Figure 1(B) EYELLIPSE TEMPLATE LOCATION FOR RIGHT HAND DRIVE WIPED AREA EVALUATION, DRAFTING TEST PROCEDURE -UNWRAPPED VIEW SHOWING WIPED PATTERN ON AREAS A,B,& C UNWRAPPED REAR VIEW OF WINDSHIELD Figure No.3 Figure No. 2",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "SECTION 7",
+    "heading_number": "7",
+    "subheading": "CONFORMITY OF PRODUCTION REQUIREMENTS",
+    "rule": "7.0",
+    "description": "Whole vehicle COP procedure laid down by the Ministry of Road Transport and Highways shall be applicable for the purpose of COP, verification of all parameters shall be carried out.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-011",
+    "source_file": "330201534141PMAIS-011.pdf",
+    "heading": "August 2014",
+    "heading_number": "12",
+    "subheading": null,
+    "rule": "12",
+    "description": "August 2014",
+    "AIS": null
+  }
+]

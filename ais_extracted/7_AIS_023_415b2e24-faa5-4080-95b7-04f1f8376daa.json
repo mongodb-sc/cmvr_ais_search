@@ -1,0 +1,22 @@
+[
+  {
+    "AIS_id": "AIS-023",
+    "source_file": "7_AIS_023_415b2e24-faa5-4080-95b7-04f1f8376daa.pdf",
+    "heading": "Page 15/29,",
+    "heading_number": "1",
+    "subheading": null,
+    "rule": "1",
+    "description": "Add following new clause 7.3 below clause 7.2: - '7.3 As an alternative, simulation method may be used to prove the seat anchorage strength of a vehicle. Test apparatus used in simulation shall be as defined in clause 7.1.1 and simulation procedure shall be as per Annexure III.'",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-023",
+    "source_file": "7_AIS_023_415b2e24-faa5-4080-95b7-04f1f8376daa.pdf",
+    "heading": "Page 29/29,",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2",
+    "description": "Add following new Annexure III and renumber existing Annexure III and its reference in introduction as Annexure IV.",
+    "AIS": null
+  }
+]

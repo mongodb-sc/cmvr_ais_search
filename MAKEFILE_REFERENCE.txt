@@ -1,0 +1,87 @@
+#!/usr/bin/env make
+# CMVR/AIS Agentic Test Finder - Quick Reference
+
+# ┌─────────────────────────────────────────────────────────────┐
+# │ QUICK START                                                 │
+# └─────────────────────────────────────────────────────────────┘
+
+# Start application (recommended):
+# $ make dev
+
+# Or in background:
+# $ make start-bg
+
+# ┌─────────────────────────────────────────────────────────────┐
+# │ AVAILABLE COMMANDS                                          │
+# └─────────────────────────────────────────────────────────────┘
+
+# Setup & Installation:
+#   make setup       - One-time setup (install dependencies)
+#   make install     - Install/update dependencies
+
+# Running Services:
+#   make dev         - Run both services in foreground ⭐
+#   make start-bg    - Run both services in background
+#   make backend     - Run backend only (with auto-reload)
+#   make frontend    - Run frontend only (with auto-reload)
+
+# Management:
+#   make stop        - Stop all services
+#   make verify      - Check if services are running
+#   make clean       - Remove temp files and stop services
+
+# Information:
+#   make help        - Show this help menu
+
+# ┌─────────────────────────────────────────────────────────────┐
+# │ SERVICE URLS                                                │
+# └─────────────────────────────────────────────────────────────┘
+
+# Frontend:    http://localhost:3000
+# Backend:     http://localhost:7860
+# Health:      http://localhost:7860/api/health
+
+# ┌─────────────────────────────────────────────────────────────┐
+# │ EXAMPLE WORKFLOWS                                           │
+# └─────────────────────────────────────────────────────────────┘
+
+# Workflow 1: First time development
+#   $ make setup
+#   $ make dev
+
+# Workflow 2: Quick check - services still running?
+#   $ make verify
+
+# Workflow 3: Development - multiple terminals
+#   Terminal 1: $ make backend
+#   Terminal 2: $ make frontend
+
+# Workflow 4: Background mode with log viewing
+#   $ make start-bg
+#   $ tail -f /tmp/cmvr_backend.log
+#   $ tail -f /tmp/cmvr_frontend.log
+#   $ make stop
+
+# Workflow 5: Cleanup and restart
+#   $ make clean
+#   $ make dev
+
+# ┌─────────────────────────────────────────────────────────────┐
+# │ TROUBLESHOOTING                                             │
+# └─────────────────────────────────────────────────────────────┘
+
+# Port already in use?
+#   $ make stop
+#   $ make dev
+
+# Dependencies out of sync?
+#   $ make install
+
+# Clean rebuild?
+#   $ make clean
+#   $ make setup
+#   $ make dev
+
+# Need detailed logs?
+#   $ make start-bg
+#   $ tail -f /tmp/cmvr_backend.log

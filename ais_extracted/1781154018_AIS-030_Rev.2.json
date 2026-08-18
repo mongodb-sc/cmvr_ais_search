@@ -1,0 +1,2322 @@
+[
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 0",
+    "heading_number": "0",
+    "subheading": "SCOPE",
+    "rule": "0.0",
+    "description": "This standard applies to vehicles of category A as defined AIS-053, with regard to the installation of lighting and light-signalling devices.",
+    "AIS": [
+      "AIS-053"
+    ]
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "Dimensions, arrangement, number and minimum reflecting surface",
+    "heading_number": "1",
+    "subheading": "REFERENCE",
+    "rule": "1.0",
+    "description": ", 1 = The following standards are necessary adjuncts to this standard.. , 2 = The following standards are necessary adjuncts to this standard.. 1.1, 1 = IS 14272 :2011. 1.1, 2 = Automotive vehicles - Types - terminology. 1.2, 1 = AIS-034 (Rev.3) (Part 1 and 2). 1.2, 2 = Automobile Lamps. 1.3, 1 = AIS-010 (Part 5). 1.3, 2 = Requirements of Chromaticity Co-ordinates of Colour of Light emitted from Lighting and Light- Signalling Devices.. 1.4, 1 = AIS-007 (Rev.5). 1.4, 2 = Information on Technical Specifications to be submitted by the Vehicle Manufacturer. 1.5, 1 = IS: 14683. 1.5, 2 = Agricultural Tractors and Machinery - Lighting Devices for Travel on Public Roads",
+    "AIS": [
+      "AIS-007",
+      "AIS-010",
+      "AIS-034"
+    ]
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "DEFINITIONS",
+    "rule": "2.0",
+    "description": "For the purposes of this Standard, Tractors which differ within the meaning of paragraphs 2.1.1. and 2.1.2. Above, but not in such a way as to entail a change in the type, number, positioning and geometric visibility of the lamps prescribed for the tractor type in question; Tractors on which optional lamps are fitted or are absent; Tractors which are fitted with lamps, the position of which varies in according to the direction of traffic in the country of registration.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "Tractor type with regard to the installation of lighting and light-signalling devices: means tractors which do not differ in such essential respects as",
+    "rule": "2.1",
+    "description": "Tractor type with regard to the installation of lighting and light-signalling devices: means tractors which do not differ in such essential respects as:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "The dimensions and exterior shape of the tractor;",
+    "rule": "2.1.1",
+    "description": "The dimensions and exterior shape of the tractor;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "The number and positioning of the devices;",
+    "rule": "2.1.2",
+    "description": "The number and positioning of the devices;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "The following are likewise considered not to be tractors of a different type",
+    "rule": "2.1.3",
+    "description": "The following are likewise considered not to be tractors of a different type:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "Transverse plane : means a vertical plane perpendicular to the median longitudinal plane of the tractor;",
+    "rule": "2.2",
+    "description": "Transverse plane : means a vertical plane perpendicular to the median longitudinal plane of the tractor;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "Unladen tractor : means the tractor in running order, i.e. excluding optional accessories but including coolant, oils, fuel, tools and driver;",
+    "rule": "2.3",
+    "description": "Unladen tractor : means the tractor in running order, i.e. excluding optional accessories but including coolant, oils, fuel, tools and driver;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.4",
+    "description": "Laden tractor: means the tractor loaded to its technically permissible maximum mass, as stated by the manufacturer, who shall also fix the distribution of this weight between the axles;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.5",
+    "description": "Lamp: means a device designed to illuminate the road (headlamp) or to emit a light signal. Rear registration-plate lamps and retro reflectors shall likewise be regarded as lamps;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.5.1",
+    "description": "Equivalent lamps : means lamps having the same function and approved under CMVR as amended from time to time or in conformity with the same requirements; such lamps may have different characteristics from those of the lamps with which the vehicle is equipped at the time of approval on condition that they satisfy the requirements of this Standard;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "Independent lamps : means devices having separate apparent surfaces in the direction of the reference axis, separate light sources, and separate lamp bodies",
+    "rule": "2.5.2",
+    "description": "Independent lamps : means devices having separate apparent surfaces in the direction of the reference axis, separate light sources, and separate lamp bodies.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "Grouped lamps : means devices having separate lenses and separate light sources, but a common lamp body;",
+    "rule": "2.5.3",
+    "description": "Grouped lamps : means devices having separate lenses and separate light sources, but a common lamp body;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "Combined lamps : means devices having separate apparent surfaces in the direction of the reference axis, but a common light source and a common lamp body",
+    "rule": "2.5.4",
+    "description": "Combined lamps : means devices having separate apparent surfaces in the direction of the reference axis, but a common light source and a common lamp body.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.5.5",
+    "description": "Reciprocally incorporated lamps : means devices having separate light sources or a single light source operating under different conditions (for example, optical, mechanical, electrical differences), totally or partially common apparent surfaces in the direction of the reference axis and a common lamp body.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.5.6",
+    "description": "Concealable illuminating lamp: means a headlamp capable of being partly or completely hidden when not in use. This result may be achieved by means of a movable cover, by displacement of the headlamp or by any other suitable means. The term \"retractable\" is used more particularly to describe a concealable lamp the displacement of which enables it to be inserted within the bodywork;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "Lamps of variable position : means lamps installed on the tractor which can move in relation to the tractor, without being detached;",
+    "rule": "2.5.7",
+    "description": "Lamps of variable position : means lamps installed on the tractor which can move in relation to the tractor, without being detached;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "Driving lamp or Main-Beam Headlamp : means the lamp used to illuminate the road over a long distance ahead of the tractor;",
+    "rule": "2.5.8",
+    "description": "Driving lamp or Main-Beam Headlamp : means the lamp used to illuminate the road over a long distance ahead of the tractor;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.5.9",
+    "description": "Passing lamp or Dipped-Beam Headlamp : means the lamp used to illuminate the road ahead of the tractor without causing undue dazzle or discomfort to oncoming drivers and other road-users;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "Front fog-lamp : means the lamp used to improve the illumination of the road in case of fog, snowfall, rainstorms or dust clouds;",
+    "rule": "2.5.10",
+    "description": "Front fog-lamp : means the lamp used to improve the illumination of the road in case of fog, snowfall, rainstorms or dust clouds;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "Reversing lamp : means the lamp used to illuminate the road to the rear of the tractor and to warn other road-users that the tractor is reversing or about to reverse;",
+    "rule": "2.5.11",
+    "description": "Reversing lamp : means the lamp used to illuminate the road to the rear of the tractor and to warn other road-users that the tractor is reversing or about to reverse;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "Direction-indicator lamp : means the lamp used to indicate to other roadusers that the driver intends to change direction to the right or to the left;",
+    "rule": "2.5.12",
+    "description": "Direction-indicator lamp : means the lamp used to indicate to other roadusers that the driver intends to change direction to the right or to the left;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.5.13",
+    "description": "Hazard-warning signal : means the device permitting the simultaneous operation of all of a tractor's direction indicator lamps to draw attention to the fact that the tractor temporarily constitutes a special danger to other road-users;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "Stop lamp : means the lamp used to indicate to other road-users to the rear of the tractor that the latter's driver is applying the service brake;",
+    "rule": "2.5.14",
+    "description": "Stop lamp : means the lamp used to indicate to other road-users to the rear of the tractor that the latter's driver is applying the service brake;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.5.15",
+    "description": "Rear-registration-plate lamp : means the device used to illuminate the space intended to accommodate the rear registration plate; it may consist of several optical components;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "Front position (side) lamp : means the lamp used to indicate the presence and the width of the tractor when the latter is viewed from the front;",
+    "rule": "2.5.16",
+    "description": "Front position (side) lamp : means the lamp used to indicate the presence and the width of the tractor when the latter is viewed from the front;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "Rear position (side) lamp : means the lamp used to indicate the presence and the width of the tractor when the latter is viewed from the rear;",
+    "rule": "2.5.17",
+    "description": "Rear position (side) lamp : means the lamp used to indicate the presence and the width of the tractor when the latter is viewed from the rear;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "Rear fog-lamp : means the lamp used to make the tractor more easily visible from the rear in dense fog;",
+    "rule": "2.5.18",
+    "description": "Rear fog-lamp : means the lamp used to make the tractor more easily visible from the rear in dense fog;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.5.19",
+    "description": "Parking lamp: means the lamp used to draw attention to the presence of a stationary tractor, without a trailer, in a built-up area. In such circumstances it replaces the front and rear position (side) lamps;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.5.20",
+    "description": "End-outline marker lamp: means the lamps fitted to the extreme outer edge as close as possible to the top of the tractor and intended clearly to indicate the tractor's overall width. This signal is intended, for certain tractors, to complement the tractor's front and rear position (side) lamps by drawing particular attention to its bulk;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "Work lamp : means a device for illuminating a working area or process;",
+    "rule": "2.5.21",
+    "description": "Work lamp : means a device for illuminating a working area or process;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.5.22",
+    "description": "Retro reflector or Reflex Reflector: means a device used to indicate the presence of a tractor by reflection of light emanating from a light source unconnected with the vehicle, the observer being situated near that source. For the purpose of this Standard, the following are not considered as retro reflectors:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "retro-reflecting number plates;",
+    "rule": "2.5.22.1",
+    "description": "retro-reflecting number plates;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.5.22.2",
+    "description": "Other plates and retro-reflecting signals which shall be used to comply with a Contracting Party's specifications for use as regards certain categories of vehicles or certain methods of operation.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.5.23",
+    "description": "SMV (Slow Moving Vehicle) Rear marking plate (rear warning triangle): a triangular plate with truncated corners with a characteristic pattern faced with retro reflective and fluorescent material or devices (class 1); or with retro reflective materials or devices only (class 2)",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "Side marker lamp: means a lamp used to indicate the presence of the tractor when viewed from the side",
+    "rule": "2.5.24",
+    "description": "Side marker lamp: means a lamp used to indicate the presence of the tractor when viewed from the side",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "Daytime running lamp means a lamp facing in a forward direction used to make the tractor more easily visible when driving during daytime",
+    "rule": "2.5.25",
+    "description": "Daytime running lamp means a lamp facing in a forward direction used to make the tractor more easily visible when driving during daytime",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.5.26",
+    "description": "Cornering lamp: means a lamp used to provide supplementary illumination of that part of the road which is located near the forward corner of the tractor at the side towards which the tractor is going to turn.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "Exterior Courtesy lamp: means a lamp used to provide supplementary illumination to assist the entry and exit of the tractor driver and passenger or in loading operations",
+    "rule": "2.5.27",
+    "description": "Exterior Courtesy lamp: means a lamp used to provide supplementary illumination to assist the entry and exit of the tractor driver and passenger or in loading operations.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "Manoeuvring lamp: means a lamp used to provide supplementary illumination to the side of the tractor to assist during slow manoeuvres",
+    "rule": "2.5.28",
+    "description": "Manoeuvring lamp: means a lamp used to provide supplementary illumination to the side of the tractor to assist during slow manoeuvres.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "Illuminating surface of a lamp (see Annex 4);",
+    "rule": "2.6",
+    "description": "Either the boundary of the illuminating surface projected on the exterior surface of the lens; Or the light-emitting surface; In a plane perpendicular to the direction of observation and tangential to the most exterior point of the lens. (see Annex 4); 2.10 Angles of geometric visibility: means the angles which determine the field of the minimum solid angle in which the apparent surface of the lamp shall be visible. That field of the solid angle is determined by the segments of the sphere of which the centre coincides with the centre of reference of the lamp and the equator is parallel with the ground. These segments are determined in relation to the axis of reference. The horizontal angles β corresponds to the longitude and the vertical angles α to the latitude. There shall be no obstacle on the inside of the angles of geometric visibility to the propagation of light from any part of the apparent surface of the lamp observed from infinity. If measurements are taken closer to the lamp, the direction of observation shall be shifted parallel to achieve the same accuracy. On the inside of the angles of geometric visibility no account is taken of obstacles, if they were already presented when the lamp was type approved. If, when the lamp is installed, any part of the apparent surface of the lamp is hidden by any further parts of the vehicle, proof shall be furnished that the part of the lamp not hidden by obstacles still conforms to the photometric values prescribed for the approval of the device as an optical unit (See explanatory figure given in Annex 1 of this standard) ; - (ii) of end-outline marker lamps - (iii) of coupling devices",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "Illuminating surface of a lamp (see Annex 4);",
+    "rule": "2.6.1",
+    "description": "Illuminating surface of a lighting device (paragraphs 2.5.8. to 2.5.11. and 2.5.26) means the orthogonal projection of the full aperture of the reflector or in the case of headlamps with an ellipsoidal reflector of the 'projection lens' on a transverse plane. If the lamp glass (or glasses) extend(s) over part only of the full aperture of the reflector, then the projection of that part only is taken into account. In the case of a passing lamp, the illuminating surface is limited on the side of the cutoff by the apparent projection of the line of the cut-off on to the lens. In the case of passing lamp, the illuminating surface is limited by the apparent trace of the cut-off on to the lens. If the reflector and glass are adjustable, the mean adjustment should be used;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "Illuminating surface of a lamp (see Annex 4);",
+    "rule": "2.6.2",
+    "description": "Illuminating surface of a signalling lamp other than a retro reflector (paragraphs. 2.5.12. to 2.5.20, 2.5.24 and 2.5.25): means the orthogonal projection of the lamp in a plane perpendicular to its axis of reference and in contact with the exterior light-emitting surface of the lamp, this projection being bounded by the edges of screens situated in this plane, each allowing only 98% of the total luminous intensity of the light to persist in the direction of the axis of reference. To determine the lower, upper and lateral limits of the illuminating surface, only screens with horizontal or vertical edges shall be used to verify the distance to the extreme edges of the vehicle and height above the ground; For other applications of the illuminating surface e.g. distance between two lamps or functions, the shape of the periphery of this illuminating surface shall be used. The screens shall remain parallel, but other orientations are allowed to be used. In the case of a light-signalling device whose illuminating surface encloses either totally or partially the illuminating surface of another function or encloses a non-lighted surface, the illuminating surface may be considered to be the light-emitting surface itself (see e.g. Annex 4)",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "Illuminating surface of a lamp (see Annex 4);",
+    "rule": "2.6.3",
+    "description": "Illuminating surface of a reflex reflector (paragraph 2.5.22.) : means the orthogonal projection of the reflecting surface of the retro reflector in a plane perpendicular to its axis of reference and bounded by planes touching the declared outer edges of the light projection surface of the retro-reflector and parallel to this axis. To determine the lower, upper and lateral limits of the illuminating surface, only vertical and horizontal planes shall be used.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "Illuminating surface of a lamp (see Annex 4);",
+    "rule": "2.6.4",
+    "description": "Light-emitting surface: means the surface as declared in the request for approval by the manufacturer of the device on the drawing (See Annex 4); This shall be declared according to one of the following conditions : - (a) In the case where the outer lens is textured, the declared lightemitting surface shall be all or part of the exterior surface of the outer lens - (b) In the case where the outer lens is non-textured the outer lens may be disregarded and the light-emitting surface shall be as declared on the drawing.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "Apparent surface: for a defined direction of observation means, at the request of the manufacturer or their duly accredited representative, the orthogonal projection of",
+    "rule": "2.7",
+    "description": "Apparent surface: for a defined direction of observation means, at the request of the manufacturer or their duly accredited representative, the orthogonal projection of:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.8",
+    "description": "Axis of reference or Reference Axis: means the characteristic axis of the light signal determined by the manufacturer of the lamp for use as the direction of reference (H = 0°, V = 0°) for photometric measurements and when fitting the lamp on the tractor;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "Centre of reference: means the intersection of the axis of reference with the exterior light-emitting surface, specified by the manufacturer of the lamp;",
+    "rule": "2.9",
+    "description": "Centre of reference: means the intersection of the axis of reference with the exterior light-emitting surface, specified by the manufacturer of the lamp;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.11",
+    "description": "Extreme outer edge: on either side of the tractor means the plane parallel with the median longitudinal plane of the tractor and coinciding with its lateral outer edge, disregarding the projection:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "of tyres near their point of contact with the ground and connections for tyre-pressure gauges and tyre inflating/deflating devices/ ducts;",
+    "rule": "2.11.1",
+    "description": "of tyres near their point of contact with the ground and connections for tyre-pressure gauges and tyre inflating/deflating devices/ ducts;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "of any anti-skid devices which may be mounted on the wheels;",
+    "rule": "2.11.2",
+    "description": "of any anti-skid devices which may be mounted on the wheels;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "of devices for indirect vision like rear-view mirrors;",
+    "rule": "2.11.3",
+    "description": "of devices for indirect vision like rear-view mirrors;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "of side direction indicator lamps, end-outline marker lamps, front and rear position (side) lamps, parking lamps and lateral reflex reflectors;",
+    "rule": "2.11.4",
+    "description": "of side direction indicator lamps, end-outline marker lamps, front and rear position (side) lamps, parking lamps and lateral reflex reflectors;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "Of customs seals affixed to the vehicle and devices for securing and protecting such seals",
+    "rule": "2.11.5",
+    "description": "Of customs seals affixed to the vehicle and devices for securing and protecting such seals",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.12",
+    "description": "Overall Dimensions - (a) Overall width: means the distance between the two vertical planes defined in paragraph 2.11 above; - (b) Overall Length : means the distance between the two vertical planes perpendicular to the median longitudinal plane of the vehicle and touching its front and rear outer edge, disregarding the projection - (i) of devices for indirect vision",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "A single lamp",
+    "rule": "2.13",
+    "description": "- (a) means a device or part of a device having one lighting or lightsignalling function, one or more light source(s) and one apparent surface in the direction of the reference axis, which may be a continuous surface or composed of two or more distinct parts; or - (b) Any assembly of two independent lamps, whether identical or not, having the same function, both approved as type \"D\" lamp and installed so that: - (i) The projection of their apparent surfaces in the direction of the reference axis occupies not less than 60 per cent of the smallest quadrilateral circumscribing the projections of the said apparent surfaces in the direction of the reference axis; or - (ii) The distance between two adjacent/tangential distinct parts does not exceed 15 mm when measured perpendicularly to the reference axis; or - (c) Any assembly of two independent retro-reflectors, whether identical or not, that has been approved separately and is installed in such a way that: - (i) The projection of their apparent surfaces in the direction of the reference axis occupies not less 60 per cent of the smallest quadrilateral circumscribing the projections of the said apparent surfaces in the direction of the reference axis; or - (ii) The distance between two adjacent/tangential distinct parts does not exceed 15 mm when measured perpendicularly to the reference axis. This possible combination does not apply to driving lamps, passing lamps, front fog lamps or lateral reflex reflectors; A light source may also be constituted by the extreme outlet of a lightguide, as part of a distributed lighting or light-signalling system not having a built-in outer lens. from a light source not connected to the vehicle, the observer being situated near the source.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.14",
+    "description": "Two lamps or an even number of lamps: includes a single illuminating surface in the shape of a band or strip, if placed symmetrically in relation to the median longitudinal plane of the tractor and extending on both sides to within not less than 400 mm of the extreme outer edge of the tractor, and being not less than 800 mm long. The illumination of such a surface shall be provided by not less than two light sources placed as close as possible to its ends. The illuminating surface may be constituted by a number of juxtaposed elements on condition that the projections of the several individual illuminating surfaces in the same transverse plane occupy not less than 60% of the area of the smallest rectangle circumscribing the projections of those individual illuminating surfaces;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.15",
+    "description": "Distance between two lamps: which face in the same direction means the shortest distance between the two apparent surfaces in the direction of the reference axis. Where the distance between the lamps clearly meets the requirements of the Regulation, the exact edges of apparent surfaces need not be determined.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "Optional lamp: means a lamp the presence of which is left to the discretion of the manufacturer;",
+    "rule": "2.16",
+    "description": "Optional lamp: means a lamp the presence of which is left to the discretion of the manufacturer;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.17",
+    "description": "Operational tell-tale or Operating Tell tale: means a visual or auditory signal (or any equivalent signal) indicating that a device has been switched on and is operating correctly or not.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "Circuit-closed tell-tale: means a tell-tale showing that a device has been switched on but not showing whether it is operating correctly or not",
+    "rule": "2.18",
+    "description": "Circuit-closed tell-tale: means a tell-tale showing that a device has been switched on but not showing whether it is operating correctly or not.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.19",
+    "description": "Colour of the light emitted from the device: The definitions of the colour of the light emitted given in standard AIS-010 (Part 5) (Rev.1) and its amendments in force at the time of application for type approval shall apply to this standard.",
+    "AIS": [
+      "AIS-010"
+    ]
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "Device : means an element or an assembly of elements used to perform one or more functions",
+    "rule": "2.20",
+    "description": "Device : means an element or an assembly of elements used to perform one or more functions",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "Lighting function : means the light emitted by a device to illuminate the road and objects in the direction of vehicle movement",
+    "rule": "2.20.1",
+    "description": "Lighting function : means the light emitted by a device to illuminate the road and objects in the direction of vehicle movement.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "Device : means an element or an assembly of elements used to perform one or more functions",
+    "rule": "2.20.2",
+    "description": "Light-signalling function : means the light emitted or reflected by a device to give to other road users visual information on the presence, identification and/or the change of movement of the vehicle",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.21",
+    "description": "Light source\" means one or more elements for visible radiation, which may be assembled with one or more transparent envelopes and with a base for mechanical and electrical connection.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "Interdependent lamp system : means an assembly of two or three interdependent lamps providing the same function",
+    "rule": "2.22",
+    "description": "Interdependent lamp system : means an assembly of two or three interdependent lamps providing the same function",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "Interdependent lamp system : means an assembly of two or three interdependent lamps providing the same function",
+    "rule": "2.22.1",
+    "description": "Interdependent lamp : means a device operating as part of an interdependent lamp system. Interdependent lamps operate together when activated, have separate apparent surfaces in the direction of the reference axis and separate lamp bodies, and may have separate light source(s).",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "Signalling Panel or Signalling Foil : means a device used to indicate to other road users the presence of a wide or long vehicle when viewed from the front, rear or side",
+    "rule": "2.23",
+    "description": "Signalling Panel or Signalling Foil : means a device used to indicate to other road users the presence of a wide or long vehicle when viewed from the front, rear or side.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.24",
+    "description": "Conspicuity Marking: means a device intended to increase the conspicuity of a vehicle, when viewed from the side or rear (or in the case of trailers, additionally from the front), by the reflection of light emanating",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.24.1",
+    "description": "Contour Marking: means a conspicuity marking intended to indicate the horizontal and vertical dimensions (length, width and height) of a vehicle. - (a) Full contour marking: means a contour marking that indicates the outline of the vehicle by a continuous line; - (b) Partial contour marking: means a contour marking that indicates the horizontal dimension of the vehicle by a continuous line, and the vertical dimension by marking the upper corners.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "Line Marking: means a conspicuity marking intended to indicate the horizontal dimensions (length and width) of a vehicle by a continuous line",
+    "rule": "2.26.2",
+    "description": "Line Marking: means a conspicuity marking intended to indicate the horizontal dimensions (length and width) of a vehicle by a continuous line.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "H plane: means the horizontal plane containing the center of reference of the lamp",
+    "rule": "2.27",
+    "description": "H plane: means the horizontal plane containing the center of reference of the lamp",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "Pair: means the set of lamps of the same function on the left- and righthand side of the vehicle",
+    "rule": "2.28",
+    "description": "Pair: means the set of lamps of the same function on the left- and righthand side of the vehicle.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 3",
+    "heading_number": "3",
+    "subheading": null,
+    "rule": "3.1",
+    "description": "The specifications to be submitted by the manufacturer at the time of applying for the type approval of the vehicle to this standard shall contain at least the information listed in the AIS-007 (Rev 5): - Table 16, Table 18, Table 17 & 17A (wherever applicable) or any other table as applicable from time to time.",
+    "AIS": [
+      "AIS-007"
+    ]
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "GENERAL REQUIREMENTS",
+    "rule": "5.0",
+    "description": "distinct parts, it shall satisfy the following requirements: - (a) Either the total area of the projection of the distinct parts on a plane tangent to the exterior surface of the outer lens and perpendicular to the reference axis shall occupy not less than 60 per cent of the smallest quadrilateral circumscribing the said projection, or the distance between two adjacent/tangential distinct parts shall not exceed 15 mm when measured perpendicularly to the reference axis. This requirement shall not apply to a retro-reflector - (b) Or, in the case of interdependent lamps, the distance between adjacent apparent surfaces in the direction of the reference axis does not exceed 75 mm when measured perpendicularly to the reference axis Where the (maximum and minimum) height above the ground clearly meets the requirements of the Regulation, the exact edges of any surface need not be determined. provided that any variation in the photometric characteristics is in compliance with the technical provisions for the lamp concerned If there are several points of contact, the one furthest towards the front shall be selected for zone 1 and the one furthest towards the rear shall be selected for zone 2. lamps and the front fog lamps cannot be switched on unless the lamps referred to in paragraph 5.11 are also switched on. This requirement shall not apply, however, to driving lamps or passing lamps when their luminous warnings consist of the intermittent lighting up at short intervals of the passing lamps or the intermittent lighting up of the driving lamps or the alternate lighting up at short intervals of the passing lamps and driving lamps.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": null,
+    "rule": "5.1",
+    "description": "The lighting and light-signalling devices shall be so fitted that under normal conditions of use, and not withstanding any vibration to which they may be subjected, they retain the characteristics laid down in this Standard and enable the tractor to comply with the requirements of this Standard. In particular, it shall not be possible for the adjustment of the lamps to be inadvertently disturbed",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "The illuminating lamps described in paragraphs 2.5.8, 2.5.9 and 2.5.10 shall be so installed that correct adjustment of their orientation can easily be carried out",
+    "rule": "5.2",
+    "description": "The illuminating lamps described in paragraphs 2.5.8, 2.5.9 and 2.5.10 shall be so installed that correct adjustment of their orientation can easily be carried out.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": null,
+    "rule": "5.3",
+    "description": "For all light-signalling devices, the reference axis of the lamp when fitted to the tractor shall be parallel with the bearing plane of the tractor on the road in addition it shall be perpendicular to the median longitudinal plane of the tractor in the case of side retro-reflectors and of side-marker lamps and parallel to that plane in the case of all other signalling devices. In each direction a tolerance of ± 3° shall be allowed. In addition, any specific instructions as regards fitting laid down by the manufacturer shall be complied with.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "In the absence of specific instructions, the height and orientation of the lamps shall be verified with the tractor unladen and placed on a flat horizontal surface",
+    "rule": "5.4",
+    "description": "In the absence of specific instructions, the height and orientation of the lamps shall be verified with the tractor unladen and placed on a flat horizontal surface.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "In the absence of specific instructions, lamps constituting a pair shall",
+    "rule": "5.5",
+    "description": "In the absence of specific instructions, lamps constituting a pair shall:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Be mounted symmetrically in relation to the median longitudinal plane;",
+    "rule": "5.5.1",
+    "description": "Be mounted symmetrically in relation to the median longitudinal plane;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Be symmetrical to one another in relation to the median longitudinal plane;",
+    "rule": "5.5.2",
+    "description": "Be symmetrical to one another in relation to the median longitudinal plane;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Satisfy the same colorimetric requirements; and",
+    "rule": "5.5.3",
+    "description": "Satisfy the same colorimetric requirements; and",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Have substantially identical Photometric characteristics",
+    "rule": "5.5.4",
+    "description": "Have substantially identical Photometric characteristics.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": null,
+    "rule": "5.6",
+    "description": "On tractors whose external shape is asymmetrical, the requirements of paragraphs 5.5.1 and 5.5.2 shall be satisfied as far as possible. These requirements shall be regarded as having been met if the distance of the two lamps from the median longitudinal plane and from the bearing plane on the ground is the same.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Grouped, combined or reciprocally incorporated lamps",
+    "rule": "5.7",
+    "description": "Grouped, combined or reciprocally incorporated lamps",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Grouped, combined or reciprocally incorporated lamps",
+    "rule": "5.7.1",
+    "description": "Lamps may be grouped, combined or reciprocally incorporated with one another provided that all requirements regarding color, position, orientation, geometric visibility, electrical connections and other requirements, if any, are fulfilled.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Grouped, combined or reciprocally incorporated lamps",
+    "rule": "5.7.1.1",
+    "description": "Also, the photometric and colorimetric requirements of a lamp shall be fulfilled when all other functions with which this lamp is grouped, combined or reciprocally incorporated are switched OFF. - However when a front or rear position lamp is reciprocally incorporated with one or more other function(s) which can be activated together with them, the requirements regarding color of each of these other functions shall be fulfilled when the reciprocally incorporated function(s) and the front or rear position lamps are switched ON.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Stop lamps and direction-indicator lamps are not permitted to be reciprocally incorporated",
+    "rule": "5.7.1.2",
+    "description": "Stop lamps and direction-indicator lamps are not permitted to be reciprocally incorporated",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Grouped, combined or reciprocally incorporated lamps",
+    "rule": "5.7.1.3",
+    "description": "Where stop lamps and direction-indicator lamps are grouped, the following conditions shall be met: - (a) Any horizontal or vertical straight line passing through the projections of the apparent surfaces of these functions on a plane perpendicular to the reference axis, shall not intersect more than two borderlines separating adjacent areas of different color; - (b) Their apparent surfaces in the direction of the reference axis, based upon the areas bounded by the outline of their light emitting surfaces, do not overlap",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Where the apparent surface of a single lamp is composed of two or more",
+    "rule": "5.7.2",
+    "description": "Where the apparent surface of a single lamp is composed of two or more",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": null,
+    "rule": "5.8",
+    "description": "The maximum height above ground shall be measured from the highest point and the minimum height from the lowest point of the apparent surface in the direction of the reference axis.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "For the purposes of reducing the geometric visibility angles, the position of a lamp with regard to height above the ground, shall be measured from the H plane",
+    "rule": "5.8.1",
+    "description": "For the purposes of reducing the geometric visibility angles, the position of a lamp with regard to height above the ground, shall be measured from the H plane.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": null,
+    "rule": "5.8.2",
+    "description": "In the case of dipped-beam headlamp, the minimum height in relation to the ground is measured from the lowest point of the effective outlet of the optical system (e.g. reflector, lens, projection lens) independent of its utilization.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": null,
+    "rule": "5.8.3",
+    "description": "The position, as regards width, will be determined from that edge of the apparent surface in the direction of the reference axis which is the furthest from the median longitudinal plane of the vehicle when referred to the overall width, and from the inner edges of the apparent surface in the direction of the reference axis when referred to the distance between lamps.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": null,
+    "rule": "5.9",
+    "description": "In the absence of specific instructions, the photometric characteristics (e.g. intensity, color, apparent surface, etc.) of a lamp shall not be intentionally varied during the period of activation of the lamp.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "direction- indicator lamps and the hazard warning signal shall be flashing lamps. In addition amber side marker lamps may be flashing lamps",
+    "rule": "5.9.1",
+    "description": "direction- indicator lamps and the hazard warning signal shall be flashing lamps. In addition amber side marker lamps may be flashing lamps.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": null,
+    "rule": "5.9.2",
+    "description": "The photometric characteristics of any lamp may vary : - (a) In relation to the ambient light; - (b) As a consequence of the activation of other lamps; or - (c) When the lamps is being used to provide another lighting function;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": null,
+    "rule": "5.10",
+    "description": "No red light shall be visible towards the front and no white light other than that from the reversing lamp or work lamps shall be visible towards the rear. This requirement is considered to have been met if:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": null,
+    "rule": "5.10.1",
+    "description": "For the visibility of a red light towards the front; there is no direct visibility of a red lamp if its light-emitting surface is viewed by an observer moving within zone 1 in a transverse plane situated 25 m in front of the tractor (see Annex 5, figure 1) ;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": null,
+    "rule": "5.10.2",
+    "description": "For the visibility of a white light towards the rear; there is no direct visibility of a white lamp if its light-emitting surface viewed by an observer moving within zone 2 in a transverse plane situated 25 m behind the tractor (see Annex 5, figure 2).",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Zones 1 and 2, as seen by the observer, are limited in their respective planes as follows",
+    "rule": "5.10.3",
+    "description": "Zones 1 and 2, as seen by the observer, are limited in their respective planes as follows:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "As regards height, by two horizontal planes which are 1 m and 2.2 m respectively above the ground;",
+    "rule": "5.10.3.1",
+    "description": "As regards height, by two horizontal planes which are 1 m and 2.2 m respectively above the ground;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Zones 1 and 2, as seen by the observer, are limited in their respective planes as follows",
+    "rule": "5.10.3.2",
+    "description": "As regards width, by two vertical planes which make an angle of 15° towards the front and rear respectively, and towards the outside by reference to the median plane of the tractor, passing through the point (or points) of contact of vertical planes which are parallel with the median longitudinal plane of the tractor, and limiting the overall width of the tractor when on wide track.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": null,
+    "rule": "5.11",
+    "description": "The electrical connections shall be such that the front and rear position (side) lamps, the end-outline marker lamps if they exist, the side marker lamps , if they exist, and the rear registration plate lamp can only be switched ON and OFF simultaneously. This condition does not apply : - (a) when using front and rear position (side) lamps as parking lamps - (b) When front and rear position lamps are switched ON, as well as side-marker lamps when combined or reciprocally incorporated with said lamps, as parking lamps - (c) When side-marker lamps flash in conjunction with direction indicators - (d) When the passing-beam headlamps and/or the driving-beam beam headlamps and/or the front fog lamps substitute the function of the front position lamps",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "The electrical connections shall be such that the driving lamps and passing",
+    "rule": "5.12",
+    "description": "The electrical connections shall be such that the driving lamps and passing",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "The electrical connections shall be such that the driving lamps and passing",
+    "rule": "5.12.1",
+    "description": "The dipped-beam headlamps and/or the main-beam headlamps and/or the front fog lamps substitute the function of the front position lamps provided that - - -Their electrical connections are such that in case of failure of any of these lighting devices the front position lamps are automatically reactivated; and - -The substituting lamp/function meets, for the respective position lamp, the requirements concerning paragraphs 5.16.8 and 6.8.1. to 6.8.5.; and appropriate evidence demonstrating compliance this requirement is provided in the test reports of the substituting lamp.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "The function of the circuit-closed tell-tales may be fulfilled by operational tell- tales",
+    "rule": "5.12.2",
+    "description": "The function of the circuit-closed tell-tales may be fulfilled by operational tell- tales.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Concealable lamps",
+    "rule": "5.13",
+    "description": "Driving lamp : white or selective yellow Passing lamp : white or selective yellow Front fog lamp : white or selective yellow Reversing lamp : White Direction-indicator lamp : Amber Hazard warning signal : Amber Stop lamp : Red Rear registration plate lamp : White Front position (side) lamp : White (selective yellow shall be permitted if this lamp is reciprocally incorporated in a selective yellow headlamp) Rear position (side) lamp : Red Rear fog lamp : Red Parking lamp : white in front, red at the rear, amber if reciprocally incorporated in the direction indicator lamps or in the side marker lamps End outline marker lamp : white in front, red at the rear Work lamp : no specification Rear retro-reflectors, : Red Non- triangular side reflectors : Amber SMV Rear marking plate (rear warning triangle) : Red Side-marker lamp : Amber ; however the rearmost side- marker lamp can be red if it is grouped or combined or reciprocally incorporated with the rear position lamp, the rear end- outline marker lamp, the rear fog lamp, the stop lamp or is grouped or has part of the light emitting surface in common with the rear retro-reflector Daytime running lamp : White Rear retro-reflector, non- triangular : Red Front retro-reflector, non- triangular : White or Colourless Side retro-reflector, non- triangular : Amber; however the rearmost side retro- reflector can be red if it is grouped or has part of the light emitting surface in common with the rear position lamp, the rear end outline marker lamp, the rear fog lamp, the stop-lamp, the red rearmost side-marker lamp or the rear retro- reflector, non- triangular Cornering lamp : White Conspicuity marking : White or yellow to the side; Red or yellow to the rear Exterior courtesy lamp : White Manoeuvring lamp : White Signalling Panel or Signalling Foil : White and Red 'At the discretion of the manufacturer, a statement indicating whether lamps approved for and equipped with LED substitute light sources are allowed to be installed on the vehicle or not and, if this is allowed, which lamps.' To verify that this statement is respected, the presence of the marking on the lamps related to the use of LED substitute light source(s) shall be checked.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "The concealment of lamps shall be prohibited, with the exception of driving lamps, passing lamps, front fog-lamps and lamps to which paragraph 5.14.1.refers",
+    "rule": "5.13.1",
+    "description": "The concealment of lamps shall be prohibited, with the exception of driving lamps, passing lamps, front fog-lamps and lamps to which paragraph 5.14.1.refers.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Concealable lamps",
+    "rule": "5.13.2",
+    "description": "An illuminating device in the position of use shall remain in that position if the malfunction referred to in paragraph 5.13.2.1 occurs alone or in conjunction with one of the malfunctions described in paragraph 5.13.2.2.:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "The absence of power for manipulating the lamp",
+    "rule": "5.13.2.1",
+    "description": "The absence of power for manipulating the lamp.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Concealable lamps",
+    "rule": "5.13.2.2",
+    "description": "Accidental opening of the supply circuit, earth leakage, defect in solenoids, defects in the hydraulic or compressed air lines, Bowden cables, flexible leads or other components controlling or transmitting the energy intended to actuate the concealment device.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Concealable lamps",
+    "rule": "5.13.3",
+    "description": "In the event of a defect in the concealment control, or other defects referred to in paragraphs 5.13.2.1 and 5.13.2.2 above, a concealed lighting device shall be capable of being moved into the positions of use without the aid of tools or shall remain in the position of use, if already in use.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Concealable lamps",
+    "rule": "5.13.4",
+    "description": "Illuminating devices which are manipulated by power shall be brought into the position of use and switched on by means of a single control, without excluding the possibility of moving them into the position of use without switching them on. However, in the case of grouped-driving lamps and passing lamps, the control referred to above is required only to activate the passing lamps.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Concealable lamps",
+    "rule": "5.13.5",
+    "description": "It shall not be possible deliberately, from the driver's seat, to stop the movement of switched-on headlamps before they reach the position of use. If there is a danger of dazzling other road users by the movement of headlamps, they may light up only when they have reached their final position.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Concealable lamps",
+    "rule": "5.13.6",
+    "description": "At temperatures - 10° C up to +50° C an illuminating device which is manipulated by power shall be capable of reaching the position of use within three seconds of initial operation of the control.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Lamps of variable position",
+    "rule": "5.14",
+    "description": "Lamps of variable position",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "The position of all lamps may be varied except driving-beam headlamp, passing-beam headlamps and at least one pair of rear reflectors provided that",
+    "rule": "5.14.1",
+    "description": "The position of all lamps may be varied except driving-beam headlamp, passing-beam headlamps and at least one pair of rear reflectors provided that :",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "These lamps remain attached to the tractor when their position is altered;",
+    "rule": "5.14.1.1",
+    "description": "These lamps remain attached to the tractor when their position is altered;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "These lamps shall be capable of being locked in the position required by traffic conditions. Locking shall be automatic",
+    "rule": "5.14.1.2",
+    "description": "These lamps shall be capable of being locked in the position required by traffic conditions. Locking shall be automatic.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Notwithstanding paragraph 5.14.1. above, driving-beam headlamp, passing-beam headlamps may be installed on the movable engine hood",
+    "rule": "5.14.1.3",
+    "description": "Notwithstanding paragraph 5.14.1. above, driving-beam headlamp, passing-beam headlamps may be installed on the movable engine hood.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "The colours of the light emitted by the lamps referred to in this standard shall be as follows",
+    "rule": "5.15",
+    "description": "The colours of the light emitted by the lamps referred to in this standard shall be as follows:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Every tractor submitted for approval pursuant to this Standard shall be equipped with the following lighting and light-signalling devices",
+    "rule": "5.16",
+    "description": "Every tractor submitted for approval pursuant to this Standard shall be equipped with the following lighting and light-signalling devices:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Passing lamps (paragraph 6.2);",
+    "rule": "5.16.1",
+    "description": "Passing lamps (paragraph 6.2);",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Direction-indicator lamps (paragraph 6.5);",
+    "rule": "5.16.2",
+    "description": "Direction-indicator lamps (paragraph 6.5);",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Hazard- warning signal (paragraph 6.6);",
+    "rule": "5.16.3",
+    "description": "Hazard- warning signal (paragraph 6.6);",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Every tractor submitted for approval pursuant to this Standard shall be equipped with the following lighting and light-signalling devices",
+    "rule": "5.16.4",
+    "description": "Front position (side) lamp (paragraph 6.8); - The front position lamps may be omitted if end-outline marker lamps are installed and meet all the installation requirements for front position lamps.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Rear position (side) lamp (paragraph 6.9);",
+    "rule": "5.16.5",
+    "description": "Rear position (side) lamp (paragraph 6.9);",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Rear retro-reflector, non- triangular (paragraph 6.14);",
+    "rule": "5.16.6",
+    "description": "Rear retro-reflector, non- triangular (paragraph 6.14);",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Stop lamp (paragraph 6.7);",
+    "rule": "5.16.7",
+    "description": "Stop lamp (paragraph 6.7);",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "End-outline marker lamps (paragraph 6.12.) for tractors exceeding 2.1 m in width. Forbidden on all other tractors",
+    "rule": "5.16.8",
+    "description": "End-outline marker lamps (paragraph 6.12.) for tractors exceeding 2.1 m in width. Forbidden on all other tractors.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Rear registration plate lamp (paragraph 6.16)",
+    "rule": "5.16.9",
+    "description": "Rear registration plate lamp (paragraph 6.16)",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Every tractor submitted for approval pursuant to this Standard shall be equipped with the following lighting and light-signalling devices",
+    "rule": "5.16.10",
+    "description": "SMV Rear marking plate (rear warning triangle) (paragraph 6.17) : Mandatory for tractors with maximum speed less than or equal to 40km/h. For other tractors it is prohibited.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Driving Lamp (paragraph 6.1) : Mandatory for tractors having a maximum design speed of more than 40 km/h",
+    "rule": "5.16.11",
+    "description": "Driving Lamp (paragraph 6.1) : Mandatory for tractors having a maximum design speed of more than 40 km/h.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Side retro reflectors non-triangular (paragraph 6.15) Mandatory on tractors with overall length exceeding 4.6 m",
+    "rule": "5.16.12",
+    "description": "Side retro reflectors non-triangular (paragraph 6.15) Mandatory on tractors with overall length exceeding 4.6 m.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Side Marker Lamps (paragraph 6.19) : Mandatory on tractors with overall length exceeding 4.6 m",
+    "rule": "5.16.13",
+    "description": "Side Marker Lamps (paragraph 6.19) : Mandatory on tractors with overall length exceeding 4.6 m.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Signalling panel and signalling foil (paragraph 6.25) : Marking with class 5 or class F mandatory on vehicles exceeding 2,550 mm in overall width",
+    "rule": "5.16.14",
+    "description": "Signalling panel and signalling foil (paragraph 6.25) : Marking with class 5 or class F mandatory on vehicles exceeding 2,550 mm in overall width.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Optional Fitments : It may, in addition, be equipped with the following light-signalling devices",
+    "rule": "5.17",
+    "description": "Optional Fitments : It may, in addition, be equipped with the following light-signalling devices:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Driving lamp (paragraph 6.1) : Optional on tractors with design speed equal to or less than 40 km/h;",
+    "rule": "5.17.1",
+    "description": "Driving lamp (paragraph 6.1) : Optional on tractors with design speed equal to or less than 40 km/h;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Front fog lamp (paragraph 6.3);",
+    "rule": "5.17.2",
+    "description": "Front fog lamp (paragraph 6.3);",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Reversing lamp (s) (paragraph 6.4.)",
+    "rule": "5.17.3",
+    "description": "Reversing lamp (s) (paragraph 6.4.)",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Rear fog- lamp (s) (paragraph 6.10.)",
+    "rule": "5.17.4",
+    "description": "Rear fog- lamp (s) (paragraph 6.10.)",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Parking lamp (s) (paragraph 6.11.)",
+    "rule": "5.17.5",
+    "description": "Parking lamp (s) (paragraph 6.11.)",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Work lamp (s) (paragraph 6.13.)",
+    "rule": "5.17.6",
+    "description": "Work lamp (s) (paragraph 6.13.)",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Optional Fitments : It may, in addition, be equipped with the following light-signalling devices",
+    "rule": "5.17.7",
+    "description": "Side retro reflectors non-triangular (paragraph 6.15) Optional for all tractors except for tractors as mentioned in 5.16.12 Optional on all tractors where conspicuity marking as per 6.22 is provided",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Front retro-reflector, non-triangular (paragraph 6.18)",
+    "rule": "5.17.8",
+    "description": "Front retro-reflector, non-triangular (paragraph 6.18)",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Side Marker Lamps (paragraph 6.19) : Optional for all tractors except for tractors as mentioned in 5.16.13",
+    "rule": "5.17.9",
+    "description": "Side Marker Lamps (paragraph 6.19) : Optional for all tractors except for tractors as mentioned in 5.16.13",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Daytime Running Lamps (paragraph 6.20)",
+    "rule": "5.17.10",
+    "description": "Daytime Running Lamps (paragraph 6.20)",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Cornering Lamps (paragraph 6.21)",
+    "rule": "5.17.11",
+    "description": "Cornering Lamps (paragraph 6.21)",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Conspicuity Markings (paragraph 6.22)",
+    "rule": "5.17.12",
+    "description": "Conspicuity Markings (paragraph 6.22)",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Exterior Courtesy Lamp (paragraph 6.23)",
+    "rule": "5.17.13",
+    "description": "Exterior Courtesy Lamp (paragraph 6.23)",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Maneuvering Lamps (paragraph 6.24)",
+    "rule": "5.17.14",
+    "description": "Maneuvering Lamps (paragraph 6.24)",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Signalling panel and signalling foil (paragraph 6.25) : Optional on vehicles not exceeding 2,550 mm in overall width",
+    "rule": "5.17.15",
+    "description": "Signalling panel and signalling foil (paragraph 6.25) : Optional on vehicles not exceeding 2,550 mm in overall width.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": null,
+    "rule": "5.18",
+    "description": "The fitting of each of the lighting and light-signalling devices mentioned in paragraphs 5.16. and 5.17. above shall be effected in conformity with the relevant requirements in paragraph 6. of this Standard.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": null,
+    "rule": "5.19",
+    "description": "The fitting of any lighting and light-signalling devices other than those mentioned in paragraphs 5.16. and 5.17. above is prohibited for the purposes of type approval. This provision does not prevent national regulation to require or prohibit:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "An approved type special warning lamp, or",
+    "rule": "5.19.1",
+    "description": "An approved type special warning lamp, or",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "General provisions relating to geometric visibility",
+    "rule": "5.20",
+    "description": "General provisions relating to geometric visibility",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "General provisions relating to geometric visibility",
+    "rule": "5.20.1",
+    "description": "There shall be no obstacle on the inside of the angles of geometric visibility to the propagation of light from any part of the apparent surface of the lamp observed from infinity. However, no account is taken of obstacles, if they were already presented when the lamp was type-approved",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "If measurements are taken closer to the lamp, the direction of observation shall be shifted parallel to achieve the same accuracy",
+    "rule": "5.20.2",
+    "description": "If measurements are taken closer to the lamp, the direction of observation shall be shifted parallel to achieve the same accuracy.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "General provisions relating to geometric visibility",
+    "rule": "5.20.3",
+    "description": "If, when the lamp is installed, any part of the apparent surface of the lamp is hidden by any further parts of the vehicle, proof shall be furnished that the part of the lamp not hidden by obstacles still conforms to the photometric values prescribed for the approval of the device",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Number of lamps",
+    "rule": "5.21",
+    "description": "Number of lamps",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "The number of lamps mounted on the vehicle shall be equal to the number indicated in the individual specifications",
+    "rule": "5.21.1",
+    "description": "The number of lamps mounted on the vehicle shall be equal to the number indicated in the individual specifications.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Number of lamps",
+    "rule": "5.21.2",
+    "description": "With the exception of retro-reflectors, a lamp even bearing an approval mark is deemed not to be present when it cannot be made to operate by the sole installation of a light source and/or a fuse.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": null,
+    "rule": "5.22",
+    "description": "The use of lamps approved for and equipped with LED substitute light source(s), is allowed exclusively in the case where the statement as mentioned below is present and positive",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "INDIVIDUAL SPECIFICATIONS",
+    "rule": "6.0",
+    "description": "Two or four. No individual specifications. The outer edges of the illuminating surface shall in no case be closer to the extreme outer edge of the tractors than the outer edges of the illuminating surface of the passing lamps. No individual specifications As near to the front of the tractor as possible; however, the light emitted shall not in any circumstances cause discomfort to the driver either directly or indirectly through the visibility of the illuminating surface, including its visibility in areas which do not appear to be illuminated in the direction of observation considered, shall be ensured within a divergent space defined by generating line a based on the perimeter of the illuminating surface and forming an angle of not less than 5° with the axis of reference of the headlamp. Forwards. Apart from the devices necessary to maintain correct adjustment and when there are Two pairs of driving lamps, one pair, consisting of headlamps functioning as driving lamp only, may swivel, according to the angle of lock on the steering, about an approximately vertical axis. , 1 = . , 2 = of the tractor.. 6.1.4., 1 = Geometric Visibility. 6.1.4., 2 = The visibility of the illuminating surface, including its visibility in areas which do not appear to be illuminated in the direction of observation considered, shall be ensured within a divergent space defined by generating line a based on the perimeter of the illuminating surface and forming an angle of not less than 5° with the axis of reference of the headlamp.. 6.1.5., 1 = Alignment. 6.1.5., 2 = Forwards. Apart from the devices necessary to maintain correct adjustment and when there are Two pairs of driving lamps, one pair, consisting of headlamps functioning as driving lamp only, may swivel, according to the angle of lock on the steering, about an approximately vertical axis.. 6.1.6., 1 = May be grouped. 6.1.6., 2 = With the passing lamp and the other front lamps.. 6.1.7, 1 = May not be combined. 6.1.7, 2 = With any other lamp.. 6.1.8, 1 = May be reciprocally incorporated. 6.1.8, 2 = with the passing lamp, unless the driving lamp swivels according to the angle of lock of the steering; with the front position (side) lamp; with the front fog-lamp; with the parking lamp.. 6.1.9, 1 = Electrical connections. 6.1.9, 2 = The driving lamp may be switched on either simultaneously or in pairs. For changing over from the passing to the driving beam at least one pair of driving lamps shall be switched on. For changing over from the driving to the passing beam all driving lamps s hall be switched off simultaneously. The passing lamps may remain. 6.1.10, 1 = \"Circuit closed\" tell- tale. 6.1.10, 2 = Mandatory.. 6.1.11, 1 = Other requirements. 6.1.11, 2 = The sum of maximum intensities of driving beams which can be switched on simultaneously shall not exceed 4,30,000 cd, which corresponds to a reference value of 100. This maximum intensity shall be obtained by adding together the individual maximum intensities measured at the time of type- approval and shown on the relevant approval reports.. 6.2., 1 = Passing Lamps. 6.2., 2 = . 6.2.1, 1 = Number:. 6.2.1, 2 = Two (or four - see paragraph 6.2.3.2.1.). 6.2.3 6.2.3.1, Arrangement = Position in Width. 6.2.3 6.2.3.1, No individual specifications. = No individual specifications. 6.2.3.2, Arrangement = Height above the ground. 6.2.3.2, No individual specifications. = if only two passing lamps are fitted minimum 500 mm (this value may be reduced to 350mm for tractors with maximum overall width not exceeding 1300mm) and maximum 1,500 mm This distance may be increased to 2,500 mm, if the height of 1,500 mm cannot be observed due to the design, taking account of the conditions of use of the tractor and its working equipment;. 6.2.3.2.1, Arrangement = . 6.2.3.2.1, No individual specifications. = In the case of tractors equipped for the fitting of portable devices at the front, two passing lamps in addition to the lamps mentioned in paragraph 6.2.1 shall be allowed at a height not exceeding 4,000 mm. If the electrical connections are such that two pairs of headlamps cannot be switched on at the same time.. 6.2.3.3., Arrangement = Length. 6.2.3.3., No individual specifications. = As near to the front of the tractor as possible; however, the light emitted shall not in any circumstances cause discomfort to the driver either directly or indirectly through the rear-view mirrors and/or other reflecting surfaces of the tractor.. 6.2.4., Arrangement = Geometric Visibility. 6.2.4., No individual specifications. = Defined by angles α and β as specified in paragraph 2.11.. , Arrangement = . , No individual specifications. = α = 15° upwards and 10° downwards,. , Arrangement = . , No individual specifications. = β= 45° outwards and 5° inwards.. , Arrangement = . , No individual specifications. = Within this field, virtually the whole of the apparent surface of the lamp shall be visible.. , Arrangement = . , No individual specifications. = The presence of partitions or other items of equipment near the headlamp shall not give rise to secondary effects causing discomfort to other road users.. 6.2.5, Arrangement = Alignment. 6.2.5, No individual specifications. = The alignment of the passing lamps shall not vary according to the angle or lock of the steering.. 6.2.5.1, Arrangement = . 6.2.5.1, No individual specifications. = If the height of the passing lamps is equal to or greater than 500 mm and equal to or less than 1,500 mm, it shall be possible to lower the passing beam by between 0.5 and 4%; 1,200 mm above the ground However, if the shape, structure, design or operational conditions of the vehicle makes it impossible to keep the lamp within 1,200 mm it is allowed to keep the lamp within a maximum height of 4,000 mm. In the latter case the lamp shall be installed with a downwards inclination of: - -At least 3° for a mounting height larger than 2,000 mm and not more than 3,000 mm and - -At least 6° for a mounting height larger than 3,000 mm and within a maximum height of 4,000 mm. - -No inclination is needed for mounting height up to 2,000 mm No individual specifications. Defined by angles α and β as specified in paragraph 2.10 α = 15° upwards and 5° downwards; β = 45° to right and to left if there is only one lamp; β = 45° outwards and 30° inward if there are two lamps - -either the engine is running; - -or one of the devices controlling the starting and stopping of the engine is in such a position that operation of the engine is possible. The number of devices shall be such that they can emit signals which correspond to one of the arrangements referred to in paragraph 6.5.2. - \"A\" Two front direction-indicator lamps (category 1,1a or 1b), Two rear direction-indicator lamps (category 2a). These lamps may be independent, grouped or combined. - \"B\" Two front direction-indicator lamps (category 1, 1a or 1b), Two repeating side direction-indicator lamps (category 5 or 6), Two rear direction-indicator lamps (category 2a). front and repeating side lamps may be independent, grouped, or combined. - \"C\" Two front direction-indicator lamps (category 1, 1a or 1b), Two rear direction-indicator lamps (category 2a), Two repeating side indicator lamps (category 5 or 6) in certain cases as specified in paragraphs 6.5.3.3. - \"D\" Two front direction-indicator lamps (category 1,1a or 1b), Two rear direction-indicator lamps (category 2a). Arrangement \"A\" shall be allowed only on tractors whose overall length does not exceed 4.60 m and in the case of which the distance between the outer edges of the illuminating surfaces is not more than 1.60 m. Arrangements \"B\", \"C\" and \"D\" shall apply to all tractors. The number, position and horizontal visibility of the indicator lamps shall be such that they can give indications corresponding to at least one of the arrangements defined below. The angles of visibility are hatched on the diagrams; the angles shown are minimum values which may be exceeded; all the angles of visibility are measured from the center of the illuminating surface. Except in the case of category 1 direction indicator lamps of arrangement \"C\", the edge of the illuminating surface furthest from the median longitudinal plane of the tractor shall not be more than 400 mm from the extreme outer edge of the tractor. The distance between the inner edges of the two illuminating surfaces of a pair of lamps shall be not less than 500 mm. For front direction-indicator lamps the illuminating surface should be not less than 40 mm from the illuminating surface of the passing lamps or front fog-lamps, if any. A smaller distance is permitted if the luminous intensity in the reference axis of the direction-",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Driving Lamps",
+    "rule": "6.1",
+    "description": "Driving Lamps",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Number",
+    "rule": "6.1.1",
+    "description": "Number:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Arrangement",
+    "rule": "6.1.2",
+    "description": "Arrangement",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Position in",
+    "rule": "6.1.3",
+    "description": "Position in",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Width",
+    "rule": "6.1.3.1",
+    "description": "Width",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Height",
+    "rule": "6.1.3.2",
+    "description": "Height",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Length",
+    "rule": "6.1.3.3",
+    "description": "Length",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": null,
+    "rule": "6.2.5.2",
+    "description": "1 = . 6.2.5.2, 2 = If the height of the passing lamps is greater than 1,500 but not greater than 2,500 mm, the limit of 4% laid down in paragraph 6.2.5.1. shall be increased to 6%; the passing lamps referred to in paragraph 6.2.3.2.1. shall be aligned in such a way that, measured at 15 m from the lamp, the horizontal line separating the lit zone from the unlit zone is situated at a height equivalent to only half the distance between the ground and the center of the lamp.. 6.2.5.3, 1 = . 6.2.5.3, 2 = Dipped beam headlamp levelling device (optional). 6.2.5.3.1, 1 = . 6.2.5.3.1, 2 = A headlamp levelling device may be automatic or manually adjustable.. 6.2.5.3.2, 1 = . 6.2.5.3.2, 2 = Devices which are adjusted manually, either continuously or non-continuously, shall have a stop position at which the lamps can be returned to the initial inclination by means of the usual adjusting screws or similar means. These manually adjustable devices shall be operable from the driver's seat. Continually adjustable devices shall have reference marks indicating the loading conditions that require adjustment of the dipped- beam.. 6.2.5.3.3, 1 = . 6.2.5.3.3, 2 = The passing-beam shall not assume a position in which the dip is less than it was at original adjustment. 6.2.6, 1 = May be grouped. 6.2.6, 2 = With the driving lamps and the other front lamps. 6.2.7, 1 = May not be combined. 6.2.7, 2 = With any other lamp.. 6.2 8, 1 = May be reciprocally incorporated. 6.2 8, 2 = With the driving lamp, unless the latter lamp swivels according to the angle of lock of the steering;. , 1 = . , 2 = With the other front lamps.. 6.2.9, 1 = Electrical connections. 6.2.9, 2 = The control for changing over to the passing beam shall switch off all driving beam lamps simultaneously. The passing lamps may remain switched on at the same time as the driving beams. 6.2.10, 1 = \"Circuit closed\" tell-tale. 6.2.10, 2 = Optional",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": null,
+    "rule": "6.2.11",
+    "description": "1 = Other requirements. 6.2.11, 2 = The requirements of paragraph 5.5.2. Shall not apply to the passing lamps .. 6.3, 1 = Front Fog Lamp. 6.3, 2 = . 6.3.1, 1 = Number. 6.3.1, 2 = Two.. 6.3.2, 1 = Arrangement. 6.3.2, 2 = No individual specifications.. 6.3.3, 1 = Position in. 6.3.3, 2 = . 6.3.3.1, 1 = Width. 6.3.3.1, 2 = No individual specifications.. 6.3.3.2, 1 = Height. 6.3.3.2, 2 = No less than 250 mm above the ground. No point on the illuminating surface shall be higher than the highest point on the illuminating surface of the passing lamp. 6.3.3.3, 1 = Length. 6.3.3.3, 2 = As near to the front of the tractor as possible; however, the light emitted shall not in any circumstances cause discomfort to the driver either directly or indirectly through the rear-view mirrors and/or other reflecting surfaces of the tractor.. 6.3.4, 1 = Geometric visibility. 6.3.4, 2 = Defined by angles α and β (as specified in paragraph 2.10, α = 5° upwards and downwards; β = 45° outwards and 5° inwards.. 6.3.5, 1 = Alignment. 6.3.5, 2 = The alignment of the front fog-lamps shall not vary according to the angle of lock of the steering. They shall be directed forwards without causing undue dazzle or discomfort to oncoming drivers and other road users.. 6.3.6, 1 = May be grouped. 6.3.6, 2 = With other front lamps.. 6.3.7, 1 = May not be combined. 6.3.7, 2 = With other front lamps.. 6.3.8, 1 = May be reciprocally incorporated. 6.3.8, 2 = With driving lamps which do not swivel according to the angle of lock of the steering when there are four driving lamps; With the front position (side) lamps and the parking lamps.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": null,
+    "rule": "6.3.9",
+    "description": "1 = Electrical connections. 6.3.9, 2 = It shall be possible to switch the fog lamps on or off independently of the driving lamps and passing lamps and vice versa. 6.3.10, 1 = Circuit closed\" tell-tale. 6.3.10, 2 = Optional.. 6.4., 1 = Reversing Lamp (s). 6.4., 2 = Reversing Lamp (s). 6.4.1, 1 = Number:. 6.4.1, 2 = One or two.. 6.4.2, 1 = Arrangement. 6.4.2, 2 = No individual specifications.. 6.4.3, 1 = Position in. 6.4.3, 2 = . 6.4.3.1, 1 = Height above the ground. 6.4.3.1, 2 = Not less than 250 mm and not more than",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Width",
+    "rule": "6.4.3.2",
+    "description": "Width",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Length",
+    "rule": "6.4.3.3",
+    "description": "Length",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Geometric Visibility",
+    "rule": "6.4.4",
+    "description": "Geometric Visibility",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": null,
+    "rule": "6.4.5",
+    "description": "1 = Alignment. 6.4.5, 2 = Rearwards.. 6.4.6, 1 = May be grouped. 6.4.6, 2 = With any other rear lamp.. 6.4.7, 1 = May not be combined. 6.4.7, 2 = With other lamp.. 6.4.8, 1 = May be reciprocally incorporated. 6.4.8, 2 = With other lamp.. 6.4.9, 1 = Electrical connections. 6.4.9, 2 = It can only be lit up or remain alight if the reverse gear is engaged and if:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": null,
+    "rule": "6.4.10",
+    "description": "\"Circuit closed\" telltale Optional",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Direction Indicator Lamp (See diagrams, Annex 6)",
+    "rule": "6.5",
+    "description": "Direction Indicator Lamp (See diagrams, Annex 6)",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Number",
+    "rule": "6.5.1",
+    "description": "Number:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Arrangement",
+    "rule": "6.5.2",
+    "description": "Arrangement",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Position",
+    "rule": "6.5.3",
+    "description": "Position",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Width",
+    "rule": "6.5.3.1",
+    "description": "Width",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Height",
+    "rule": "6.5.3.2",
+    "description": "Height",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Length",
+    "rule": "6.5.3.3",
+    "description": "Length",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Geometric visibility",
+    "rule": "6.5.4",
+    "description": "Above the ground not less than 400 mm and not more than 2,500 mm and within a maximum height of 4,000 mm for optional directionindicator lamps. For vehicles with a maximum overall width not exceeding 1,300 mm not less than 350 mm above the ground The distance between the center of reference of the illuminating surface of the category 1 indicator (arrangement \"B\"), category 5 or 6 indicator (arrangement 'B' and 'C') and the transverse plane which marks the forward boundary of the tractor's overall length normally shall not exceed 1,800 mm. If the structure of the tractor makes it impossible to keep to the minimum angles of visibility, this distance may be increased to 2,600 mm. Horizontal angles: See arrangement diagrams. In arrangements \"B\" and \"C\", the value 5° given for the dead angle of visibility to the rear of the repeating side indicator should not be exceeded. This value may be increased to 10°, however, where it is impossible to adhere to the 5° limit. In all the arrangements the value 10° given for the inward angle of visibility of the front indicator may be reduced to 3° for tractors with an overall width not exceeding 1,400 mm. For rear direction indicators, the horizontal inward angle may be reduced to 30° if the shape of the bodywork makes it impossible to reach 45° Vertical angles: 15° above and below the horizontal. The vertical angle below the horizontal may be reduced to 10° in the case of side repeating direction-indicator lamps of arrangements \"B\" and \"C\" if their height is less than 1,900 mm. The same applies in the case of directionindicator lamps in category 1 of arrangements \"B\" and \"D\". If individual specifications for installations are laid down by the manufacturer of the lamp they shall be observed. in in In the event of failure, other than a short circuit, of one direction-indicator, the others shall continue to flash but the frequency under this condition may be different from that specified.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Alignment indicator lamp is equal to at least 400 cd",
+    "rule": "6.5.5",
+    "description": "Alignment indicator lamp is equal to at least 400 cd.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Direction Indicator Lamp (See diagrams, Annex 6)",
+    "rule": "6.5.6",
+    "description": "1 = Maybe grouped. 6.5.6, 2 = With one or more lamps, which may not be concealed. 6.5.7, 1 = May no to be combined. 6.5.7, 2 = With another lamp, save in accordance with the arrangements referred to in paragraph 6.5.2.. 6.5.8, 1 = May be reciprocally incorporated. 6.5.8, 2 = With a parking lamp only, but solely in the case of direction-indicator lamps in category 5.. 6.5.9, 1 = Electrical connections. 6.5.9, 2 = Direction-indicator lamps shall switch on independently of the other lamps. All direction- indicator lamps on one side of a tractor shall be switched on and off by means of one control and shall flash in phase.. 6.5.10, 1 = Operating tell-tale. 6.5.10, 2 = Mandatory for all direction-indicator lamps not directly visible to the driver. It may be optical or auditory or both. If it is optical, it shall be a flashing light which, in the event of the malfunction of any of the direction-indicator lamps other than the repeating side direction-indicator lamps, is either extinguished, or remains alight without flashing, or shows a marked change of frequency. If it is entirely auditory, it shall be clearly audible and shall show a marked change of frequency in the event of any malfunction. If a tractor is equipped to tow a trailer, it shall be equipped with a special optical operational tell- tale for the direction indicator lamps on the trailer unless the tell-tale of the drawing vehicle allows the failure of any one of the direction-indicator lamps on the tractor combination thus formed to be detected. 6.5.11, 1 = Other requirements. 6.5.11, 2 = The lamps shall be a flashing lamp flashing 90 ± 30 times per minute. Operation of the light- signal control shall be followed within not more than one second by the appearance of the light and within not more than one and one-half seconds by the first extinction. If a tractor is authorized to tow a trailer, the control of the direction-indicators on the tractor shall also operate the indicators of the trailer.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": null,
+    "rule": "6.6",
+    "description": "1 = Hazard Warning Signal. 6.6, 2 = Hazard Warning Signal. 6.6.1, 1 = Number:. 6.6.1, 2 = . 6.6.2, 1 = Arrangement. 6.6.2, 2 = . 6.6.3, 1 = Position. 6.6.3, 2 = . 6.6.3.1, 1 = Width. 6.6.3.1, 2 = . 6.6.3.2, 1 = Height. 6.6.3.2, 2 = . 6.6.3.3, 1 = Length. 6.6.3.3, 2 = As specified in the corresponding headings of paragraph 6.5.1 to 6.5.8. 6.6.4, 1 = Geometric visibility. 6.6.4, 2 = As specified in the corresponding headings of paragraph 6.5.1 to 6.5.8. 6.5.5, 1 = Alignment. 6.5.5, 2 = As specified in the corresponding headings of paragraph 6.5.1 to 6.5.8. 6.6.6, 1 = Maybe grouped. 6.6.6, 2 = As specified in the corresponding headings of paragraph 6.5.1 to 6.5.8. 6.6.7, 1 = May no to be combined. 6.6.7, 2 = As specified in the corresponding headings of paragraph 6.5.1 to 6.5.8. 6.6.8, 1 = May be reciprocally incorporated. 6.6.8, 2 = . 6.6.9, 1 = Electrical connections. 6.6.9, 2 = The signal shall be operated by means of a separate control enabling all the direction- indicator lamps to function in phase.. 6.6.10, 1 = Operating tell-tale. 6.6.10, 2 = Flashing warning light, which can operate in conjunction with the tell-tale(s) specified in paragraph 6.5.10.. 6.6.11, 1 = Other requirements. 6.6.11, 2 = As specified in paragraph 6.5.11. If a tractor is equipped to tow a trailer the hazard-warning signal control shall also be capable of activating the direction-indicator lamps on the trailer. The hazard-warning signal shall be able to function even if the device which starts or stops the engine is in a position which makes it impossible to start the engine.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Number",
+    "rule": "6.7.1",
+    "description": "Two S1 or S2 category devices and optional one S3 or S4 category device. Except in the case where a category S3 or S4 device is installed, two optional category S1 or S2 devices may be installed on vehicles. Only, when the median longitudinal plane of the vehicle is not located on a fixed body panel but separates one or two movable parts of the vehicle (e.g. doors), and lacks sufficient space to install a single device of the S3 or S4 category on the median longitudinal plane above such movable parts, either: - -Two devices of the S3 or S4 category type \"D\" may be installed; - -or One device of the S3 or S4 category may be installed offset to the left or to the right of the median longitudinal plane. No individual specifications. For S1 or S2 Category devices: Not less than 500 mm apart. This distance may be reduced to 400 mm if the overall width of the tractor is less than 1,400 mm. For S3 or S4 category devices: the center of reference shall be situated on the median longitudinal plane of the vehicle. However, in the case where the two devices of the S3 or S4 category are installed, according to paragraph 6.7.1., they shall be positioned as close as possible to the median longitudinal plane, one on each side of this plane. In the case where one S3 or S4 category lamp offset from the median longitudinal plane is permitted according to paragraph 6.7.1., this offset shall not exceed 150 mm from the median longitudinal plane to the center of reference of the lamp.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Arrangement",
+    "rule": "6.7.2",
+    "description": "Arrangement",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Position",
+    "rule": "6.7.3",
+    "description": "Position",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Width",
+    "rule": "6.7.3.1",
+    "description": "Width",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Position",
+    "rule": "6.7.3.2",
+    "description": "1 = Height. 6.7.3.2, 2 = For S1 or S2 Category devices: Above the ground: not less than 400 mm and not more than 2,500 mm, or not more than 4,000 mm for optional stop lamps For S3 or S4 category devices : Above the mandatory stop lamps. The horizontal plane tangential to the lower edge of the apparent surface of a S3 or S4 category device shall be above the horizontal plane tangential to the upper edge of the apparent surface of S1 or S2 categories devices. Two optional category S1 or S2 devices : Above the ground, not less than 400 mm and within a maximum height of 4,000 mm.. 6.7.3.3, 1 = Length. 6.7.3.3, 2 = No individual specification.. 6.7.4, 1 = Geometric visibility. 6.7.4, 2 = Horizontal angle: 45° outwards and inwards. The horizontal inward angle may be reduced to 30° if the shape of the bodywork makes it impossible to reach 45° Vertical angle: 15° above and below the horizontal. he vertical angle below the horizontal may be reduced to 10° if the lamp is situated less than 1,900 mm above ground, to 5° in the case of. 6.7.5, 1 = Alignment. 6.7.5, 2 = Towards the rear of the vehicle,. 6.7.6, 1 = May be grouped. 6.7.6, 2 = Grouped with one or more other rear lamps.. 6.7.7, 1 = May not be combined. 6.7.7, 2 = With another lamp. 6.7.8, 1 = May be reciprocally incorporated. 6.7.8, 2 = With the rear position (side) lamp and the parking lamp.. 6.7.9, 1 = Electrical connections. 6.7.9, 2 = Shall light up when the service brake is applied.. 6.7.10, 1 = Operational tell-tale. 6.7.10, 2 = Optional. If fitted, it shall be a non-flashing warning lamp which comes on in the event of the malfunctioning of the stop lamps.. 6.7.11, 1 = Other requirements. 6.7.11, 2 = The luminous intensity of the stop lamps shall be markedly greater than that of the rear position (side) lamps.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Front Position (Side) Lamp",
+    "rule": "6.8",
+    "description": "be lamp and the stop lamp shall be more than than towards the rear. 6.8.6., Alignment = May be grouped. 6.8.6., Towards the front. = With any other front lamp.. 6.8.7., Alignment = May not be combined. 6.8.7., Towards the front. = With other lamps.. 6.8.8., Alignment = May be reciprocally incorporated. 6.8.8., Towards the front. = With any other front lamps.. 6.8.9., Alignment = Electrical connections. 6.8.9., Towards the front. = However, if a front position lamp is reciprocally incorporated with a direction-indicator, the electrical connection of the front position lamp on the relevant side of the vehicle or the reciprocally incorporated part of it may be such that it is switched off during the entire period (both ON and OFF cycle) of activation of the direction-indicator lamp.. 6.8.10, Alignment = Tell-tale. 6.8.10, Towards the front. = Mandatory. This tell-tale shall be non-flashing. It shall not be required if the instrument panel lighting can only be turned on simultaneously with the front position (side) lamps.. 6.9., Alignment = Rear Position (Side)Lamp. 6.9., Towards the front. = Rear Position (Side)Lamp. 6.9.1, Alignment = Number. 6.9.1, Towards the front. = Two or more (see paragraphs 6.9.3.3 and 6.9.4.1). 6.9.2, Alignment = Arrangement. 6.9.2, Towards the front. = No individual specifications. If four rear position lamps according to paragraph 6.9.4.1. Are fitted, at least one pair of rear position lamps shall be fixed .. 6.9.3, Alignment = Position. 6.9.3, Towards the front. = . 6.9.3.1, Alignment = Width. 6.9.3.1, Towards the front. = Except as provided in 6.9.4.1, That point on the illuminating surface which is farthest from the tractor's median longitudinal plane shall be not more than 400 mm from the extreme outer edge of the tractor. The distance between the inner edges of the two illuminating surfaces shall be not less than 500 mm. This distance may be reduced to 400 mm. 6.9.3.2, Alignment = Height. 6.9.3.2, Towards the front. = Except as provided in 6.9.4.1, Above the ground not less than 400 mm and not more than 2,500 mm For vehicles with a maximum overall width not exceeding 1,300 mm above the ground not less than 250 mm. , 1 = . , 2 = lamps to be fitted as far separated in height as practicable and compatible with design / operational requirements of the vehicle and symmetry of the lamps. 6.12.3.3, 1 = Length. 6.12.3.3, 2 = No individual specification.. 6.12.4, 1 = Geometric visibility. 6.12.4, 2 = Horizontal angle: 80° outwards.. 6.12.5, 1 = Alignment. 6.12.5, 2 = Such that the lamps meet the requirements concerning visibility towards the front and towards the rear.. 6.12.6, 1 = May not be grouped. 6.12.6, 2 = With any other lamps. 6.12.7, 1 = May not be combined. 6.12.7, 2 = With any other lamps. 6.12.8, 1 = May not be reciprocally incorporated. 6.12.8, 2 = With any other lamps. 6.12.9, 1 = Electrical connections. 6.12.9, 2 = No individual specifications. 6.12.10, 1 = Tell-tale. 6.12.10, 2 = Mandatory.. 6.12.11, 1 = Other requirements. 6.12.11, 2 = Subject to all the other conditions being met, the lamp visible from in front and the lamp visible from the rear, on the same side of the tractor, may be included in one device. The position of an end-outline marker lamp in relation to the corresponding position (side) lamp shall be such that the distance between the projections on a transverse vertical plane of the points nearest to one another of the illuminating surfaces of the two lamps considered is not less than 200 mm.. 6 .13, 1 = Work Lamp. 6 .13, 2 = . 6.13.1, 1 = Number. 6.13.1, 2 = No individual specifications. 6.13.2, 1 = Arrangement. 6.13.2, 2 = No individual specifications. 6.13.3, 1 = Position. 6.13.3, 2 = No individual specifications.. 6.13.4, 1 = Geometric visibility. 6.13.4, 2 = No individual specifications mm and not more than 2,500 mm. 6 .14.4, Length = Geometric visibility. 6 .14.4, No individual specifications = Horizontal angle: 30° inwards and outwards.. 6.14.4.1, Length = . 6.14.4.1, No individual specifications = If it is impossible to observe the above position and visibility requirements, four retro reflectors may be fitted in accordance with the following installation specifications:. 6.14.4.1.1, Length = . 6.14.4.1.1, No individual specifications = Two retro reflectors shall keep within the maximum height of 900 mm above the ground. However, this upper limit may be increased to not more than 1,500 mm if it is impossible to keep within the height of 900 mm without having to use fixing devices liable to be easily damaged or bent.. 6.14.4.1.2, Length = . 6.14.4.1.2, No individual specifications = The other two shall keep within a maximum height of 2,500 mm above the ground and shall be bound by the requirements of paragraph 6.14.3.1.. 6.14.5, Length = Alignment. 6.14.5, No individual specifications = Towards the rear.. 6.14.6, Length = May be grouped. 6.14.6, No individual specifications = With any other lamp. 6.14.7, Length = Other requirements. 6.14.7, No individual specifications = The illuminating surface of the retro reflector may have parts in common with that of any other rear lamp.. 6.15, Length = Side Retro Reflectors, Non-Triangular. 6.15, No individual specifications = Side Retro Reflectors, Non-Triangular 6.15.1 Number Such that the requirements for longitudinal positioning are complied with. Additional retro-reflecting devices and materials (including two retro-reflectors not complying with paragraph 6.15.3 below), are permitted provided they do not impair the effectiveness of the mandatory lighting and light-signalling devices Vertical angle: 10° above and below the horizontal. The vertical angle below the horizontal may be reduced to 5° in the case of a side-marker lamp less than 750 mm above the ground. In the case of tractors equipped for the fitting of portable devices at the front, two Daytime Running Lamp (DRL)lamps in addition to the lamps mentioned in paragraph 6.20.1. shall be allowed within a maximum height of 4,000 mm if the electrical connections are such that two pairs of DRL lamps cannot be switched on at the same time. 6.20.3.3 Length 6.20.6.2 6.20.6.3 At the front of the tractor. This requirement shall be deemed to be satisfied if the light emitted does not cause discomfort to the driver either directly, or indirectly through the devices for indirect vision and/or other reflecting surfaces of the tractor Horizontal: outwards 20° and inwards 5°. Vertical : upwards 10° and downwards 10° Towards the front The daytime running lamps shall be switched ON automatically when the device which starts and/or stops the engine is in a position which makes it possible for the engine to operate. However, daytime running lamps may remain OFF while the automatic transmission control is in the park or neutral position, while the parking brake is applied or after the propulsion system is activated but the tractor was not set in motion for the first time. The daytime running lamps shall switch OFF automatically when the front fog lamps or headlamps are switched ON, except when the latter are used to give intermittent luminous warnings at short intervals. Furthermore, any of the lamps referred to in paragraph 5.11. may be switched ON when the daytime running lamps are switched ON. If the distance between the front directionindicator lamp and the daytime running lamp is equal or less than 40 mm, the electrical connections of the daytime running lamp on the relevant side of the vehicle may be such that either: - (a) It is switched OFF; or - (b) Its luminous intensity is reduced during the entire period (both ON and OFF cycle) of activation of a front direction-indicator lamp If a direction-indicator lamp is reciprocally incorporated with a daytime running lamp, the electrical connections of the daytime running lamp on the relevant side of the vehicle shall be 6.20.7 such that the daytime running lamp is switched OFF during the entire period (both ON and OFF cycle) of activation of the direction-indicator lamp. Optional. If provided shall be Closed Circuit Tell-Tale. , 1 = returned in the straight-ahead position.. 6.21.6.2, 1 = When the reversing lamp is switched ON, both cornering lamps may be switched on simultaneously, independently from the steering wheel or direction-indicator position. In this case, the cornering lamps shall be switched OFF when the reversing lamp is switched OFF.. 6.21.7, 1 = Tell Tale None. 6.21.8, 1 = Other requirements The cornering lamps shall not be activated at tractor speeds above 40 km/h.. 6.22, 1 = CONSPICUITY MARKINGS. 6.22.1, 1 = Number According to the presence. 6.22.2, 1 = Arrangement shall be as close as practicable to horizontal and vertical, compatible with the shape, structure, design and operational requirements of the vehicle. 6.22.3, 1 = Position No individual specifications. 6.22.4, 1 = Geometric Visibility No individual specifications. 6.22.5, 1 = Orientation No individual specifications. 6.23, 1 = EXTERIOR COURTESY LAMP. 6.23.1, 1 = Number No individual specifications. 6.23.2, 1 = Arrangement No individual specifications. 6.23.3, 1 = Position No individual specifications. 6.23.4, 1 = Geometric Visibility No individual specifications. 6.23.5, 1 = Orientation No individual specifications. 6.23.6, 1 = Electrical Connection No individual specifications. 6.23.7, 1 = Tell Tale No individual specifications. 6.23.8, 1 = Other Requirements The exterior courtesy lamp shall not be activated unless the tractor is stationary and one or more of the following conditions is satisfied: - (c) A load compartment door is opened. The provisions of paragraph 5.10. shall be met in all fixed positions of use. The Technical Service shall, to the satisfaction of the authority responsible for type-approval, perform a visual test to verify that there is no direct visibility of the apparent surface of the exterior courtesy lamps, if viewed by an observer moving on the boundary of a zone on a transverse plane 10 m from the front of the vehicle, a transverse plane 10 m from the rear of the vehicle , and two longitudinal planes 10 m from each side of the vehicle; these four planes to extend from 1 m to 3 m above and perpendicular to the ground Or This requirement shall be verified by a drawing or simulation.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Front Position (Side) Lamp",
+    "rule": "6.8.1",
+    "description": "1 = Number. 6.8.1, 2 = Two or four (see paragraph 6.8.3.2.).. 6.8.2, 1 = Arrangement. 6.8.2, 2 = No individual specifications. 6.8.3, 1 = Position. 6.8.3, 2 = . 6.8.3.1, 1 = Width. 6.8.3.1, 2 = That point on the illuminating surface which is farthest from the tractor's median longitudinal plane shall be not more than 400 mm from the extreme outer edge of the vehicle and the clearance between the respective inner edges of the two illuminating surfaces shall be not less than 500 mm. In case, four nos. of lamps are fitted then this. 6.8.3.2, 1 = Height. 6.8.3.2, 2 = Above the ground, not less than 400 mm, not more than 2,500 mm. In the case of tractors equipped for the fitting of portable devices at the front, which may obscure the mandatory front position (side) lamps, two additional front position (side) lamps may be fitted at a height not exceeding 4,000 mm.. 6.8.3.3, 1 = Length. 6.8.3.3, 2 = No specifications provided that the lamps are aligned forwards and the angles of geometrical visibility specified in paragraph 6.8.4. are complied with.. 6.8.4, 1 = Geometric visibility:. 6.8.4, 2 = Horizontal angle For the two front position (side) lamps: 10° inwards and 80° outwards. However, the angle of 10° inwards may be reduced to 5° if the shape of the bodywork makes it impossible to keep to 10°. For tractors with any overall width not exceeding 1,400 mm this angle may be reduced to 3° if the shape of the bodywork makes it impossible to keep to 10°.. , 1 = . , 2 = Vertical angle. , 1 = . , 2 = 15° above and below the horizontal. The vertical angle below the horizontal may be reduced to 10° if the height of the lamp above the ground is less than 1,900 mm and to 5° if this height is less than 750 mm.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": null,
+    "rule": "6.9.3.3",
+    "description": "1 = Length. 6.9.3.3, 2 = At the rear of vehicle. Not more than 1,000 mm from the rearmost point of the tractor Parts of the tractor that extend the rearmost point of the illuminating surface of the rear position lamps by more than 1,000 mm shall be fitted with an additional rear position lamp.. 6.9.4, 1 = Geometric visibility. 6.9.4, 2 = Horizontal angle: For the two rear position (side) lamps: Either 45° inwards and 80° outwards, or 80° inwards and 45° outwards. The horizontal inward angle may be reduced to. 6.9.4.1, 1 = . 6.9.4.1, 2 = If it is impossible to observe the above position and visibility requirements, four rear position lamps may be fitted in accordance with the following installation specifications:. 6.9.4.1.1, 1 = . 6.9.4.1.1, 2 = Two rear position lamps shall keep within the maximum height of 2,500 mm above the ground. A distance of at least 300 mm between the interior edges of the rear position lamps shall be observed, and they shall have a vertical angle of. 6.9.4.1.2, 1 = . 6.9.4.1.2, 2 = The other two shall keep within a maximum height of 4,000 mm above the ground and shall be bound by the requirements of paragraph 6.9.3.1. 6.9.4.1.3, 1 = . 6.9.4.1.3, 2 = The combination of the two pairs shall meet the requirements for geometric visibility as specified in 6.9.4. above.. 6.9.5, 1 = Alignment May be grouped. 6.9.5, 2 = Towards the rear. any other rear. 6.9.6, 1 = . 6.9.6, 2 = With lamp.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": null,
+    "rule": "6.9.8",
+    "description": "May be combined = May be reciprocally incorporated. 6.9.8, With the rear registration-plate lamp. = With the stop lamps, the rear fog-lamp or the parking lamp.. 6.9.9, May be combined = Electrical connections. 6.9.9, With the rear registration-plate lamp. = No individual specifications.. 6.9.10, May be combined = \"Circuit closed\" tell- tale. 6.9.10, With the rear registration-plate lamp. = Shall be combined with that of the front position (side) lamps. This tell-tale shall be non-flashing. It shall not be required if the instrument panel lighting can only be turned on simultaneously with the front (side) position lamp.. 6.10, May be combined = Rear Fog-Lamp. 6.10, With the rear registration-plate lamp. = . 6.10.1, May be combined = Number. 6.10.1, With the rear registration-plate lamp. = One or two.. 6.10.2, May be combined = Arrangement. 6.10.2, With the rear registration-plate lamp. = This shall satisfy the conditions of geometric visibility.. 6.10.3, May be combined = Position. 6.10.3, With the rear registration-plate lamp. = . 6.10.3.1, May be combined = Width. 6.10.3.1, With the rear registration-plate lamp. = If there is only one rear fog lamp, it shall be in the median longitudinal plane of the tractor, or on the opposite side of the median longitudinal plane to the direction of traffic prescribed in the country of registration.. 6.10.3.2, May be combined = Height. 6.10.3.2, With the rear registration-plate lamp. = Above the ground, not less than 250 mm, not more than 1,900 mm, or not more than 2,500 mm if the shape of the bodywork makes it impossible to keep within 1,900 mm.. 6.10.3.3, May be combined = Length. 6.10.3.3, With the rear registration-plate lamp. = No individual specification.. 6.10.4, May be combined = Geometric visibility. 6.10.4, With the rear registration-plate lamp. = Horizontal angle: 25° inwards and outwards.. , May be combined = . , With the rear registration-plate lamp. = Vertical angle: 5° above and below the horizontal.. 6.10.5, May be combined = Alignment. 6.10.5, With the rear registration-plate lamp. = Towards the rear.. 6.10.6, May be combined = May be grouped. 6.10.6, With the rear registration-plate lamp. = With any other rear lamp,. 6.10.7, May be combined = May not be combined. 6.10.7, With the rear registration-plate lamp. = With other lamps",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": null,
+    "rule": "6.10.8",
+    "description": "1 = May be reciprocally incorporated. 6.10.8, 2 = With the rear position (side) lamps or the parking lamp.. 6.10.9, 1 = Electrical connections. 6.10.9, 2 = These shall be such that the rear fog-lamp can operate only when the passing lamps or driving lamps or front fog-lamps or a combination of these are switched on. They shall be such that when the rear fog-lamp is switched on it is capable of operating together with the driving lamps, the passing lamps and the front fog- lamps. When the rear fog-lamp is switched on, operating the driving or passing lamps control shall not extinguish the rear fog-lamp. If the front fog-lamps exist, the extinguishing of. 6.10.10, 1 = \"Circuit closed\" tell- tale. 6.10.10, 2 = Mandatory. An independent, fixed-intensity signal light. 6.11, 1 = Parking Lamp. 6.11, 2 = . 6.11.1, 1 = Number. 6.11.1, 2 = Dependent upon the arrangement.. 6.11.2, 1 = Arrangement. 6.11.2, 2 = Either two front lamps and two rear lamps, or one lamp on each side.. 6.11.3, 1 = Position. 6.11.3, 2 = . 6.11.3.1, 1 = Width. 6.11.3.1, 2 = That point on the illuminating surface which is farthest from the tractor's median longitudinal plane shall not be more than 400 mm from the extreme outer edge of the tractor. Furthermore, in the case of a pair of lamps, the lamps shall be symmetrical to the median longitudinal plane of the tractor.. 6.11.3.2, 1 = Height. 6.11.3.2, 2 = Above the ground, not less than 400 mm and not more than 2,500 mm. 6.11.3.3, 1 = Length. 6.11.3.3, 2 = No individual specifications.. 6.11.4, 1 = Geometric visibility. 6.11.4, 2 = Horizontal angle : 45° outwards, towards the front and towards the rear.. , 1 = . , 2 = Vertical angle : 15° above and below the horizontal. The vertical angle below the horizontal may be reduced to 10° if the height of the lamp above the ground is less than 1,500 mm; and to 5° if this height is less than 750 mm.. 6.11.5, 1 = Alignment. 6.11.5, 2 = Such that the lamps meet the requirements concerning visibility towards the front and",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": null,
+    "rule": "6.11.7",
+    "description": "May be grouped = May not be combined. 6.11.7, With any other lamp, = With any other lamps.. 6.11.8, May be grouped = May be \"reciprocally incorporated. 6.11.8, With any other lamp, = At the front with the front position (side) lamps, the passing lamps, the driving lamps and the front fog-lamps, At the rear, with the rear position (side) lamps,. , May be grouped = . , With any other lamp, = the stop lamps and the rear fog-lamps.. , May be grouped = . , With any other lamp, = With the direction indicator lamps in category 5.. 6.11.9, May be grouped = Electrical connections. 6.11.9, With any other lamp, = The connections shall allow the parking lamp(s) on the same side of the tractor to be lit independently of any other lamps.. 6.11.10, May be grouped = Tell-tale. 6.11.10, With any other lamp, = Optional. If there is one, it shall not be possible to confuse it with the tell-tale for the position (side) lamps.. 6.11.11, May be grouped = Other requirements. 6.11.11, With any other lamp, = The function of this lamp may also be performed by the simultaneous switching on of the front and rear position (side) lamps on one side of the tractor.. 6.12, May be grouped = End-Outline Marker Lamp. 6.12, With any other lamp, = End-Outline Marker Lamp. 6.12.1, May be grouped = Number. 6.12.1, With any other lamp, = Two visible from the front and two visible from the rear.. , May be grouped = . , With any other lamp, = Optional: additional lamps may be fitted as follows:. , May be grouped = . , With any other lamp, = (a) Two visible from the front;. , May be grouped = . , With any other lamp, = (b) Two visible from the rear. 6.12.2, May be grouped = Arrangement. 6.12.2, With any other lamp, = No individual specifications.. 6.12.3, May be grouped = Position. 6.12.3, With any other lamp, = . 6.12.3.1, May be grouped = Width. 6.12.3.1, With any other lamp, = As close as possible to the extreme outer edge of the tractor.. 6.12.3.2, May be grouped = Height. 6.12.3.2, With any other lamp, = At the maximum height compatible with the required position in width and with symmetry of the lamps.. , May be grouped = . , With any other lamp, = Both optional and mandatory (as applicable)",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": null,
+    "rule": "6.13.6",
+    "description": "Alignment = May not be \"grouped\". 6.13.6, No individual specification = With another lamp. 6.13.7, Alignment = May not be \"combined\". 6.13.7, No individual specification = With another lamp.. 6.13.8, Alignment = May not be \"reciprocally incorporated. 6.13.8, No individual specification = With another lamp. 6.13.9, Alignment = Electrical connections. 6.13.9, No individual specification = This lamp may be operated independently of all other lamps.. 6.13.10, Alignment = Tell-tale. 6.13.10, No individual specification = 'mandatory' for work lamp shall be applicable only for 'cab version' of tractors. It may be 'optional' for open station tractors.. 6.14, Alignment = Rear Retro Reflector, Non Triangular. 6.14, No individual specification = Rear Retro Reflector, Non Triangular. 6.14.1, Alignment = Number. 6.14.1, No individual specification = Two or four.. 6.14.2, Alignment = Arrangement. 6.14.2, No individual specification = No individual specifications.. 6 .14.3, Alignment = Position. 6 .14.3, No individual specification = . 6.14.3.1, Alignment = Width. 6.14.3.1, No individual specification = Except as provided in paragraph 6.14.4.1. the point on the illuminating surface which is farthest from the tractor's median longitudinal plane shall be not more than 400 mm from the extreme outer edge of the tractor. The inner edges of the reflex reflectors shall be not less than 600 mm apart. This distance may be reduced to 400 mm where the overall width of the tractor is less than 1,300 mm.. 6.14.3.2, Alignment = Height. 6.14.3.2, No individual specification = For 'Cab Version' of tractors: Except as provided in paragraph 6.14.4.1, not less than 400 mm and not more than 900 mm above the ground. However, the upper limit may be increased to not more than 1,500 mm if it is impossible to keep within the height of 900 mm without having to use fixing devices liable to be easily damaged or bent. , Alignment = . , No individual specification = For Open Station Tractors:. , Alignment = . , No individual specification = In height: above the ground, not less than 350",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": null,
+    "rule": "6.15.2",
+    "description": "1 = Arrangement. 6.15.2, 2 = The reflecting surface shall be mounted in a vertical plane (maximum deviation 10°) parallel to the longitudinal axis of the vehicle.. 6.15.3, 1 = Position. 6.15.3, 2 = . 6.15.3.1, 1 = Width. 6.15.3.1, 2 = No individual specification.. 6.15.3.2, 1 = Height. 6.15.3.2, 2 = Not less than 400 mm and not more than 900 mm above the ground. However, the upper limit may be increased to not more than 2,500 mm if it is impossible to keep within the height of 900 mm without having to use fixing devices liable to be easily damaged or bent.. 6.15.3.3, 1 = Length. 6.15.3.3, 2 = One reflector shall be not more than 3 m from the foremost point of the tractor, and either the same reflector or a second reflector shall be not more than 3 m from the rearmost point of the tractor. The distance between two reflectors on the same side of the tractor shall not exceed 3 m. If the structure, design or the operational use of the vehicle makes it impossible to comply with such a requirement, this distance may be increased to 4m.. 6.15.4, 1 = Geometric visibility. 6.15.4, 2 = Horizontal angle: 20° forwards and rearwards.. 6.15.5, 1 = Alignment. 6.15.5, 2 = Vertical angle: 10° above and below the horizontal. The vertical angle below the horizontal may be reduced to 5° if the length of the reflector is less than 750 mm.. , 1 = . , 2 = Towards the Side.. 6.16, 1 = Rear Registration Plate Lamp. 6.16, 2 = Rear Registration Plate Lamp. 6.16.1, 1 = Number. 6.16.1, 2 = Such that the device is able to illuminate the site of the registration plate. 6.16.2, 1 = Arrangement. 6.16.2, 2 = . 6.16.3, 1 = Position. 6.16.3, 2 = Such that the device is able to illuminate the site of the registration plate. 6.16.3.1, 1 = Width. 6.16.3.1, 2 =",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": null,
+    "rule": "6.16.3.2",
+    "description": "1 = Height. 6.16.3.2, 2 = Height. 6.16.3.3, 1 = Length. 6.16.3.3, 2 = Length. 6.16.4, 1 = Geometric visibility. 6.16.4, 2 = Geometric visibility. 6.16.5, 1 = Alignment. 6.16.5, 2 = Alignment. 6.16.6, 1 = May be grouped. 6.16.6, 2 = With one or more rear lamps.. 6.16.7, 1 = May be combined. 6.16.7, 2 = With the rear position (side) lamps.. 6.16.8, 1 = May not be reciprocally incorporated. 6.16.8, 2 = With any other lamp.. 6.16.9, 1 = Tell-tale. 6.16.9, 2 = Optional. If provided, its function shall be performed by the tell-tale prescribed for the front and rear position (side) lamps.. 6.16.10, 1 = Electrical connections. 6.16.10, 2 = The device shall light up only at the same time as the rear position (side) lamps.. 6.17, 1 = SMV Rear Marking Plate (Rear Warning Triangle). 6.17, 2 = SMV Rear Marking Plate (Rear Warning Triangle). 6.17.2, 1 = Number. 6.17.2, 2 = One. 6.17.3, 1 = Position. 6.17.3, 2 = Towards the rear in a vertical plane, within ± 10° in the centre. Or if there is a mounting constraint either LHS or RHS In height: between 600 mm to 1800 mm. If the structure, design or the operational use of the vehicle makes it impossible to comply with such a requirement, the upper limit may be increased up to 2100 mm. 6.17.4, 1 = Geometric visibility. 6.17.4, 2 = To be visible between 30 meter to180 meters from the rear of the tractor.. 6.17.5, 1 = Orientation. 6.17.5, 2 = Point of the triangle to be pointed upwards. 6.17.6, 1 = The size of the triangle is as per the Annex 7. If the structure of the tractor makes it impossible to maintain the dimensions as per Annex 7, it may be suitably modified, provided that each side is not less than 200 mm. 6.17.6, 2 = The size of the triangle is as per the Annex 7. If the structure of the tractor makes it impossible to maintain the dimensions as per Annex 7, it may be suitably modified, provided that each side is not less than 200 mm. 6.18, 1 = FRONT RETRO-REFLECTORS, NON-TRIANGULAR. 6.18, 2 = FRONT RETRO-REFLECTORS, NON-TRIANGULAR. 6.18.1, 1 = Number. 6.18.1, 2 = Two or four. 6.18.2, 1 = Arrangement. 6.18.2, 2 = No special requirement",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": null,
+    "rule": "6.18.3.1",
+    "description": "Position = Width. 6.18.3.1, = That point on the illuminating surface which is farthest from the tractor's median longitudinal plane shall not be more than 400 mm from the extreme outer edge of the vehicle.. 6.18.3.2, Position = Height. 6.18.3.2, = Above the ground, not less than 300 mm nor more than 1,500 mm. If this is not possible due to the design the front reflectors shall be arranged as low as possible.. 6.18.3.3, Position = Length. 6.18.3.3, = No specific requirement. 6.18.4, Position = Alignment. 6.18.4, = At the front of the tractor. 6.18.5, Position = Geometric visibility. 6.18.5, = Horizontal angle: 30° inwards and outwards. 6.18.5.1, Position = . 6.18.5.1, = ground If it is impossible to observe the above position and visibility requirements, four front retro reflectors may be fitted in accordance with the following installation. 6.18.5.1.1, Position = . 6.18.5.1.1, = specifications: If fitted, two reflectors shall keep within the maximum height of 1,200 mm above the. , Position = . , = ground. A distance of at least 300 mm between the interior edges of the front retro-reflectors shall be observed, and they shall have a vertical angle of visibility above the. 6.18.5.1.2, Position = . 6.18.5.1.2, = The other two shall keep within a maximum height of 2,500 mm above the ground and shall be bound by the requirements of paragraph 6.18.3.1",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": null,
+    "rule": "6.18.5.1.3",
+    "description": "1 = . 6.18.5.1.3, 2 = The combination of the two pairs shall meet the requirements for geometric visibility as specified in paragraph 6.17.4.. 6.18.6, 1 = Alignment. 6.18.6, 2 = Towards the front. 6.18.7, 1 = Other Requirements. 6.18.7, 2 = The illuminating surface of the retro-reflector may have parts in common with the apparent surface of any other lamp situated at the front.. 6.19, 1 = SIDE MARKER LAMPS. 6.19, 2 = SIDE MARKER LAMPS. 6.19.1, 1 = Number. 6.19.1, 2 = Such that the rules for longitudinal positioning are complied with.. 6.19.2, 1 = Arrangement. 6.19.2, 2 = No individual specifications. 6.19.3, 1 = Position. 6.19.3, 2 = . 6.19.3.1, 1 = Width. 6.19.3.1, 2 = No individual specifications. 6.19.3.2, 1 = Height. 6.19.3.2, 2 = No individual specifications. 6.19.3.3, 1 = Length. 6.19.3.3, 2 = At least one side-marker lamp shall be fitted to the middle third of the tractor, the foremost side-marker lamp being not further than 3 m from the front. The distance between two adjacent side- marker lamps shall not exceed 3 m. If the structure, design or the operational use of the tractor makes it impossible to comply with such a requirement, this distance may be increased to 4 m.. , 1 = . , 2 = The distance between the rearmost side-marker lamp and the rear of the tractor shall not exceed 1 m.. , 1 = . , 2 = However, for tractors the overall length of which does not exceed 6 m and for chassis-cabs, it is sufficient to have one side-marker lamp fitted within the first third or within the last third of the tractor length. For tractors, one side- marker lamp fitted within the middle third of the vehicle length is also sufficient.. , 1 = . , 2 = The side marker lamp may be part of the light emitting surface in common with the side retro- reflector.. 6.19.4, 1 = Geometric Visibility. 6.19.4, 2 = Horizontal angle: 45° to the front and to the rear; however, this value can be reduced to 30°",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": null,
+    "rule": "6.19.5",
+    "description": "1 = Orientation. 6.19.5, 2 = Towards the side. 6.19.6, 1 = Electrical connections. 6.19.6, 2 = Except as provided in 5.11, on tractors where installation of side-marker lamps is mandatory, these shall be wired to flash, provided that this flashing is in phase and at the same frequency with the direction- indicator lamps at the same side of the vehicle. 6.19.7, 1 = Tell Tale. 6.19.7, 2 = Optional. If it exists, its function shall be carried out by the tell-tale required for the front and rear position lamps. 6.19.8, 1 = Other Requirements. 6.19.8, 2 = When the rearmost side-marker lamp is combined with the rear position lamp, reciprocally incorporated with the rear fog-lamp or stop lamp, the photometric characteristics of the side-marker lamp may be modified during the illumination of the rear fog lamp or stop lamp.. , 1 = . , 2 = Rearmost side-marker lamps shall be amber if they flash with the rear direction-indicator lamp.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Daytime Running Lamps",
+    "rule": "6.20",
+    "description": "Daytime Running Lamps",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Daytime Running Lamps",
+    "rule": "6.20.1",
+    "description": "1 = Number. 6.20.1, 2 = Two or four (see paragraph 6.20.3.2). 6.20.2, 1 = Arrangement. 6.20.2, 2 = No special requirement. 6.20.3, 1 = Position. 6.20.3, 2 = . 6.20.3.1, 1 = Width. 6.20.3.1, 2 = No individual specifications. 6.20.3.2, 1 = Height. 6.20.3.2, 2 = Above the ground not less than 250 mm not more than 2,500 mm.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Geometric Visibility",
+    "rule": "6.20.4",
+    "description": "Geometric Visibility",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Orientation",
+    "rule": "6.20.5",
+    "description": "Orientation",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Electrical Connections",
+    "rule": "6.20.6.1",
+    "description": "Electrical Connections",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": null,
+    "rule": "6.21",
+    "description": "1 = CORNERING LAMPS. 6.21, 2 = CORNERING LAMPS. 6.21.1, 1 = Number. 6.21.1, 2 = Two or Four. 6.21.2, 1 = Arrangement. 6.21.2, 2 = No special Requirements. 6.21.3, 1 = Position. 6.21.3, 2 = . 6.21.3.1, 1 = Width. 6.21.3.1, 2 = No individual specification. 6.21.3.2, 1 = Length. 6.21.3.2, 2 = Not further than 1,000 mm from the front. 6.21.3.3, 1 = Height. 6.21.3.3, 2 = Above the ground not less than 250 mm nor more than 2,500 mm and up to 3,000 mm for two additional cornering lamps in the case of vehicles equipped for the fitting of portable devices at the front, which may obscure the cornering lamp. However, no point on the apparent surface in the direction of the reference axis shall be higher than the highest point on the apparent surface in the direction of the reference axis of the dipped-beam headlamp.. 6.21.4, 1 = Geometric visibility. 6.21.4, 2 = Horizontal: 30° to 60° outwards Vertical : 10° upwards and downwards.. 6.21.5, 1 = Orientation. 6.21.5, 2 = Such that the lamps meet the requirements for geometric visibility.. 6.21.6, 1 = Electrical Connections. 6.21.6, 2 = The cornering lamps shall be so connected that they cannot be activated unless the main-beam headlamps or the dipped-beam headlamps are switched ON at the same time. 6.21.6.1, 1 = . 6.21.6.1, 2 = The cornering lamp on one side of the tractor may only be switched ON automatically when the direction-indicators on the same side of the vehicle are switched ON and/or when the steering angle is changed from the straight- ahead position towards the same side of the vehicle. The cornering lamp shall be switched OFF automatically when the direction-indicator is switched OFF and/or the steering angle has",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "MANOEUVRING LAMPS",
+    "rule": "6.24.1",
+    "description": "1 = Number. 6.24.1, 2 = One or two (one per side). 6.24.2, 1 = Arrangement. 6.24.2, 2 = No special requirement, however the requirements of paragraph 6.24.8. apply.. 6.24.3, 1 = Position. 6.24.3, 2 = No special requirement. 6.24.4, 1 = Geometric Visibility. 6.24.4, 2 = No special requirement. 6.24.5, 1 = Orientation. 6.24.5, 2 = Downwards, however the requirements of paragraph 6.24.8. apply.. 6.24.6, 1 = Electrical Connection. 6.24.6, 2 = Manoeuvring lamps shall be so connected that they cannot be activated unless the main-beam headlamps or the dipped-beam headlamps are switched ON at the same time. The manoeuvring lamp(s) shall be activated automatically for slow manoeuvres up to 10 km/h provided that one of the. , 1 = . , 2 = following conditions is fulfilled:. , 1 = . , 2 = (a) Prior to the vehicle being set in motion for the first time after each manual activation of the propulsion system ; or",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Tell Tale",
+    "rule": "6.24.7",
+    "description": "Tell Tale",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Other Requirements",
+    "rule": "6.24.8",
+    "description": "Other Requirements",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Other Requirements",
+    "rule": "6.24.8.2",
+    "description": "- (b) Reverse gear is engaged; or - (c) A camera based system which assists parking manoeuvres is activated. The manoeuvring lamps shall be automatically switched off if the forward speed of the vehicle exceeds 10 km/h and they shall remain switched off until the conditions for activation are met again. No special requirement The Technical Service shall, to the satisfaction of the authority responsible for type-approval, perform a visual test to verify that there is no direct visibility of the apparent surface of these lamps, if viewed by an observer moving on the boundary of a zone on a transverse plane 10 m from the front of the vehicle, a transverse plane 10 m from the rear of the vehicle , and two longitudinal planes 10 m from each side of the vehicle; these four planes to extend from 1m to 3m above and parallel to the ground or The requirement of 6.24.9.1. shall be verified by a drawing or simulation or",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": null,
+    "rule": "6.25",
+    "description": "1 = SIGNALLING PANEL SIGNALLING FOIL. 6.25, 2 = SIGNALLING PANEL SIGNALLING FOIL. 6.25.1, 1 = Number. 6.25.1, 2 = Two or Four. 6.25.2, 1 = Arrangement. 6.25.2, 2 = Marking with class 5 or class F according to the specifications of Annex 8. 6.25.3, 1 = Position. 6.25.3, 2 = . 6.25.3.1, 1 = Width. 6.25.3.1, 2 = That point on the illuminating surface of at least one entire basic standard area which is farthest from the tractor's median longitudinal plane shall not be more than 100 mm from the extreme outer edge of the tractor. This value may be increased if the shape of the bodywork makes it impossible to keep within 100 mm.. 6.25.3.2, 1 = Length. 6.25.3.2, 2 = No individual specifications",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": null,
+    "rule": "6.25.3.3",
+    "description": "1 = Height No individual specifications. 6.25.4, 1 = Geometric Visibility No individual specifications. 6.25.5, 1 = Orientation Towards the front and the rear. 7.0, 1 = MODIFICATION AND EXTENSION OF APPROVAL OF THE VEHICLE TYPE OR OF THE INSTALLATION OF ITS LIGHTING AND LIGHT-SIGNALLING DEVICES. 7.1, 1 = Every modification pertaining to the information, even if the changes are not technical in nature declared in accordance with Para 3.1 shall be intimated by the manufacturer to the testing agency.. , 1 = If the changes are in parameters related to the provisions, the testing agency, which has issued the test report of compliance, shall then consider, whether,. 7.1.1, 1 = The model with the changed specifications still complies with provisions, or. 7.1.2, 1 = Any further verification is required to establish compliance.. 7.2, 1 = For considering whether testing is required or not, guidelines given in para 7.5 (Criteria for Extension of Approval) shall be used.. 7.3, 1 = In case of 7.1.2, tests for only those parameters which are affected by the modifications need be carried out. 7.4, 1 = In case of fulfillment of criterion of para 7.1.1 or after results of further verification as per para of 7.1.2 are satisfactory, the test report of compliance shall be extended for the changes carried out.. 7.5, 1 = Criteria for extension of approval :. 7.5.1, 1 = In case of following changes, the verification shall be carried out for establishing compliance of the changed parameters to the requirements specified in this standard.. 7.5.2, 1 = Number of any of the mandatory lighting and light-signalling devices and any addition to fitment of optional lamps.. 7.5.3, 1 = In case any increase in the dimensions for which a minimum value is specified or any decrease in the dimensions for which a maximum value is specified in this standard, verification on the prototype is not required if the difference between the modified dimension declared by the manufacturer and the requirement specified in this standard is more than 25 mm.. 7.5.4, 1 = If there are changes in the contour of the tractor, which increase the geometric visibility, verification on the prototype is not required.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 8",
+    "heading_number": "8",
+    "subheading": null,
+    "rule": "8.1",
+    "description": "CoP procedure laid down by the Ministry of Road Transport & Highways shall be applicable. For the purpose of COP, verification of parameters decided in COP standard shall be carried out only.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 10",
+    "heading_number": "10",
+    "subheading": null,
+    "rule": "10.1",
+    "description": "At the request of the applicant, type approvals for compliance to AIS-30 Rev-2 : 2025 shall be granted by test agencies from date of adoption of this standard in CMVR-TSC. Such type approvals shall be deemed to be compliance to AIS-030:Rev-1 : 2012.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 10",
+    "heading_number": "10",
+    "subheading": "At the request of applicant, type approval to the compliance to AIS030: Rev-1 : 2012. shall be granted up to the notified date of implementation of AIS-030: Rev-2 : 2024",
+    "rule": "10.2",
+    "description": "At the request of applicant, type approval to the compliance to AIS030: Rev-1 : 2012. shall be granted up to the notified date of implementation of AIS-030: Rev-2 : 2024.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 10",
+    "heading_number": "10",
+    "subheading": "Extension of Approvals for engineering and administrative changes",
+    "rule": "10.3",
+    "description": "Extension of Approvals for engineering and administrative changes:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 10",
+    "heading_number": "10",
+    "subheading": "Extension of Approvals for engineering and administrative changes",
+    "rule": "10.3.1",
+    "description": "In the case of 10.1, extensions shall be granted subject to the conditions of AIS-030: Rev-2:2024 such extensions shall be deemed to be compliance to AIS-030: Rev-1 : 2012.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 10",
+    "heading_number": "10",
+    "subheading": "In the case of 10.2, extensions shall be granted subject to conditions of AIS-030 : Rev-1 : 2012, till the notified date of implementation of AIS030 : Rev-2 : 2024",
+    "rule": "10.3.2",
+    "description": "In the case of 10.2, extensions shall be granted subject to conditions of AIS-030 : Rev-1 : 2012, till the notified date of implementation of AIS030 : Rev-2 : 2024",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 13",
+    "heading_number": "13",
+    "subheading": "Supplements",
+    "rule": "13.1",
+    "description": "In case of changes in ECE regulation, which are issued as supplements (Supplements do not affect the earlier type approvals) at the request of applicant, approval of compliance to this standard shall be issued taking into account the changes arising out of such supplement(s) to ECE regulation with approval from Chairman AISC. This shall be incorporated in the test report - Note: Such changes will be considered for inclusion in this standard at the time of its next amendment /revision. Changes in ECE regulation, which are issued as series of amendments (series of amendments may affect the earlier type approvals) will not be considered for issuing approval to this standard. However, Chairman, AISC may, on a case to case basis, permit to accept latest series of amendments. This shall be incorporated in the test report. Note: Such changes will be considered for inclusion in this standard at the time of its next revision.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-030",
+    "source_file": "1781154018_AIS-030 (Rev.2).pdf",
+    "heading": "SECTION 13",
+    "heading_number": "13",
+    "subheading": "Series of amendments",
+    "rule": "13.2",
+    "description": "Series of amendments",
+    "AIS": null
+  }
+]

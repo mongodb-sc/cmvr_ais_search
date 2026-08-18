@@ -1,0 +1,8 @@
+httpx==0.28.1
+fastapi==0.116.1
+pymongo==4.17.0
+python-dotenv==1.2.2
+gradio==6.20.0
+streamlit==1.41.1
+uvicorn==0.35.0
+voyageai==0.5.0

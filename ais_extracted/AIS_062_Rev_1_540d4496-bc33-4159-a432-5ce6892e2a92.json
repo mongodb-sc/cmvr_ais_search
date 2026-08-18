@@ -1,0 +1,184 @@
+[
+  {
+    "AIS_id": "AIS-062",
+    "source_file": "AIS_062_Rev_1_540d4496-bc33-4159-a432-5ce6892e2a92.pdf",
+    "heading": "SECTION 1",
+    "heading_number": "1",
+    "subheading": "Page 8, Clause 4.0",
+    "rule": "1.0",
+    "description": "Substitute following text for the existing text - 'Lighting and light-signalling devices fitted on agricultural tractors and Construction Equipment Vehicles(CEVs) as specified in 1.0 and equipped with either filament lamp and/or LED Module shall meet the requirements of specified AIS given in Table 1 below' Substitute following title for existing title wherever it appears: Performance Requirements of Lighting and Light-Signalling Devices for Agricultural Tractors and Construction Equipment Vehicles (CEVs) This standard lays down performance requirements of lighting and light- signalling devices for agricultural tractors.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-062",
+    "source_file": "AIS_062_Rev_1_540d4496-bc33-4159-a432-5ce6892e2a92.pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "Page 9, Table 1",
+    "rule": "2.0",
+    "description": "Substitute following text for the existing text for Sl. Nos.1, 2 and 10. 1, 1 = Main-beam headlamp and dipped-beam headlamp equipped with Filament Lamps and/or LED Modules. 1, 2 = AIS-010 (Part 1) (Rev.1) : 2010. 2, 1 = Main-beam headlamp and dipped-beam headlamp equipped with Filament Lamps or Gas-Discharge Light Sources. 2, 2 = AIS-010 (Part 2) (Rev.1) : 2010 Substitute following text for the existing text : This standard lays down performance requirements of lighting and light-signalling devices for agricultural tractors and Construction Equipment Vehicles (CEVs). The following standards are necessary adjuncts to this standard. AIS-030 (Rev.1): 2012, 1 = Installation Requirements of Lighting and Light - Signalling Devices for Agricultural Tractors. AIS-008(Rev.1): 2010, 1 = Installation Requirements of Lighting and Light- Signalling Devices for Motor Vehicle having more than Three Wheels, Trailer and Semi-Trailer excluding Agricultural Tractor and Special Purpose Vehicle. AIS-010 (Part 1) (Rev.1):2010, 1 = Provisions concerning the Approval of Headlamps emitting an Asymmetrical Passing Beam or a Driving Beam or both and equipped with Filament Lamps and/or LED Modules. AIS-010(Part2) (Rev.1):2010, 1 = Provisions concerning the Approval of Headlamps emitting a Symmetrical Passing Beam or a Driving Beam or Both and equipped with Filament Lamps or Gas-Discharge Light Sources. AIS-010 (Part 5) (Rev.1):2010, 1 = Requirements of Chromaticity Co-ordinates of Colour of Light emitted from Lighting and Light-Signalling Devices. AIS-012(Part 1) (Rev.1): 2011, 1 = Performance Requirements for Front Fog Lamps for Motor Vehicles. AIS-012(Part 2) (Rev. 1):2011, 1 = Performance Requirements for Rear Fog Lamps for Motor Vehicles. AIS-012 (Part 4) (Rev. 1):2011, 1 = Performance Requirements for Rear Registration Plate (mark) Illuminating Lamps Rear Registration Plates for Motor Vehicles. AIS-012 (Part 5) (Rev. 1):2011, 1 = Performance Requirements for Direction Indicators for Motor Vehicles AIS-012 (Part 6) (Rev. 1):2011, 1 = Performance Requirements for Front and Rear Position (Side) Lamps, Stop-Lamps and End- outline Marker Lamps for Motor Vehicles. AIS-012 (Part 7) (Rev. 1):2011, 1 = Performance Requirements for Reversing Lamps for Motor Vehicles. AIS-012 (Part 8) (Rev. 1):2011, 1 = Performance Requirements for Parking Lamps for Motor Vehicles. AIS-012 (Part 9) (Rev. 1):2011, 1 = Performance Requirements for Side-Marker Lamps for Motor Vehicles. AIS-057, 1 = Performance Requirements for Retro-Reflecting Devices for Power-Driven Vehicles and their Trailers. AIS-088, 1 = Performance Requirements of Rear Marking Plates (Rear Warning Triangles) for Automotive Vehicles, Agricultural Tractors their Trailers and Semi-Trailers",
+    "AIS": [
+      "AIS-008",
+      "AIS-010",
+      "AIS-012",
+      "AIS-030",
+      "AIS-057",
+      "AIS-088"
+    ]
+  },
+  {
+    "AIS_id": "AIS-062",
+    "source_file": "AIS_062_Rev_1_540d4496-bc33-4159-a432-5ce6892e2a92.pdf",
+    "heading": "SECTION 3",
+    "heading_number": "3",
+    "subheading": "Page 9, Table 1",
+    "rule": "3.0",
+    "description": "Add following text after Sl. Nos.11. 12, 1 = Daytime Running lamps (Only applicable for agricultural tractors). 12, 2 = AIS-012 (Part 10) (Rev 1) : 2011 PRINTED BY THE AUTOMOTIVE RESEARCH ASSOCIATION OF INDIA P. B. NO. 832, PUNE 411 004 ON BEHALF OF AUTOMOTIVE INDUSTRY STANDARDS COMMITTEE UNDER CENTRAL MOTOR VEHICLES RULES - TECHNICAL STANDING COMMITTEE SET-UP BY MINISTRY OF ROAD TRANSPORT & HIGHWAYS GOVERNMENT OF INDIA Add following row at the end of table : IS/ISO 12509 :2004- Earth-moving machinery - Lighting, signalling, and marking lights, and reflex-reflector devices.",
+    "AIS": [
+      "AIS-012"
+    ]
+  },
+  {
+    "AIS_id": "AIS-062",
+    "source_file": "AIS_062_Rev_1_540d4496-bc33-4159-a432-5ce6892e2a92.pdf",
+    "heading": "SECTION 3",
+    "heading_number": "3",
+    "subheading": "In addition to following, definitions referred in AIS- 030 Rev.1:2012, AIS- 008 (Rev. 1):2010 and AIS- 012 (Part 1 to 10) (Rev. 1):2011 shall be applicable;",
+    "rule": "3.1",
+    "description": "In addition to following, definitions referred in AIS- 030 Rev.1:2012, AIS- 008 (Rev. 1):2010 and AIS- 012 (Part 1 to 10) (Rev. 1):2011 shall be applicable;",
+    "AIS": [
+      "AIS-008",
+      "AIS-012",
+      "AIS-030"
+    ]
+  },
+  {
+    "AIS_id": "AIS-062",
+    "source_file": "AIS_062_Rev_1_540d4496-bc33-4159-a432-5ce6892e2a92.pdf",
+    "heading": "SECTION 3",
+    "heading_number": "3",
+    "subheading": "In addition to following, definitions referred in AIS- 030 Rev.1:2012, AIS- 008 (Rev. 1):2010 and AIS- 012 (Part 1 to 10) (Rev. 1):2011 shall be applicable;",
+    "rule": "3.1.1",
+    "description": "'Work Lamp (Plough lamp) of Different Type' means work lamp (Plough lamp) which differ in such essential respects as:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-062",
+    "source_file": "AIS_062_Rev_1_540d4496-bc33-4159-a432-5ce6892e2a92.pdf",
+    "heading": "SECTION 3",
+    "heading_number": "3",
+    "subheading": "The trade name or mark;",
+    "rule": "3.1.1.1",
+    "description": "The trade name or mark;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-062",
+    "source_file": "AIS_062_Rev_1_540d4496-bc33-4159-a432-5ce6892e2a92.pdf",
+    "heading": "SECTION 3",
+    "heading_number": "3",
+    "subheading": "The material constituting the lenses and coating if any",
+    "rule": "3.1.1.2",
+    "description": "The material constituting the lenses and coating if any: 1, Lighting and Light-signalling Device = Main-beam headlamp and dipped-beam headlamp equipped with HS1 or H4 category of filament lamps. 1, AIS Reference = AIS-010 (Part 1) (Rev.1) : 2010. 2, Lighting and Light-signalling Device = Main-beam headlamp and dipped beam headlamp equipped with S2 category of filament lamp. 2, AIS Reference = AIS-010 (Part 2) (Rev.1) : 2010. 3, Lighting and Light-signalling Device = Front fog lamp. 3, AIS Reference = AIS-012 (Part 1) (Rev.1) : 2011. 4, Lighting and Light-signalling Device = Rear fog lamp. 4, AIS Reference = AIS-012 (Part 2)(Rev.1): 2011. 5, Lighting and Light-signalling Device = Rear registration plate (mark) illuminating lamp. 5, AIS Reference = AIS-012 (Part 4) ( Rev 1) :2011. 6, Lighting and Light-signalling Device = Front and rear direction indicator lamp and hazard warning lamp. 6, AIS Reference = AIS-012 (Part 5)( Rev 1) : 2011. 7, Lighting and Light-signalling Device = Front and rear position lamp, stop lamp, end-outline marker lamp. 7, AIS Reference = AIS-012 (Part 6) ( Rev 1): 2011. 8, Lighting and Light-signalling Device = Reversing lamp. 8, AIS Reference = AIS-012 (Part 7) (Rev 1) : 2011. 9, Lighting and Light-signalling Device = Parking lamp. 9, AIS Reference = AIS-012(Part 8) (Rev 1) : 2011. 10, Lighting and Light-signalling Device = Rear and side retro-reflector (non triangular). 10, AIS Reference = AIS-057 ( Rev 1) :2010. 11, Lighting and Light-signalling Device = Rear warning triangle. 11, AIS Reference = AIS-088 :2005",
+    "AIS": [
+      "AIS-010",
+      "AIS-012",
+      "AIS-057",
+      "AIS-088"
+    ]
+  },
+  {
+    "AIS_id": "AIS-062",
+    "source_file": "AIS_062_Rev_1_540d4496-bc33-4159-a432-5ce6892e2a92.pdf",
+    "heading": "SECTION 4",
+    "heading_number": "4",
+    "subheading": "Page 8, Clause 3.1",
+    "rule": "4.0",
+    "description": "Substitute following text for existing text : In addition to the following, definitions referred in AIS- 030 Rev.1:2012, AIS- 008 (Rev. 1):2010, IS/ISO 12509:2004 and AIS- 012 (Part 1 to 10) (Rev. 1):2011 shall be applicable. Lighting and light-signalling devices fitted on agricultural tractors as specified in 1.0 shall meet the requirements of specified AIS given in Table 1 below: Table 1 Requirements for Performance of Lighting and",
+    "AIS": [
+      "AIS-008",
+      "AIS-012",
+      "AIS-030"
+    ]
+  },
+  {
+    "AIS_id": "AIS-062",
+    "source_file": "AIS_062_Rev_1_540d4496-bc33-4159-a432-5ce6892e2a92.pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Page 8, Clause 4.0",
+    "rule": "5.0",
+    "description": "Substitute following text for existing text : Lighting and light-signalling devices fitted on agricultural tractors and Construction Equipment Vehicles (CEVs) as specified in 1.0 shall meet the requirements of specified AIS given in Table 1 below",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-062",
+    "source_file": "AIS_062_Rev_1_540d4496-bc33-4159-a432-5ce6892e2a92.pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": null,
+    "rule": "5.1",
+    "description": "General guidelines for transitional provisions for this standard shall be as per AIS-000, as amended from time to time, as applicable, unless otherwise stated in this standard.",
+    "AIS": [
+      "AIS-000"
+    ]
+  },
+  {
+    "AIS_id": "AIS-062",
+    "source_file": "AIS_062_Rev_1_540d4496-bc33-4159-a432-5ce6892e2a92.pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Page 9, Table 1",
+    "rule": "6.0",
+    "description": "Substitute following text for the existing text for Sl. Nos. 3, 4, 10 and 11. 3, 1 = Front Fog Lamp (Only applicable for agricultural tractors). 3, 2 = AIS-012 (Part 1) (Rev.1) : 2011 4, 1 = Rear Fog Lamp, if fitted. 4, 2 = AIS-012 (Part 2 ) (Rev.1) : 2011. 10, 1 = Rear and side retro-reflector (non- triangular) (Only applicable for agricultural tractors). 10, 2 = AIS-057 ( Rev 1) :2010. 11, 1 = Rear warning triangle, if fitted. 11, 2 = AIS-088 :2005 PRINTED BY THE AUTOMOTIVE RESEARCH ASSOCIATION OF INDIA P. B. NO. 832, PUNE 411 004 ON BEHALF OF AUTOMOTIVE INDUSTRY STANDARDS COMMITTEE UNDER CENTRAL MOTOR VEHICLES RULES - TECHNICAL STANDING COMMITTEE SET-UP BY MINISTRY OF ROAD TRANSPORT & HIGHWAYS (DEPARTMENT OF ROAD TRANSPORT & HIGHWAYS) GOVERNMENT OF INDIA",
+    "AIS": [
+      "AIS-012",
+      "AIS-057",
+      "AIS-088"
+    ]
+  },
+  {
+    "AIS_id": "AIS-062",
+    "source_file": "AIS_062_Rev_1_540d4496-bc33-4159-a432-5ce6892e2a92.pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": null,
+    "rule": "6.1",
+    "description": "As an exception to 7.4 of AIS-037, (or related administrative decisions) for certifying compliance of 'E'/'e' approved Lighting and Light Signaling devices to this standard, the test as per relevant clause of the relevant standard shall be carried out by testing agency",
+    "AIS": [
+      "AIS-037"
+    ]
+  },
+  {
+    "AIS_id": "AIS-062",
+    "source_file": "AIS_062_Rev_1_540d4496-bc33-4159-a432-5ce6892e2a92.pdf",
+    "heading": "th November 2025",
+    "heading_number": "7",
+    "subheading": null,
+    "rule": "7",
+    "description": "th November 2025",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-062",
+    "source_file": "AIS_062_Rev_1_540d4496-bc33-4159-a432-5ce6892e2a92.pdf",
+    "heading": "th November 2025",
+    "heading_number": "7",
+    "subheading": null,
+    "rule": "7.1",
+    "description": "Acceptance of changes in ECE regulations after the level described in para 0.3 of introduction shall be as per AIS-000, as amended from time to time, as applicable, unless otherwise stated in this standard.",
+    "AIS": [
+      "AIS-000"
+    ]
+  },
+  {
+    "AIS_id": "AIS-062",
+    "source_file": "AIS_062_Rev_1_540d4496-bc33-4159-a432-5ce6892e2a92.pdf",
+    "heading": "th February 202 2",
+    "heading_number": "10",
+    "subheading": null,
+    "rule": "10",
+    "description": "th February 202 2 PRINTED BY THE AUTOMOTIVE RESEARCH ASSOCIATION OF INDIA P. B. NO. 832, PUNE 411 004 ON BEHALF OF AUTOMOTIVE INDUSTRY STANDARDS COMMITTEE UNDER CENTRAL MOTOR VEHICLES RULES - TECHNICAL STANDING COMMITTEE SET-UP BY MINISTRY OF ROAD TRANSPORT & HIGHWAYS (DEPARTMENT OF ROAD TRANSPORT & HIGHWAYS) GOVERNMENT OF INDIA April 2014 - Status chart of the standard to be used by the purchaser for updating the record Sr. No.. Corrige nda.. Amend- ment. Revision. Date. Remark. Misc. The Government of India felt the need for a permanent agency to expedite the publication of standards and development of test facilities in parallel when the work on the preparation of the standards is going on, as the development of improved safety critical parts can be undertaken only after the publication of the standard and commissioning of test facilities. To this end, the erstwhile Ministry of Surface Transport (MOST) vide order No. RT-11028/11/97-MVL dated September 15, 1997. The standard prepared by AISC will be approved by the permanent CMVR Technical Standing Committee (CTSC). After approval, the Automotive Research Association of India, (ARAI), Pune, being the Secretariat of the AIS Committee, has published this standard. For better dissemination of this information ARAI has published this document on their Web site. Performance of lighting and light-signalling devices for Agricultural Tractors is a safety requirement. AIS-062 covering these requirements has been published in 2004 and implemented in October 2005 vide notification GSR 206 (E) dated 1 st April 2005. With a continuous change in European Regulations to cater for new technologies and enhanced safety requirements, it was felt necessary to upgrade this standard to the level of corresponding ECE regulations. Considerable assistance has been taken from the following ECE Regulations in preparing this standard: ECE R 48 (Revision 4- Amendment 1- 03 series of amendments) Date of entry in to force: 10 th October 2006, 1 = Uniform provisions concerning the approval of vehicles with regard to the installation of lighting and light-signaling devices.. ECE R 86 (supplement 4 to 00 series of amendment Date of entry in to force: 15 th October 2008, 1 = Uniform provisions concerning the approval of Agricultural or Forestry tractors with regard to the installation of lighting and light-signalling devices.. ECE R 112, Revision 1, Amendment No. 4, (Supplement 9 to the original version of the Regulation) Date of entry in to force: 15 th October 2008, 1 = Uniform provisions concerning the approval of motor vehicle headlamps emitting an asymmetrical passing beam or a driving beam or both and equipped with filament lamps and/or light-emitting diode (LED) modules. ECE R113, Rev. 1, Amendment 3 (Supplement 8 to the original version of regulation) Date of entry in to force: 22 nd July 2009, 1 = Uniform provisions concerning the approval of motor vehicle headlamps emitting a symmetrical passing beam or a driving beam or both and equipped with filament, gas-discharge light sources or LED modules ECE R 19 Rev. 3-Amd. 4 (Supp.9 to 02 Series of Amd.) Date of entry into force: 10 th March 2009, 1 = Uniform provisions concerning the approval of motor vehicles fog lamps.. ECE R 38 Rev. 1-Amd. 2 (Supp.7 to Org.Ver.) Date of entry into force: 15 th October 2008, 1 = Uniform provisions concerning the approval of rear fog lamps for power-driven vehicles and their trailers. ECE R 119 Amd.4 Supplement 4 to the original version of the standard Date of entry into force: 22 July 2009, 1 = Uniform provisions concerning the approval of cornering lamps for power-driven vehicles. ECE R 1 & 2 Rev. 4 -Amd.5 (02 series of Amd.) Date of entry into force: 8 th September 2001, 1 = Uniform provisions concerning the approval of motor vehicle headlamps emitting an asymmetrical passing beam and /or a driving beam and equipped with filament lamps of categories R2 and / or HS1. ECE R 4 Revision 2 - Amendment 2 (Supp. 13 to the original version of the Regulation) Date of entry into force: 11 th July 2008, 1 = Uniform provisions concerning the approval of devices for the illumination of rear registration plates of power-driven vehicles and their trailers. ECE R 6 - Addendum 5 - Revision 4 - Amendment 1- Corrigendum 2 - Supplement 16 to the 01 series of amendments) Date of entry into force: 10 th March 2009, 1 = Uniform provisions concerning the approval of direction indicators for motor vehicles and their trailers. ECE R 7 Revision 4 - Amendment 2 - Corrigendum 2 (Corrigendum 2 to Supplement 12 to the 02 series of amend.) Date of entry into force: 10 th March 2009, 1 = Uniform provisions concerning the approval of front and rear position (side) lamps, stop-lamps and end-outline marker lamps for power-driven vehicles and their trailers. ECE R 23 Rev. 1-Amd. 4 (Supp.8 to Org.Ver.) Date of entry into force: 15 th October 2008., 1 = Uniform provisions concerning the approval of reversing lamps for power-driven vehicles and their trailers. ECE R 77 Rev. 1-Amd. 1 (Supp.6 to Org.Ver.) Date of entry into force: 15 October 2008, 1 = Uniform provisions concerning the approval of parking lamps for power-driven vehicles. ECE R 91 (Rev. 2, Amd. 1, Suppl. 11 to original version) Date of entry into force: 15 October 2008, 1 = Uniform provisions concerning the approval of side marker lamps for motor vehicles and their trailers. ECE-R-3 Rev.2-Amend.2 (Supp.6 to 02 Series Amd.) Date of entry into force: 24 th October 2009, 1 = Uniform provisions concerning the approval of retro reflecting devices for power-driven vehicles and their trailers. ECE-R-69-Rev. 1 Date of entry into force: 18 th February 2009, 1 = Uniform provisions concerning the approval of rear marking plates for slow-moving vehicles (by construction) And their trailers This standard is adopted by CMVR-TSC in its 39 th meeting held on 16 th May 2013. The AISC panel and the Automotive Industry Standard Committee (AISC) responsible for preparation of this standard is given in Annexure 1 and Annexure 2 respectively. 1, Contents = Scope. 1, Page no. = 7/13. 2, Contents = References. 2, Page no. = 7/13. 3, Contents = Definitions. 3, Page no. = 8/13. 4, Contents = Requirements. 4, Page no. = 8/13. 5, Contents = Transitional Provisions. 5, Page no. = 9/13. 6, Contents = Establishing Compliance of 'E'/'E' Approved Lighting and Light Signalling Devices to this standards. 6, Page no. = 10/13. 7, Contents = Amendments to ECE regulations after the level described in introduction. 7, Page no. = 10/13. , Contents = Annexures. , Page no. = . Annexure 1, Contents = Composition of AISC panel on Performance Requirements of Lighting and Light-Signalling Devices for Agricultural Tractors. Annexure 1, Page no. = 11/13. Annexure 2, Contents = Automotive Industry Standards Committee composition. Annexure 2, Page no. = 13/13",
+    "AIS": null
+  }
+]

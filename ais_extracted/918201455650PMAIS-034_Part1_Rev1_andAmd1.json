@@ -1,0 +1,1207 @@
+[
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "SECTION 0",
+    "heading_number": "0",
+    "subheading": null,
+    "rule": "0",
+    "description": "The Government of India felt the need for a permanent agency to expedite the publication of standards and development of test facilities in parallel when the work on the preparation of the standards is going on, as the development of improved safety critical parts can be undertaken only after the publication of the standard and commissioning of test facilities. To this end, the erstwhile Ministry of Surface Transport (MOST) has constituted a permanent Automotive Industry Standards Committee (AISC) vide order No.RT-11028/11/97-MVL dated September 15, 1997. The standards prepared by AISC will be approved by the permanent CMVR Technical Standing Committee (CTSC). After approval, the Automotive Research Association of India, (ARAI), Pune, being the Secretariat of the AIS Committee, has published this standard. For better dissemination of this information ARAI may publish this document on their Web site.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "SECTION 0",
+    "heading_number": "0",
+    "subheading": null,
+    "rule": "0.1",
+    "description": "Accordingly AIS-034 covering mandatory requirements regarding performance of automobile filament lamps and gas discharge light sources for use in vehicles has been published in 2004 and has been implemented thereafter in 2005.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "SECTION 0",
+    "heading_number": "0",
+    "subheading": "With technological developments in filament lamps and Gas discharge light sources, AIS-034 was taken up for revision and now is prepared in two parts",
+    "rule": "0.2",
+    "description": "With technological developments in filament lamps and Gas discharge light sources, AIS-034 was taken up for revision and now is prepared in two parts. This part covers approval of filament lamps for use in approved lamp units on power driven vehicles and their trailers.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "SECTION 0",
+    "heading_number": "0",
+    "subheading": "This part is based on ECE R37, Revision 5 Amendment No.3 (Supplement 33 to 03 series of amendments: Date of entry into force : 24.10.09)",
+    "rule": "0.3",
+    "description": "This part is based on ECE R37, Revision 5 Amendment No.3 (Supplement 33 to 03 series of amendments: Date of entry into force : 24.10.09)",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "SECTION 0",
+    "heading_number": "0",
+    "subheading": "While preparing this standard attempts have been made to align with the above ECE regulation. However, certain changes were necessary in the Indian context",
+    "rule": "0.4",
+    "description": "While preparing this standard attempts have been made to align with the above ECE regulation. However, certain changes were necessary in the Indian context.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "SECTION 0",
+    "heading_number": "0",
+    "subheading": "The following standards contain provisions, which through reference in this text constitute provisions of the standard",
+    "rule": "0.5",
+    "description": "The following standards contain provisions, which through reference in this text constitute provisions of the standard AIS-037, 1 = Procedure for Type Approval and Establishing Conformity of Production for Safety Critical Components. AIS-010 (Part 5) (Rev. 1):2010, 1 = Requirements of Chromaticity Co-ordinates of Colour of Light emitted from Lighting and Light-Signalling Devices IEC Publication 60061,third edition,, 1 = Lamp Caps and Holders together with Gauges for the Control of Interchangeability and Safety - Part 1: Lamp Caps. IEC 60051., 1 = Direct acting Indicating Analogue Electrical Measuring Instruments and their Accessories.. IEC Publication 15.2 Colorimetry, 1986., 1 = CIE Recommendation on Colorimetry, 2 nd edition.",
+    "AIS": [
+      "AIS-010",
+      "AIS-037"
+    ]
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "SECTION 0",
+    "heading_number": "0",
+    "subheading": "AIS panel and AIS Committee responsible for preparation of this standard are given in Annex M and Annex N respectively",
+    "rule": "0.6",
+    "description": "AIS panel and AIS Committee responsible for preparation of this standard are given in Annex M and Annex N respectively. 1., Contents = Scope. 1., Page No. = 1/191. 2., Contents = Administrative provisions. 2., Page No. = 1/191. 2.1, Contents = Definitions. 2.1, Page No. = 1/191. 2.2, Contents = Application for approval. 2.2, Page No. = 1/191. 2.3, Contents = Inscriptions. 2.3, Page No. = 2/191. 2.4, Contents = Approval. 2.4, Page No. = 3/191. 3., Contents = Technical requirements. 3., Page No. = 3/191. 3.1, Contents = Definitions. 3.1, Page No. = 3/191. 3.2, Contents = General specifications. 3.2, Page No. = 4/191. 3.3, Contents = Manufacture. 3.3, Page No. = 4/191. 3.4, Contents = Tests. 3.4, Page No. = 4/191. 3.5, Contents = Filament position and dimensions. 3.5, Page No. = 5/191. 3.6, Contents = Colour. 3.6, Page No. = 5/191. 3.7, Contents = UV radiation. 3.7, Page No. = 6/191. 3.8, Contents = Observation concerning selective-yellow colour. 3.8, Page No. = 7/191. 3.9, Contents = Check on optical quality. 3.9, Page No. = 7/191. 3.10, Contents = Standard filament lamps. 3.10, Page No. = 8/191. 4., Contents = Conformity of production. 4., Page No. = 8/191. 5., Contents = Penalties for non-conformity of production.. 5., Page No. = 8/191. 6., Contents = Reserved. 6., Page No. = 8/191. 7., Contents = Reserved. 7., Page No. = 8/191. 8., Contents = Transitional provisions. 8., Page No. = 9/191. 9., Contents = Extension of type approval. 9., Page No. = 10/191. 10., Contents = Establishing compliance of 'E'/'e' approved filament lamps to this standard.. 10., Page No. = 10/191. 11., Contents = Amendments to ECE regulations after the level described in 0.3 of Foreword.. 11., Page No. = 10/191 List of Annexes, Contents = List of Annexes. List of Annexes, Page No. = List of Annexes. Annex A, Contents = Sheets for filament lamps. Annex A, Page No. = 12/191. Annex B, Contents = Information to be submitted at the time of application for type approval. Annex B, Page No. = 172/191. Annex C, Contents = Reserved. Annex C, Page No. = 173/191. Annex D, Contents = Luminous centre and shapes of filaments lamps. Annex D, Page No. = 173/191. Annex E, Contents = Checking the colour of filament lamps. Annex E, Page No. = 174/191. Annex F, Contents = Minimum requirements for quality control procedures by the manufacturer. Annex F, Page No. = 176/191. Annex G, Contents = Sampling and compliance levels for manufacturer test records. Annex G, Page No. = 178/191. Annex H, Contents = Minimum requirements for spot checks by the testing agency.. Annex H, Page No. = 182/191. Annex J, Contents = Compliance approved by spot check. Annex J, Page No. = 183/191. Annex K, Contents = Colour endurance test. Annex K, Page No. = 184/191",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "Page No. 173/191, Annex D",
+    "heading_number": "1",
+    "subheading": null,
+    "rule": "1",
+    "description": "- i) Renumber the first paragraph ' Save as possibly otherwise ------------ different filament shapes and observation.' as D-1 This standard applies to filament lamps shown in Annex A and intended for use in approved lamp units of power-driven vehicles and of their trailers.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "Page No. 173/191, Annex D",
+    "heading_number": "1",
+    "subheading": "times 'f'. Refer Figure D-2.'",
+    "rule": "1.75",
+    "description": "times 'f'. Refer Figure D-2.' - iii) Renumber existing figure as 'Figure D-1' - iv) Add the following figure as ' Figure D-2' Figure D-2 (See D-2) THE AUTOMOTIVE RESEARCH ASSOCIATION OF INDIA P.B. NO. 832, PUNE 411 004 ON BEHALF OF AUTOMOTIVE INDUSTRY STANDARDS COMMITTEE CENTRAL MOTOR VEHICLE RULES - TECHNICAL STANDING COMMITTEE SET-UP BY MINISTRY OF ROAD TRANSPORT & HIGHWAYS (DEPARTMENT OF ROAD TRANSPORT & HIGHWAYS) GOVERNMENT OF INDIA",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "ADMINISTRATIVE PROVISIONS",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2",
+    "description": "ii) Insert new clause 'D-2' as follow 'D-2 In the case of filament lamps produced using continuous filament technique, the maximum filament length 'f' shown in the relevant data sheets are permitted to be",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "ADMINISTRATIVE PROVISIONS",
+    "heading_number": "2",
+    "subheading": "Definition of \" category \"",
+    "rule": "2.1.1",
+    "description": "The term \"category\" is used in this standard to describe different basic design of standardised filament lamps. Each category has a specific designation, as for example: \"H4\", \"P21W\", \"T4W\". Filament lamps of different \"types\" are filament lamps within the same category which differ in such essential respects as: Note : Filament lamps bearing the same trade name or mark but produced by different manufacturers are considered as being of different types. Filament lamps produced by the same manufacturer differing only by the trade name or mark may be considered to be of the same type. A selective-yellow bulb or an additional selective-yellow outer bulb, solely intended to change the colour but not the other characteristics of a filament lamp emitting white light, does not constitute a change of type of the filament lamp;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "ADMINISTRATIVE PROVISIONS",
+    "heading_number": "2",
+    "subheading": "Definition of \" type \"",
+    "rule": "2.1.2",
+    "description": "Definition of \" type \"",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "ADMINISTRATIVE PROVISIONS",
+    "heading_number": "2",
+    "subheading": "trade name or mark;",
+    "rule": "2.1.2.1",
+    "description": "trade name or mark;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "ADMINISTRATIVE PROVISIONS",
+    "heading_number": "2",
+    "subheading": "bulb design, in so far as these differences affect the optical results;",
+    "rule": "2.1.2.2",
+    "description": "bulb design, in so far as these differences affect the optical results;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "ADMINISTRATIVE PROVISIONS",
+    "heading_number": "2",
+    "subheading": "bulb colour",
+    "rule": "2.1.2.3",
+    "description": "bulb colour",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "ADMINISTRATIVE PROVISIONS",
+    "heading_number": "2",
+    "subheading": "rated voltage;",
+    "rule": "2.1.2.4",
+    "description": "rated voltage;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "ADMINISTRATIVE PROVISIONS",
+    "heading_number": "2",
+    "subheading": "halogen",
+    "rule": "2.1.2.5",
+    "description": "halogen.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "ADMINISTRATIVE PROVISIONS",
+    "heading_number": "2",
+    "subheading": "Application for approval",
+    "rule": "2.2",
+    "description": "Application for approval",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "ADMINISTRATIVE PROVISIONS",
+    "heading_number": "2",
+    "subheading": "Information to be submitted at the time of applying for type approval of the filament lamp shall be as given in Annex B",
+    "rule": "2.2.1",
+    "description": "Information to be submitted at the time of applying for type approval of the filament lamp shall be as given in Annex B.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "ADMINISTRATIVE PROVISIONS",
+    "heading_number": "2",
+    "subheading": "Reserved",
+    "rule": "2.2.2",
+    "description": "Reserved",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "ADMINISTRATIVE PROVISIONS",
+    "heading_number": "2",
+    "subheading": "Reserved",
+    "rule": "2.2.2.1",
+    "description": "Reserved",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "ADMINISTRATIVE PROVISIONS",
+    "heading_number": "2",
+    "subheading": "Reserved",
+    "rule": "2.2.2.2",
+    "description": "Reserved",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "ADMINISTRATIVE PROVISIONS",
+    "heading_number": "2",
+    "subheading": "Five samples of each colour which has been applied for;",
+    "rule": "2.2.2.3",
+    "description": "Five samples of each colour which has been applied for;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "ADMINISTRATIVE PROVISIONS",
+    "heading_number": "2",
+    "subheading": "In the case of a type of filament lamp differing only by the trade name or mark from a type that has already been approved it shall be sufficient to submit",
+    "rule": "2.2.3",
+    "description": "In the case of a type of filament lamp differing only by the trade name or mark from a type that has already been approved it shall be sufficient to submit:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "ADMINISTRATIVE PROVISIONS",
+    "heading_number": "2",
+    "subheading": "In the case of a type of filament lamp differing only by the trade name or mark from a type that has already been approved it shall be sufficient to submit",
+    "rule": "2.2.3.1",
+    "description": "a declaration by the manufacturer that the type submitted is identical (except in the trade name or mark) with and has been produced by the same manufacturer as, the type already approved, the latter being identified by its approval code;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "ADMINISTRATIVE PROVISIONS",
+    "heading_number": "2",
+    "subheading": "two samples bearing the new trade name or mark",
+    "rule": "2.2.3.2",
+    "description": "two samples bearing the new trade name or mark.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "ADMINISTRATIVE PROVISIONS",
+    "heading_number": "2",
+    "subheading": "Reserved",
+    "rule": "2.2.4",
+    "description": "Reserved",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "ADMINISTRATIVE PROVISIONS",
+    "heading_number": "2",
+    "subheading": "Filament lamps submitted for approval shall bear on the cap or bulb",
+    "rule": "2.3.1",
+    "description": "Filament lamps submitted for approval shall bear on the cap or bulb: Note : In the latter case, the luminous characteristics shall not be adversely affected.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "ADMINISTRATIVE PROVISIONS",
+    "heading_number": "2",
+    "subheading": "the trade name or mark of the filament lamp manufacturer;",
+    "rule": "2.3.1.1",
+    "description": "the trade name or mark of the filament lamp manufacturer;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "ADMINISTRATIVE PROVISIONS",
+    "heading_number": "2",
+    "subheading": "Filament lamps submitted for approval shall bear on the cap or bulb",
+    "rule": "2.3.1.2",
+    "description": "the rated voltage. However, for filament lamps for which only a 12 V type is standardised and the maximum allowed bulb diameter of which does not exceed 7.5 mm, the rated voltage need not be marked;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "ADMINISTRATIVE PROVISIONS",
+    "heading_number": "2",
+    "subheading": "Filament lamps submitted for approval shall bear on the cap or bulb",
+    "rule": "2.3.1.3",
+    "description": "the designation of the relevant category. The wattage character \"W\" of this designation need not be marked when the maximum allowed bulb diameter of the filament lamp type does not exceed 7.5 mm;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "ADMINISTRATIVE PROVISIONS",
+    "heading_number": "2",
+    "subheading": "Filament lamps submitted for approval shall bear on the cap or bulb",
+    "rule": "2.3.1.4",
+    "description": "the rated wattage (in the sequence, high wattage/low wattage filament for dual-filament lamps); this need not be indicated separately if it is part of the international designation of the relevant filament lamp category;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "ADMINISTRATIVE PROVISIONS",
+    "heading_number": "2",
+    "subheading": "a space of sufficient size to accommodate the approval mark",
+    "rule": "2.3.1.5",
+    "description": "a space of sufficient size to accommodate the approval mark.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "ADMINISTRATIVE PROVISIONS",
+    "heading_number": "2",
+    "subheading": "The space mentioned in 2.3.1.5. above shall be indicated in the drawings accompanying the application for approval",
+    "rule": "2.3.2",
+    "description": "The space mentioned in 2.3.1.5. above shall be indicated in the drawings accompanying the application for approval.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "ADMINISTRATIVE PROVISIONS",
+    "heading_number": "2",
+    "subheading": "Halogen filament lamps meeting the requirements of 3.7. below shall be marked with a \"U\"",
+    "rule": "2.3.3",
+    "description": "Halogen filament lamps meeting the requirements of 3.7. below shall be marked with a \"U\".",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "ADMINISTRATIVE PROVISIONS",
+    "heading_number": "2",
+    "subheading": "Inscriptions other than those covered by 2.3.1. and 2.4.3. may be affixed, on the condition that they do not adversely affect the luminous characteristics",
+    "rule": "2.3.4",
+    "description": "Inscriptions other than those covered by 2.3.1. and 2.4.3. may be affixed, on the condition that they do not adversely affect the luminous characteristics. Note : On the prototype for type approval, the markings may be provided by suitable temporary methods and need not necessary be obtained from the tools used for series production.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "ADMINISTRATIVE PROVISIONS",
+    "heading_number": "2",
+    "subheading": "If all samples of a type of filament lamp which are submitted in pursuance of 2.2.2.3. or 2.2.3.2. above meet the requirements of this standard, approval shall be granted",
+    "rule": "2.4.1",
+    "description": "If all samples of a type of filament lamp which are submitted in pursuance of 2.2.2.3. or 2.2.3.2. above meet the requirements of this standard, approval shall be granted.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "ADMINISTRATIVE PROVISIONS",
+    "heading_number": "2",
+    "subheading": "Approval",
+    "rule": "2.4.2",
+    "description": "If the applicant so desires, the same approval code may be assigned to the filament lamp emitting white light and to the filament lamp emitting selective-yellow light (see para. 2.1.2.3).",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "ADMINISTRATIVE PROVISIONS",
+    "heading_number": "2",
+    "subheading": "Approval",
+    "rule": "2.4.3",
+    "description": "To every filament lamp conforming to a type approved under this standard, there shall be affixed in the space referred to in 2.3.1.5., in addition to the inscriptions required under 2.3.1., approval mark assigned as per AIS-037",
+    "AIS": [
+      "AIS-037"
+    ]
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "ADMINISTRATIVE PROVISIONS",
+    "heading_number": "2",
+    "subheading": "Reserved",
+    "rule": "2.4.3.1",
+    "description": "Reserved",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "ADMINISTRATIVE PROVISIONS",
+    "heading_number": "2",
+    "subheading": "Reserved",
+    "rule": "2.4.3.2",
+    "description": "Reserved",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "ADMINISTRATIVE PROVISIONS",
+    "heading_number": "2",
+    "subheading": "Reserved",
+    "rule": "2.4.4",
+    "description": "Reserved",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "ADMINISTRATIVE PROVISIONS",
+    "heading_number": "2",
+    "subheading": "Reserved",
+    "rule": "2.4.5",
+    "description": "Reserved",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "ADMINISTRATIVE PROVISIONS",
+    "heading_number": "2",
+    "subheading": "Reserved",
+    "rule": "2.4.6",
+    "description": "Reserved",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "Definitions",
+    "rule": "3.1",
+    "description": "Definitions",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "Rated voltage : voltage (in volts) marked on the filament lamp;",
+    "rule": "3.1.1",
+    "description": "Rated voltage : voltage (in volts) marked on the filament lamp;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "Rated wattage : wattage (in watts) marked on the filament lamp which may be incorporated into the designation of the relevant category;",
+    "rule": "3.1.2",
+    "description": "Rated wattage : wattage (in watts) marked on the filament lamp which may be incorporated into the designation of the relevant category;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "Test voltage : voltage, at the filament lamp terminals for which the electrical and photometric characteristics of the filament lamp are intended and are to be tested",
+    "rule": "3.1.3",
+    "description": "Test voltage : voltage, at the filament lamp terminals for which the electrical and photometric characteristics of the filament lamp are intended and are to be tested.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "Objective values : values to be achieved, within the specified tolerances, when the filament lamp is supplied with current at its test voltage;",
+    "rule": "3.1.4",
+    "description": "Objective values : values to be achieved, within the specified tolerances, when the filament lamp is supplied with current at its test voltage;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "Definitions",
+    "rule": "3.1.5",
+    "description": "Standard (étalon) filament lamp : a filament lamp emitting white or amber or red light with reduced dimensional tolerances, used for the photometric testing of lighting and light-signalling devices. Standard filament lamps are specified in only one voltage rating for each category; of",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "Reference luminous flux : specified luminous flux a standard filament lamp to which the optical characteristics of a lighting device shall be referred;",
+    "rule": "3.1.6",
+    "description": "Reference luminous flux : specified luminous flux a standard filament lamp to which the optical characteristics of a lighting device shall be referred;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "Measuring luminous flux : specified value of the luminous flux for testing a filament lamp in a standard headlamp as specified in 3.8",
+    "rule": "3.1.7",
+    "description": "Measuring luminous flux : specified value of the luminous flux for testing a filament lamp in a standard headlamp as specified in 3.8.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "Reference axis : an axis defined with reference to the cap and to which certain dimensions of the filament lamp are referred;",
+    "rule": "3.1.8",
+    "description": "Reference axis : an axis defined with reference to the cap and to which certain dimensions of the filament lamp are referred;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "Reference plane : a plane defined with reference to the cap and to which certain dimensions of the filament lamp are referred",
+    "rule": "3.1.9",
+    "description": "Reference plane : a plane defined with reference to the cap and to which certain dimensions of the filament lamp are referred.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "Each sample submitted shall conform to the relevant specifications of this standard",
+    "rule": "3.2.1",
+    "description": "Each sample submitted shall conform to the relevant specifications of this standard.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "Filament lamps shall be so designed as to be and to remain in good working order when in normal use. They shall moreover exhibit no fault in design or manufacture",
+    "rule": "3.2.2",
+    "description": "Filament lamps shall be so designed as to be and to remain in good working order when in normal use. They shall moreover exhibit no fault in design or manufacture. Note : This is a general requirement and no verification is needed for this paragraph to approve the filament lamp for compliance to this standard.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "Filament lamp bulbs shall exhibit no scores or spots which might impair their efficiency and their optical performance",
+    "rule": "3.3.1",
+    "description": "Filament lamp bulbs shall exhibit no scores or spots which might impair their efficiency and their optical performance.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "Manufacture",
+    "rule": "3.3.2",
+    "description": "Filament lamps shall be equipped with standard caps complying with the cap data sheets of IEC Publication 60061, third edition, as specified on the individual data sheets of Annex A.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "The cap shall be strong and firmly secured to the bulb",
+    "rule": "3.3.3",
+    "description": "The cap shall be strong and firmly secured to the bulb.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "Manufacture",
+    "rule": "3.3.4",
+    "description": "To ascertain whether filament lamps conform to the requirements of 3.3.1.to 3.3.3. above, a visual inspection, a dimension check and, where necessary, a trial fitting shall be carried out. This may be carried out by measurement or using an appropriate gauge.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "Filament lamps shall first be aged at their test voltage for approximately one hour. For dual-filament lamps, each filament shall be aged separately",
+    "rule": "3.4.1",
+    "description": "Filament lamps shall first be aged at their test voltage for approximately one hour. For dual-filament lamps, each filament shall be aged separately. Note : In case of in house tests carried out by the filament lamp manufacturer, the ageing time may be reduced from one hour to a value as per the manufacturer's practice.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "Tests",
+    "rule": "3.4.2",
+    "description": "In the case of a filament lamp having a coated bulb, after the ageing period corresponding to 3.4.1., the surface of the bulb shall be lightly wiped with a cotton cloth soaked in a mixture of 70 vol. per cent of n-heptane and 30 vol. per cent of toluol. After about five minutes, the surface shall be inspected visually. It shall not show any apparent changes.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "The position and dimensions of the filament shall be measured with the filament lamps being supplied with current at from 90 per cent to 100 per cent of the test voltage",
+    "rule": "3.4.3",
+    "description": "The position and dimensions of the filament shall be measured with the filament lamps being supplied with current at from 90 per cent to 100 per cent of the test voltage.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "Unless otherwise specified, electrical and photometric measurements shall be carried out at the test voltage",
+    "rule": "3.4.4",
+    "description": "Unless otherwise specified, electrical and photometric measurements shall be carried out at the test voltage.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "Electrical measurements shall be carried out with instruments of at least class 0.2. according to IEC 60051",
+    "rule": "3.4.5",
+    "description": "Electrical measurements shall be carried out with instruments of at least class 0.2. according to IEC 60051.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "Tests",
+    "rule": "3.4.6",
+    "description": "The luminous flux (in lumen) specified on the filament lamp data sheets of Annex A is valid for filament lamps emitting white light unless a special colour is stated there. In the case where the selective-yellow colour is allowed, the luminous flux of the filament lamp with the selective-yellow outer bulb shall be at least 85 per cent of the specified luminous flux of the relevant filament lamp emitting white light.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "The geometric shapes of the filament shall in principle be as specified on the filament lamp data sheets of Annex A",
+    "rule": "3.5.1",
+    "description": "The geometric shapes of the filament shall in principle be as specified on the filament lamp data sheets of Annex A.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "For line filaments the correct position and shape shall be checked as specified in the relevant data sheets",
+    "rule": "3.5.2",
+    "description": "For line filaments the correct position and shape shall be checked as specified in the relevant data sheets.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "Filament position and dimensions",
+    "rule": "3.5.3",
+    "description": "If the filament is shown on the filament lamp data sheet in at least one view as a point, the position of the luminous centre shall be determined in conformity with Annex D.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "Filament position and dimensions",
+    "rule": "3.5.4",
+    "description": "The length of a line filament shall be determined by its ends, defined - unless otherwise specified on the relevant data sheet - as the apices of the first and the last filament turn as seen in projection perpendicular to the reference axis of the filament lamp. Such an apex shall comply with the requirement that the angle formed by the legs shall not exceed 90°. In the case of coiled-coil filaments the apices of the secondary turns shall be taken into account. to",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "Filament position and dimensions",
+    "rule": "3.5.4.1",
+    "description": "For axial filaments the extreme position of the apices considered shall be determined by rotating the filament lamp about its reference axis. The length shall then be measured in a direction parallel the reference axis.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "Filament position and dimensions",
+    "rule": "3.5.4.2",
+    "description": "For transverse filaments the filament axis shall be placed perpendicular to the direction of projection. The length shall be measured in a direction perpendicular to the reference axis.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "The colour of the light emitted by the filament lamp shall be white unless otherwise specified on the relevant data sheet",
+    "rule": "3.6.1",
+    "description": "The colour of the light emitted by the filament lamp shall be white unless otherwise specified on the relevant data sheet. in",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "Colour",
+    "rule": "3.6.2",
+    "description": "The definitions of the colour of the light emitted, given AIS-010 (Part 5)(Rev. 1) and its amendments in force at the time of application for type approval, shall apply to this standard.",
+    "AIS": [
+      "AIS-010"
+    ]
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "Colour",
+    "rule": "3.6.3",
+    "description": "The colour of the light emitted shall be measured by the method specified in Annex E. Each measured value shall lie within the required tolerance area. (For Conformity of Production purposes and for amber and red colour only, at least 80 per cent of the measuring results shall lie within the required tolerance area.) Moreover, in the case of filament lamps emitting white light, the measured values shall not deviate more than 0.020 units in the x and/or y direction from a point of choice on the Planckian locus (IEC Publication 15.2 Colorimetry, 1986). Filament lamps for use in light-signalling devices (see Note 1 below) shall meet the requirements as specified in Annex K. Note 1: Colour Endurance test is not applicable for filament lamps for use in light-signalling devices with clear bulb emitting white light.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "UV radiation",
+    "rule": "3.7",
+    "description": "The UV radiation of a halogen lamp shall be such that: <!-- formula-not-decoded --> where: E e ( λ ) (W/nm) is the spectral distribution of the radiant flux; V ( λ ) (1) is the spectral luminous efficiency; km = 683 (lm/W) is the photometric radiation equivalent; λ (nm) is the wave length. This value shall be calculated using intervals of five nanometres.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "Observation concerning selective-yellow colour",
+    "rule": "3.8",
+    "description": "An approval of a filament lamp type under this standard may be granted, pursuant to 3.6. above, for a filament lamp emitting white light as well as selective-yellow light.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "Check on optical quality",
+    "rule": "3.9",
+    "description": "(Applies only to filament lamps of categories R2, H4 and HS1). of",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "Check on optical quality",
+    "rule": "3.9.1",
+    "description": "This check on optical quality shall be carried out at a voltage such that the measuring luminous flux is obtained; the specifications 3.4.6. are to be observed accordingly.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "Check on optical quality",
+    "rule": "3.9.2",
+    "description": "For 12-Volt filament lamps emitting white light: The sample which most nearly conforms to the requirements laid down for the standard filament lamp shall be tested in a standard headlamp as specified in 3.9.5. and it shall be verified whether the assembly comprising the aforesaid headlamp and the filament lamp being tested meets the light-distribution requirements laid down for the passing-beam in the relevant standards.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "Check on optical quality",
+    "rule": "3.9.3",
+    "description": "For 6-Volt and 24-Volt filament lamps emitting white light: The sample which most nearly conforms to the nominal dimension values shall be tested in a standard headlamp as specified in 3.9.5 . and it shall be verified whether the assembly comprising the aforesaid headlamp and the filament lamp being tested meets the light-distribution requirements laid down for the passing-beam in the relevant standard. Deviations not exceeding 10 per cent of the minimum values will be acceptable.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "Check on optical quality",
+    "rule": "3.9.4",
+    "description": "Filament lamps emitting selective-yellow light shall be tested in the same manner as described in 3.9.2. and 3.9.3. in a standard headlamp as specified in 3.9.5. to ensure that the illumination complies with at least 85 per cent for 12-Volt filament lamps, and at least 77 per cent for 6-Volt and 24-Volt filament lamps, with the minimum values of the light-distribution requirements laid down for the passing-beam in the relevant standard. The maximum illumination limits remain unchanged. In the case of a filament lamp having a selective-yellow bulb, this test shall be left out if the approval is also given to the same type of filament lamp emitting white light.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "A headlamp shall be deemed to be a standard headlamp if",
+    "rule": "3.9.5",
+    "description": "A headlamp shall be deemed to be a standard headlamp if:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "it satisfies the pertinent conditions of approval;",
+    "rule": "3.9.5.1",
+    "description": "it satisfies the pertinent conditions of approval;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "it has an effective diameter of not less than 160 mm;",
+    "rule": "3.9.5.2",
+    "description": "it has an effective diameter of not less than 160 mm;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "with a standard filament lamp it produces at the various points and in the various zones specified for the headlamp type concerned, illumination equal to",
+    "rule": "3.9.5.3",
+    "description": "with a standard filament lamp it produces at the various points and in the various zones specified for the headlamp type concerned, illumination equal to:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "not more than 90 per cent of the maximum limits;",
+    "rule": "3.9.5.3.1",
+    "description": "not more than 90 per cent of the maximum limits;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "not less than 120 per cent of the minimum limits prescribed for the headlamp type concerned",
+    "rule": "3.9.5.3.2",
+    "description": "not less than 120 per cent of the minimum limits prescribed for the headlamp type concerned.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TECHNICAL REQUIREMENTS",
+    "heading_number": "3",
+    "subheading": "Standard filament lamps",
+    "rule": "3.10",
+    "description": "Additional requirements for standard (étalon) filament lamps are given on the relevant data sheets of Annex A. Bulbs of standard (étalon) filament lamps emitting white light shall not alter the CIE chromaticity coordinates of a luminous source having a colour temperature of 2,856 K by more than 0.010 units in the x and/or y direction. For standard (étalon) filament lamps emitting amber or red light, changes of the bulb temperature shall not affect the luminous flux which might impair photometric measurements of signalling devices.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "CONFORMITY OF PRODUCTION",
+    "heading_number": "4",
+    "subheading": null,
+    "rule": "4",
+    "description": "The conformity of production procedures shall comply with those set out in the AIS-037 with the following requirements:",
+    "AIS": [
+      "AIS-037"
+    ]
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "CONFORMITY OF PRODUCTION",
+    "heading_number": "4",
+    "subheading": null,
+    "rule": "4.1",
+    "description": "Filament lamps approved under this standard shall be so manufactured as to conform to the type approved by meeting the inscriptions and technical requirements set forth in 3, Annex A and Annex D to this standard.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "CONFORMITY OF PRODUCTION",
+    "heading_number": "4",
+    "subheading": "the minimum requirements for quality procedures set fourth in Annex F to this standard shall be complied with",
+    "rule": "4.2",
+    "description": "the minimum requirements for quality procedures set fourth in Annex F to this standard shall be complied with.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "CONFORMITY OF PRODUCTION",
+    "heading_number": "4",
+    "subheading": "The minimum requirements for spot checks by testing agency are set forth in Annex H to this standard shall be complied with",
+    "rule": "4.3",
+    "description": "The minimum requirements for spot checks by testing agency are set forth in Annex H to this standard shall be complied with.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "CONFORMITY OF PRODUCTION",
+    "heading_number": "4",
+    "subheading": "The normal frequency of these verifications shall be once every two years",
+    "rule": "4.4",
+    "description": "The normal frequency of these verifications shall be once every two years.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "PENALTIES FOR NON-CONFORMITY OF PRODUCTION",
+    "heading_number": "5",
+    "subheading": "Penalties of non-conformity of production shall be as specified in AIS-037",
+    "rule": "5.1",
+    "description": "Penalties of non-conformity of production shall be as specified in AIS-037.",
+    "AIS": [
+      "AIS-037"
+    ]
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "PENALTIES FOR NON-CONFORMITY OF PRODUCTION",
+    "heading_number": "5",
+    "subheading": "Reserved",
+    "rule": "5.2",
+    "description": "Reserved.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "Reserved",
+    "heading_number": "6",
+    "subheading": null,
+    "rule": "6",
+    "description": "Reserved.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "Reserved",
+    "heading_number": "7",
+    "subheading": null,
+    "rule": "7",
+    "description": "Reserved.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TRANSITIONAL PROVISIONS",
+    "heading_number": "8",
+    "subheading": null,
+    "rule": "8.1",
+    "description": "At the request of the applicant, type approvals for compliance to AIS-034 (Part 1) (Rev.1):2010, shall be granted by testing agencies from 27 th October 2010 (date of adoption in CMVR-TSC). Such type approvals shall be deemed to be compliance to AIS-034:2004 .",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TRANSITIONAL PROVISIONS",
+    "heading_number": "8",
+    "subheading": "At the request of applicant, type approval to the compliance to AIS-034:2004 shall be granted up to the notified date of implementation of AIS-034 (Part 1) (Rev.1):2010",
+    "rule": "8.2",
+    "description": "At the request of applicant, type approval to the compliance to AIS-034:2004 shall be granted up to the notified date of implementation of AIS-034 (Part 1) (Rev.1):2010",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TRANSITIONAL PROVISIONS",
+    "heading_number": "8",
+    "subheading": null,
+    "rule": "8.3",
+    "description": "Subject to the provisions of 8.6, type approvals issued for compliance to AIS-034: 2004 shall be extended to approval of AIS-034 (Part 1) (Rev.1):2010 subject to satisfactory compliance of the following:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TRANSITIONAL PROVISIONS",
+    "heading_number": "8",
+    "subheading": "Filament lamps for use in lighting and light signalling devices as specified in Annex K",
+    "rule": "8.3.1",
+    "description": "Filament lamps for use in lighting and light signalling devices as specified in Annex K.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TRANSITIONAL PROVISIONS",
+    "heading_number": "8",
+    "subheading": "In case of 'E/e' approved devices, requirements specified in 10",
+    "rule": "8.3.2",
+    "description": "In case of 'E/e' approved devices, requirements specified in 10. Note : Additional verification for the above need not be carried out, if compliance to the above requirements has already been established during the type approval as per AIS-034:2004 .",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TRANSITIONAL PROVISIONS",
+    "heading_number": "8",
+    "subheading": "Extension of Approvals for engineering and administrative changes",
+    "rule": "8.4",
+    "description": "Extension of Approvals for engineering and administrative changes:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TRANSITIONAL PROVISIONS",
+    "heading_number": "8",
+    "subheading": "Extension of Approvals for engineering and administrative changes",
+    "rule": "8.4.1",
+    "description": "In the case of 8.1, extensions shall be granted subject to the conditions of AIS-034 (Part 1) (Rev.1):2010. Such extensions shall be deemed to be compliance to AIS-034:2004.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TRANSITIONAL PROVISIONS",
+    "heading_number": "8",
+    "subheading": "In the case of 8.2, extensions shall be granted subject to conditions of AIS-034:2004 till the notified date of implementation of AIS-034 (Part 1) (Rev.1):2010",
+    "rule": "8.4.2",
+    "description": "In the case of 8.2, extensions shall be granted subject to conditions of AIS-034:2004 till the notified date of implementation of AIS-034 (Part 1) (Rev.1):2010.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TRANSITIONAL PROVISIONS",
+    "heading_number": "8",
+    "subheading": "Type approvals for compliance to AIS-037 , already been granted, shall continue to be valid for AIS-034 (Part 1) (Rev.1):2010",
+    "rule": "8.5",
+    "description": "Type approvals for compliance to AIS-037 , already been granted, shall continue to be valid for AIS-034 (Part 1) (Rev.1):2010. Note : Necessary corrections to the reference of verification reports as per this standard shall be incorporated while issuing the next COP certificate. In the meantime for issuing of vehicle certificate, test/verification report as per this standard shall deemed to be the proof of compliance of AIS-037.",
+    "AIS": [
+      "AIS-037"
+    ]
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "TRANSITIONAL PROVISIONS",
+    "heading_number": "8",
+    "subheading": "Filament lamps of category C21W and S1 shall not be permitted for use in vehicles manufactured from the notified date of implementation of AIS-034 (Part 1) (Rev.1):2010",
+    "rule": "8.6",
+    "description": "Filament lamps of category C21W and S1 shall not be permitted for use in vehicles manufactured from the notified date of implementation of AIS-034 (Part 1) (Rev.1):2010. Filament lamps of category R2 shall be permitted till the date so specifically notified.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "EXTENSION OF TYPE APPROVAL",
+    "heading_number": "9",
+    "subheading": null,
+    "rule": "9.1",
+    "description": "Every modification pertaining to the information, even if the changes are not technical in nature declared in accordance with 2.2.2 shall be intimated by the manufacturer to the testing agency. If the changes are in parameters not related to the provisions, no further action need be taken. If the changes are in parameters related to the provisions, the testing Agency, which has issued the certificate of compliance, shall then consider, whether,",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "EXTENSION OF TYPE APPROVAL",
+    "heading_number": "9",
+    "subheading": "the filaments lamps with the changed specifications still complies with provisions, or",
+    "rule": "9.1.1",
+    "description": "the filaments lamps with the changed specifications still complies with provisions, or",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "EXTENSION OF TYPE APPROVAL",
+    "heading_number": "9",
+    "subheading": "Any further verification is required to establish compliance",
+    "rule": "9.1.2",
+    "description": "Any further verification is required to establish compliance.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "EXTENSION OF TYPE APPROVAL",
+    "heading_number": "9",
+    "subheading": "For considering whether testing is required or not, guidelines given in 9.5 (Criteria for Extension of Approval) shall be used",
+    "rule": "9.2",
+    "description": "For considering whether testing is required or not, guidelines given in 9.5 (Criteria for Extension of Approval) shall be used.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "EXTENSION OF TYPE APPROVAL",
+    "heading_number": "9",
+    "subheading": "In case of 9.1.2, tests for only those parameters which are affected by the modifications need be carried out",
+    "rule": "9.3",
+    "description": "In case of 9.1.2, tests for only those parameters which are affected by the modifications need be carried out",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "EXTENSION OF TYPE APPROVAL",
+    "heading_number": "9",
+    "subheading": null,
+    "rule": "9.4",
+    "description": "In case of fulfillment of criterion of 9.1.1 or after results of further verification as per 9.1.2 are satisfactory, the approval of compliance shall be extended for the changes carried out.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "EXTENSION OF TYPE APPROVAL",
+    "heading_number": "9",
+    "subheading": "Criteria for extension of approval",
+    "rule": "9.5",
+    "description": "Criteria for extension of approval The Criteria shall be as agreed between the testing agency and applicant.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "ESTABLISHING COMPLIANCE OF 'E'/'e' APPROVED FILAMENT LAMPS TO THIS STANDARDS",
+    "heading_number": "10",
+    "subheading": null,
+    "rule": "10.1",
+    "description": "As an exception to 7.4 of AIS-037, (or related administrative decisions) for certifying compliance of 'E'/'e' approved filament lamps to this standard shall comply , the test for objective values Luminous flux as specified in relevant specification.",
+    "AIS": [
+      "AIS-037"
+    ]
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "AMENDMENTS TO ECE REGULATIONS AFTER THE LEVEL DESCRIBED IN 0.3 OF FOREWORD",
+    "heading_number": "11",
+    "subheading": "Supplements",
+    "rule": "11.1",
+    "description": "In case of changes in ECE regulation , which are issued as supplements (Supplements do not affect the earlier type approvals) at the request of applicant, approval of compliance to this standard shall be issued taking into account the changes arising out of such supplement(s) to ECE regulation with approval from Chairman AISC. This shall be incorporated in the test report. Note : Such changes will be considered for inclusion in this standard at the time of its next amendment /revision.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "AMENDMENTS TO ECE REGULATIONS AFTER THE LEVEL DESCRIBED IN 0.3 OF FOREWORD",
+    "heading_number": "11",
+    "subheading": "Series of amendments",
+    "rule": "11.2",
+    "description": "Changes in ECE regulation, which are issued as series of amendments (series of amendments may affect the earlier type approvals) will not be considered for issuing approval to this standard. However, Chairman, AISC may, on a case to case basis, permit to accept latest series of amendments. This shall be incorporated in the test report. Note : Such changes will be considered for inclusion in this standard at the time of its next revision.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "918201455650PMAIS-034(Part1)(Rev1)andAmd1.pdf",
+    "heading": "May 2014",
+    "heading_number": "16",
+    "subheading": null,
+    "rule": "16",
+    "description": "May 2014 (Revision 1) PRINTED BY THE AUTOMOTIVE RESEARCH ASSOCIATION OF INDIA P.B. NO. 832, PUNE 411 004 ON BEHALF OF AUTOMOTIVE INDUSTRY STANDARDS COMMITTEE UNDER CENTRAL MOTOR VEHICLE RULES - TECHNICAL STANDING COMMITTEE SET-UP BY MINISTRY OF ROAD TRANSPORT & HIGHWAYS (DEPARTMENT OF ROAD TRANSPORT & HIGHWAYS) GOVERNMENT OF INDIA December 2010",
+    "AIS": null
+  }
+]

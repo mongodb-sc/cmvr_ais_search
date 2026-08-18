@@ -1,0 +1,84 @@
+[
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "AIS-034 (Rev.3)(Part 1)_Final_473e3dc9-67fa-4420-ade6-1203d4567074.pdf",
+    "heading": "SECTION 0",
+    "heading_number": "0",
+    "subheading": null,
+    "rule": "0.0",
+    "description": "The Government of India felt the need for a permanent agency to expedite the publication of standards and development of test facilities in parallel when the work on the preparation of the standards is going on, as the development of improved safety critical parts can be undertaken only after the publication of the standard and commissioning of test facilities. To this end, the erstwhile Ministry of Surface Transport (MOST) has constituted a permanent Automotive Industry Standards Committee (AISC) vide order No. RT-11028/11/97-MVL dated September 15, 1997. The standards prepared by AISC will be approved by the permanent CMVR Technical Standing Committee (CTSC). After approval, the Automotive Research Association of India, (ARAI), Pune, being the Secretariat of the AIS Committee, has published this standard. For better dissemination of this information ARAI may publish this document on their Web site.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "AIS-034 (Rev.3)(Part 1)_Final_473e3dc9-67fa-4420-ade6-1203d4567074.pdf",
+    "heading": "SECTION 0",
+    "heading_number": "0",
+    "subheading": null,
+    "rule": "0.1",
+    "description": "Accordingly AIS-034 covering mandatory requirements regarding performance of automobile filament light sources and gas discharge light sources for use in vehicles has been published in 2004 and has been implemented thereafter in 2005.The standard was subsequently revised in 2010 and an Amendment no. 1 was further published in 2014.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "AIS-034 (Rev.3)(Part 1)_Final_473e3dc9-67fa-4420-ade6-1203d4567074.pdf",
+    "heading": "SECTION 0",
+    "heading_number": "0",
+    "subheading": null,
+    "rule": "0.2",
+    "description": "With technological developments in filament light sources and Gas discharge light sources, AIS-034 was taken up for revision and now is prepared in two parts. This part covers approval of filament light sources for use in approved lamp on power driven vehicles and their trailers.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "AIS-034 (Rev.3)(Part 1)_Final_473e3dc9-67fa-4420-ade6-1203d4567074.pdf",
+    "heading": "SECTION 0",
+    "heading_number": "0",
+    "subheading": "This part is based on ECE R37, Revision 7 Amend 11: Supplement 48 to the 03 series of amendments - Date of entry into force: 22 nd June 2022",
+    "rule": "0.3",
+    "description": "This part is based on ECE R37, Revision 7 Amend 11: Supplement 48 to the 03 series of amendments - Date of entry into force: 22 nd June 2022.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "AIS-034 (Rev.3)(Part 1)_Final_473e3dc9-67fa-4420-ade6-1203d4567074.pdf",
+    "heading": "SECTION 0",
+    "heading_number": "0",
+    "subheading": "While preparing this standard attempt have been made to align with the above ECE regulation. However, certain changes were necessary in the Indian context",
+    "rule": "0.4",
+    "description": "While preparing this standard attempt have been made to align with the above ECE regulation. However, certain changes were necessary in the Indian context.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "AIS-034 (Rev.3)(Part 1)_Final_473e3dc9-67fa-4420-ade6-1203d4567074.pdf",
+    "heading": "SECTION 0",
+    "heading_number": "0",
+    "subheading": "The following standards contain provisions, which through reference in this text constitute provisions of the standard",
+    "rule": "0.5",
+    "description": "The following standards contain provisions, which through reference in this text constitute provisions of the standard",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "AIS-034 (Rev.3)(Part 1)_Final_473e3dc9-67fa-4420-ade6-1203d4567074.pdf",
+    "heading": "SECTION 0",
+    "heading_number": "0",
+    "subheading": "The AISC panel and Automotive Industry Standards Committee (AISC) committee responsible for formulation of this standard is given in Annex L and M respectively",
+    "rule": "0.6",
+    "description": "The AISC panel and Automotive Industry Standards Committee (AISC) committee responsible for formulation of this standard is given in Annex L and M respectively. AIS-037, 1 = Procedure for Type Approval and Establishing Conformity of Production for Safety Critical Components. IEC Publication 60061,third edition,, 1 = Lamp Caps and Holders together with Gauges for the Control of Interchangeability and Safety - Part 1: Lamp Caps. IEC 60051, 1 = Direct acting Indicating AnalogueElectrical measuring Instruments and their Accessories.. IEC Publication 15.2 Colorimetry, 1986, 1 = CIE Recommendation on Colorimetry, 2 nd edition.",
+    "AIS": [
+      "AIS-037"
+    ]
+  },
+  {
+    "AIS_id": "AIS-034",
+    "source_file": "AIS-034 (Rev.3)(Part 1)_Final_473e3dc9-67fa-4420-ade6-1203d4567074.pdf",
+    "heading": "for dimensions a, b1, c, d, e, f, lR and lC;",
+    "heading_number": "1",
+    "subheading": "SCOPE",
+    "rule": "1.0",
+    "description": "Contents = Scope. 1.0, Page No. = 1/255. 2.0, Contents = Administrative provisions. 2.0, Page No. = 1/255. 3.0, Contents = Technical requirements. 3.0, Page No. = 5/255. 4.0, Contents = Requirements to the Packaging of LED Replacement Light Sources. 4.0, Page No. = 14/255. 5.0, Contents = Conformity of production. 5.0, Page No. = 15/255. 6.0, Contents = Penalties for non-conformity of production.. 6.0, Page No. = 16/255. 7.0, Contents = Reserved. 7.0, Page No. = 16/255. 8.0, Contents = Reserved. 8.0, Page No. = 16/255. 9.0, Contents = Transitional provisions. 9.0, Page No. = 16/255. 10.0, Contents = Extension of type approval. 10.0, Page No. = 17/255. 11.0, Contents = Establishing compliance of 'E'/ 'e' approved filament light sources to this standard.. 11.0, Page No. = 17/255. 12.0, Contents = Amendments to ECE regulations after the level described in 0.3 of Foreword.. 12.0, Page No. = 17/255",
+    "AIS": null
+  }
+]

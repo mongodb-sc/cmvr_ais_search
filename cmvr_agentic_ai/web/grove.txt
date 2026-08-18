@@ -1,0 +1,12 @@
+curl -X POST "https://grove-gateway-prod.azure-api.net/grove-foundry-prod/openai/v1/chat/completions" \
+  -H "Content-Type: application/json" \
+  -H "api-key: $GROVE_API_KEY" \
+  -d '{
+    "model": "gpt-5.6-luna",
+    "messages": [
+      {"role": "user", "content": "Hello!"}
+    ]
+  }'
+
+
+  5483f60a52584c5c9350c6a52452f443

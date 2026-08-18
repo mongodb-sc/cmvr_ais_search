@@ -1,0 +1,318 @@
+[
+  {
+    "AIS_id": "AIS-063",
+    "source_file": "3272019101728AM7_AIS_063_and_Amds.pdf",
+    "heading": "Page 4/8, after Clause No. 3.8.1",
+    "heading_number": "1",
+    "subheading": null,
+    "rule": "1",
+    "description": "Page 4/8, after Clause No. 3.8.1. Addition of New Clause No. 3.9 - '3.9 Fire Detection and Alarm System (FDAS) / Fire Detection and Suppression System (FDSS):",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-063",
+    "source_file": "3272019101728AM7_AIS_063_and_Amds.pdf",
+    "heading": "Page 4/8, after Clause No. 3.8.1",
+    "heading_number": "1",
+    "subheading": "SCOPE",
+    "rule": "1.0",
+    "description": "This standard lays down special requirements for school buses over and above the requirements laid for buses in 'AIS-052 Code of Practice for Bus Body Design and Approval'. The standard shall apply to buses with a seating capacity of 13 passengers and above excluding driver meant for transporting school children to and from school. These additional requirements are being laid down for the following reasons. (i) To maximize safety and minimize severity of injuries. (ii) To take care of specific needs related to school going children.",
+    "AIS": [
+      "AIS-052"
+    ]
+  },
+  {
+    "AIS_id": "AIS-063",
+    "source_file": "3272019101728AM7_AIS_063_and_Amds.pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": "DEFINITIONS",
+    "rule": "2.0",
+    "description": "For the purposes of this standard the following definitions shall apply.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-063",
+    "source_file": "3272019101728AM7_AIS_063_and_Amds.pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.1",
+    "description": "'Stop signal arm' is a device that can be extended outward from the side of school bus, to provide a signal to other motorists not to pass the bus because it has stopped to load or discharge passengers.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-063",
+    "source_file": "3272019101728AM7_AIS_063_and_Amds.pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.2",
+    "description": "'Speed governor' is a device used to limit the speed of a school bus.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-063",
+    "source_file": "3272019101728AM7_AIS_063_and_Amds.pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.3",
+    "description": "'Retracting step' is a step used for entry into bus, but when not in use can be retracted inward and upward to enable normal operation of the bus.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-063",
+    "source_file": "3272019101728AM7_AIS_063_and_Amds.pdf",
+    "heading": "SECTION 2",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.4",
+    "description": "'School bus insignia' is the symbol to be imprinted on the bus. This is used internationally as a symbol for child safety (Refer Figure 1).",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-063",
+    "source_file": "3272019101728AM7_AIS_063_and_Amds.pdf",
+    "heading": "SECTION 3",
+    "heading_number": "3",
+    "subheading": "Identification",
+    "rule": "3.1.1",
+    "description": "All school buses shall have an external colour of `Golden Yellow'. For school identification, a band of 150mm ±10 mm wide of `Golden Brown' colour shall be provided on both longitudinal sides of the bus below the window level.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-063",
+    "source_file": "3272019101728AM7_AIS_063_and_Amds.pdf",
+    "heading": "SECTION 3",
+    "heading_number": "3",
+    "subheading": "Insignia Location",
+    "rule": "3.1.2",
+    "description": "The 'school bus insignia' shall be either of square or circular in shape with dimension of 350 x 350 mm or 350 mm diameter and a back drop of golden yellow colour with the symbol in black colour. The template drawn to 1:2 scale is shown in Figure 1. This shall be provided on the outer surface of the bus in a visible location on the front and the rear. In case, if it is not possible to accommodate insignia of size 350 x 350 mm or 350 mm diameter, size can be reduced to 200 x 200 mm or 200 mm diameter.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-063",
+    "source_file": "3272019101728AM7_AIS_063_and_Amds.pdf",
+    "heading": "SECTION 3",
+    "heading_number": "3",
+    "subheading": "Emergency Exits",
+    "rule": "3.2.1",
+    "description": "Position and Number of Emergency Exits: All school buses other than mini & midi, shall have an emergency exit on the opposite side of the service door. In addition, there shall be an emergency exit on the rear side of the bus. However, in case of mini & midi school buses, there shall be a minimum of one emergency exit and same shall be situated either on the opposite side of the service door or at the rear side of the bus. The lower edge of the emergency door shall be at the level of the bus floor and top edge shall be at the level of window upper edge.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-063",
+    "source_file": "3272019101728AM7_AIS_063_and_Amds.pdf",
+    "heading": "SECTION 3",
+    "heading_number": "3",
+    "subheading": "Emergency Exits",
+    "rule": "3.2.2",
+    "description": "Passenger Safety : Whenever the bus passenger door or emergency Exit/door opens, the driver of the bus must get the indication of the same through a buzzer. The emergency doors shall be kept closed in the normal condition.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-063",
+    "source_file": "3272019101728AM7_AIS_063_and_Amds.pdf",
+    "heading": "SECTION 3",
+    "heading_number": "3",
+    "subheading": null,
+    "rule": "3.3",
+    "description": "Vehicle Entry: The lowest footstep height shall not be more than 300 mm from the ground and the vehicle may be provided with folding or retracting steps and if provided, the driver of the bus shall get the indication of the same through a flashing light or buzzer or suitable means while attempting to start the vehicle without folding or retracting the steps.'",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-063",
+    "source_file": "3272019101728AM7_AIS_063_and_Amds.pdf",
+    "heading": "SECTION 3",
+    "heading_number": "3",
+    "subheading": "Interior Protection",
+    "rule": "3.4.1.1",
+    "description": "All parts in Head Room (Free height over seating position) shall have a radius of not less than 2.5 mm. In addition, buses shall meet the requirements of interior fittings as specified in AIS-047 as amended from time to time.",
+    "AIS": [
+      "AIS-047"
+    ]
+  },
+  {
+    "AIS_id": "AIS-063",
+    "source_file": "3272019101728AM7_AIS_063_and_Amds.pdf",
+    "heading": "SECTION 3",
+    "heading_number": "3",
+    "subheading": "Interior Protection",
+    "rule": "3.4.1.2",
+    "description": "All parts in gangway up to height of 1200 mm from bus floor shall have a radius not less than 25mm. Alternatively its shore hardness shall not be more than 20 Shore A hardness.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-063",
+    "source_file": "3272019101728AM7_AIS_063_and_Amds.pdf",
+    "heading": "SECTION 3",
+    "heading_number": "3",
+    "subheading": "Storage Racks",
+    "rule": "3.4.2",
+    "description": "GVW = A + (B X 50*) Where, - A = Vehicle weight in the kerb weight condition (as defined in IS 9211: 2003) + 150**(kg) In the case of electric vehicles, the weight of traction batteries is to be subtracted from the kerb weight. B = Number of seating positions for school children excluding the driver and attendant. * Weight per school child including his / her luggage (school bag, tiffin bag, etc.) - ** Weight of driver and attendant including their luggage (75kg per person )'",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-063",
+    "source_file": "3272019101728AM7_AIS_063_and_Amds.pdf",
+    "heading": "SECTION 3",
+    "heading_number": "3",
+    "subheading": "Storage racks of 300 mm minimum depth to be provided beneath all passenger seats, except the seats mounted above any tyre humps and last row of seat",
+    "rule": "3.4.2.1",
+    "description": "Storage racks of 300 mm minimum depth to be provided beneath all passenger seats, except the seats mounted above any tyre humps and last row of seat.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-063",
+    "source_file": "3272019101728AM7_AIS_063_and_Amds.pdf",
+    "heading": "SECTION 3",
+    "heading_number": "3",
+    "subheading": "Seat Design",
+    "rule": "3.4.3",
+    "description": "Seat Layout: All seats should be forward facing except in the case of seats facing the passenger step well, which should not face the door. Alternatively a partition which prevents the child from falling into the step well shall be provided. However, this requirement of partition shall not be applicable to buses in which passenger step well does not exist.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-063",
+    "source_file": "3272019101728AM7_AIS_063_and_Amds.pdf",
+    "heading": "SECTION 3",
+    "heading_number": "3",
+    "subheading": "Seat Dimensions: Every seating position for school children shall be at least 265 mm in width and 350 mm in depth",
+    "rule": "3.4.4",
+    "description": "Seat Dimensions: Every seating position for school children shall be at least 265 mm in width and 350 mm in depth.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-063",
+    "source_file": "3272019101728AM7_AIS_063_and_Amds.pdf",
+    "heading": "SECTION 3",
+    "heading_number": "3",
+    "subheading": "For calculation of Seating Capacity of school bus with respect to the specified Gross Vehicle Weight (GVW) in kg, following formula shall be used;",
+    "rule": "3.4.5",
+    "description": "For calculation of Seating Capacity of school bus with respect to the specified Gross Vehicle Weight (GVW) in kg, following formula shall be used;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-063",
+    "source_file": "3272019101728AM7_AIS_063_and_Amds.pdf",
+    "heading": "SECTION 3",
+    "heading_number": "3",
+    "subheading": "Seat Design",
+    "rule": "3.4.6",
+    "description": "Loads for seat strength & seat anchorage tests: Seats for school bus shall comply with strength tests as per clause No.5 and seat anchorage tests as per clause No. 7 of AIS-023:2005 with applicable loads as per Annexure II of AIS-023: 2005 as amended from time to time.",
+    "AIS": [
+      "AIS-023"
+    ]
+  },
+  {
+    "AIS_id": "AIS-063",
+    "source_file": "3272019101728AM7_AIS_063_and_Amds.pdf",
+    "heading": "SECTION 3",
+    "heading_number": "3",
+    "subheading": "Stopping Signals",
+    "rule": "3.5",
+    "description": "Whenever the passenger door opens, the following 2 signals shall operate .",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-063",
+    "source_file": "3272019101728AM7_AIS_063_and_Amds.pdf",
+    "heading": "SECTION 3",
+    "heading_number": "3",
+    "subheading": "The stop signal arm should project out of the co-driver side with a minimum projection of 150 mm with the ' STOP ' sign of minimum letter height of 40 mm to be installed",
+    "rule": "3.5.1",
+    "description": "The stop signal arm should project out of the co-driver side with a minimum projection of 150 mm with the ' STOP ' sign of minimum letter height of 40 mm to be installed.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-063",
+    "source_file": "3272019101728AM7_AIS_063_and_Amds.pdf",
+    "heading": "SECTION 3",
+    "heading_number": "3",
+    "subheading": "The hazard warning shall operate automatically",
+    "rule": "3.5.2",
+    "description": "The hazard warning shall operate automatically.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-063",
+    "source_file": "3272019101728AM7_AIS_063_and_Amds.pdf",
+    "heading": "SECTION 3",
+    "heading_number": "3",
+    "subheading": "Speed Governor",
+    "rule": "3.6",
+    "description": "A speed governor complying with the requirements of Rule 118 of CMV(A)R 1989, which prevents driver from speeding beyond the speed limits set by the latest Central Government Notification shall be provided. All dimensions are in mm Figure 1 - School Bus Insignia (See Para 3.1.2)",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-063",
+    "source_file": "3272019101728AM7_AIS_063_and_Amds.pdf",
+    "heading": "SECTION 3",
+    "heading_number": "3",
+    "subheading": "The requirements of destination board mentioned in Chapter 2 AIS-052 (Rev.1) at clause no. 2.2.15 is optional for school buses",
+    "rule": "3.7",
+    "description": "The requirements of destination board mentioned in Chapter 2 AIS-052 (Rev.1) at clause no. 2.2.15 is optional for school buses.",
+    "AIS": [
+      "AIS-052"
+    ]
+  },
+  {
+    "AIS_id": "AIS-063",
+    "source_file": "3272019101728AM7_AIS_063_and_Amds.pdf",
+    "heading": "SECTION 3",
+    "heading_number": "3",
+    "subheading": null,
+    "rule": "3.8",
+    "description": "The requirements of service doors shall be as per clause no. 3.4.4 of Chapter 3 of AIS- 052 (Rev.1), however all types of school buses shall be provided with Manually Operated Service Doors(s) or Power Operated (Pneumatic/Hydraulic/Electric) Service Door(s).",
+    "AIS": [
+      "AIS-052"
+    ]
+  },
+  {
+    "AIS_id": "AIS-063",
+    "source_file": "3272019101728AM7_AIS_063_and_Amds.pdf",
+    "heading": "SECTION 3",
+    "heading_number": "3",
+    "subheading": null,
+    "rule": "3.8.1",
+    "description": "Handrails and Handholds provided for service doors shall be such that they include a grasping/ gripping point available to a child standing on the ground and adjacent to the service door or any of the successive door steps. Such point shall be situated, vertically, between 400 to 1000 mm (instead of 800 ~ 1000 mm as specified in clause 2.2.9.11.2 of AIS-052 (Rev.1) above the ground or from the surface of each step.",
+    "AIS": [
+      "AIS-052"
+    ]
+  },
+  {
+    "AIS_id": "AIS-063",
+    "source_file": "3272019101728AM7_AIS_063_and_Amds.pdf",
+    "heading": "SECTION 3",
+    "heading_number": "3",
+    "subheading": "All School Buses shall be fitted with FDAS with effect from 1 st April 2019 meeting the requirements of AIS-135:2016, as amended from time to time",
+    "rule": "3.9.1",
+    "description": "All School Buses shall be fitted with FDAS with effect from 1 st April 2019 meeting the requirements of AIS-135:2016, as amended from time to time.",
+    "AIS": [
+      "AIS-135"
+    ]
+  },
+  {
+    "AIS_id": "AIS-063",
+    "source_file": "3272019101728AM7_AIS_063_and_Amds.pdf",
+    "heading": "SECTION 3",
+    "heading_number": "3",
+    "subheading": "All School Buses shall be fitted with FDSS with effect from 1 st April 2020 meeting the requirements of AIS-135:2016, as amended from time to time.'",
+    "rule": "3.9.2",
+    "description": "All School Buses shall be fitted with FDSS with effect from 1 st April 2020 meeting the requirements of AIS-135:2016, as amended from time to time.' PRINTED BY THE AUTOMOTIVE RESEARCH ASSOCIATION OF INDIA P. B. NO. 832, PUNE 411 004 ON BEHALF OF AUTOMOTIVE INDUSTRY STANDARDS COMMITTEE UNDER CENTRAL MOTOR VEHICLES RULES - TECHNICAL STANDING COMMITTEE SET-UP BY MINISTRY OF ROAD TRANSPORT & HIGHWAYS (DEPARTMENT OF ROAD TRANSPORT & HIGHWAYS) GOVERNMENT OF INDIA",
+    "AIS": [
+      "AIS-135"
+    ]
+  },
+  {
+    "AIS_id": "AIS-063",
+    "source_file": "3272019101728AM7_AIS_063_and_Amds.pdf",
+    "heading": "SECTION 4",
+    "heading_number": "4",
+    "subheading": "The technical specification for School Bus requirements related parameters to be submitted by Bus Manufacturers / Bus Body Builders as per AIS-063 shall be as per Annexure-A",
+    "rule": "4.0",
+    "description": "The technical specification for School Bus requirements related parameters to be submitted by Bus Manufacturers / Bus Body Builders as per AIS-063 shall be as per Annexure-A.",
+    "AIS": null
+  }
+]

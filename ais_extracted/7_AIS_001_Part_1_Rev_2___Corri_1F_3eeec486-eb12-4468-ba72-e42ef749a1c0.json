@@ -1,0 +1,1836 @@
+[
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "SECTION 0",
+    "heading_number": "0",
+    "subheading": null,
+    "rule": "0.0",
+    "description": "The Government of India felt the need for a permanent agency to expedite the publication of standards and development of test facilities in parallel when the work on the preparation of the standards is going on, as the development of improved safety critical parts can be undertaken only after the publication of the standard and commissioning of test facilities. To this end, the Ministry of Surface Transport (MOST) has constituted a permanent Automotive Industry Standards Committee (AISC) vide order No.RT-11028/11/97-MVL dated September 15, 1997. The standards prepared by AISC will be approved by the permanent CMVR Technical Standing Committee (CTSC). After approval, the Automotive Research Association of India, (ARAI), Pune, being the Secretariat of the AIS Committee, has published this standard. For better dissemination of this information ARAI may publish this document on their website.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "SECTION 0",
+    "heading_number": "0",
+    "subheading": "AIS-001 covering mandatory requirements regarding performance of rear-view mirrors devices was published in 2001 and implemented thereafter in 2003",
+    "rule": "0.1",
+    "description": "AIS-001 covering mandatory requirements regarding performance of rear-view mirrors devices was published in 2001 and implemented thereafter in 2003.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "SECTION 0",
+    "heading_number": "0",
+    "subheading": "With technological developments in automotive vehicles rear view mirrors, AIS-001 was taken up for revision and prepared in two parts",
+    "rule": "0.2",
+    "description": "With technological developments in automotive vehicles rear view mirrors, AIS-001 was taken up for revision and prepared in two parts. This part covers the requirements for approval of devices for indirect vision for use on A, M, N, category and L category vehicles with bodywork vehicles specification.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "SECTION 0",
+    "heading_number": "0",
+    "subheading": "This part is based on the following UN Regulation",
+    "rule": "0.3",
+    "description": "This part is based on the following UN Regulation",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "SECTION 0",
+    "heading_number": "0",
+    "subheading": "While preparing this standard attempt has been made to align with the above UN regulation. However, certain changes were necessary in Indian context",
+    "rule": "0.4",
+    "description": "While preparing this standard attempt has been made to align with the above UN regulation. However, certain changes were necessary in Indian context.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "SECTION 0",
+    "heading_number": "0",
+    "subheading": "The following standards contain provisions, which through reference in this text constitute provisions of the standard",
+    "rule": "0.5",
+    "description": "The following standards contain provisions, which through reference in this text constitute provisions of the standard UN R 46 Revision 6, Amendment 7, Supplement 9 to the 04 series of amendments Date of entry into force: 30 September 2021, 1 = Uniform Provisions Concerning the Approval of Devices for Indirect Vision and of Motor Vehicles with regard to the Installation of these Devices AIS-002 (Part 1) (Rev.2):2023, 1 = Automotive Vehicles - Devices for indirect Vision intended for use on L category with bodywork vehicles, M and N category - Installation requirements. AIS-037, 1 = Procedure for Type Approval and Establishing Conformity of Production for Safety Critical Components IS 14272:2011, 1 = Automotive Vehicles - Types - Terminology. IS 13942:1994, 1 = Automotive vehicles - External projections - Performance requirements. ISO 15008:2003, 1 = Road vehicles - Ergonomic aspects of transport Information and control systems - Specifications and compliance procedures for in-vehicle visual presentation. CIE publication 50 (45), 1 = International Electronical Vocabulary, Group 45, Lighting. EN 12368: 8.4, 1 = Traffic Control Equipment - Signal heads",
+    "AIS": [
+      "AIS-002",
+      "AIS-037"
+    ]
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "SECTION 0",
+    "heading_number": "0",
+    "subheading": "The composition of AISC panel and AIS Committee responsible for preparation of this standard is given in Annex P and Annex R respectively",
+    "rule": "0.6",
+    "description": "The composition of AISC panel and AIS Committee responsible for preparation of this standard is given in Annex P and Annex R respectively. 1., Contents = Scope. 1., Page No. = 1/46. 2., Contents = Definitions. 2., Page No. = 1/46. 3., Contents = Application for approval. 3., Page No. = 5/46. 4., Contents = Markings. 4., Page No. = 5/46. 5., Contents = Approval. 5., Page No. = 6/46. 6., Contents = Requirements. 6., Page No. = 6/46. 7., Contents = Extension of type approval. 7., Page No. = 26/46. 8., Contents = Conformity of production. 8., Page No. = 26/46. 9., Contents = Penalties for non-conformity of production. 9., Page No. = 27/46. 10. to 20., Contents = Reserved. 10. to 20., Page No. = 27/46. 21., Contents = Transitional provisions. 21., Page No. = 27/46. 22., Contents = Establishing compliance of 'E'/'e' approved devices to this standard. 22., Page No. = 28/46. 23., Contents = Amendments to UN regulations after the level described in 0.3 of introduction. 23., Page No. = 28/46. List of Annexes, Contents = List of Annexes. List of Annexes, Page No. = List of Annexes. Annex A, Contents = Information to be submitted at the time of applying for type approval. Annex A, Page No. = 30/46. Annex B to E, Contents = Reserved. Annex B to E, Page No. = 32/46. Annex F, Contents = Test method for determining reflectivity. Annex F, Page No. = 33/46. Annex G, Contents = Procedure for determining the Radius of Curvature \"r\" of the reflecting surface of a mirror. Annex G, Page No. = 39/46. Annex H to M, Contents = Reserved. Annex H to M, Page No. = 41/46. Annex N, Contents = Criteria for extension of approval. Annex N, Page No. = 42/46. Annex P, Contents = Composition of AISC panel on rear view mirrors. Annex P, Page No. = 44/46. Annex R, Contents = Committee composition Automotive Industry Standards Committee. Annex R, Page No. = 46/46",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "Page 11/46, clause 6.2.1.3",
+    "heading_number": "1",
+    "subheading": null,
+    "rule": "1",
+    "description": "Page 11/46, clause 6.2.1.3 '6.2.1.3. The effectiveness of the CMS of Classes I to VI shall not be adversely affected by magnetic or electrical fields. This shall be demonstrated by compliance with the technical requirements and transitional provisions of AIS-004 (Part 3), as amended from time to time.'",
+    "AIS": [
+      "AIS-004"
+    ]
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "Page 11/46, clause 6.2.1.3",
+    "heading_number": "1",
+    "subheading": null,
+    "rule": "1.1",
+    "description": "This standard applies to compulsory and optional devices for indirect vision set out in the table under clause 15.2.1.1.1. of AIS-002 (Part 1) (Rev. 2), for vehicles of category M and N and to compulsory and optional devices for indirect vision mentioned in clauses 15.2.1.1.3 and 15.2.1.1.4 of AIS-002 (Part 1) (Rev. 2) for vehicles of category L with bodywork at least partly enclosing the driver and interior and exterior rear-view mirrors used for agricultural tractors as mentioned in AIS-114. - Note : The permission to use rear view mirrors and indirect vision devices covered by this standard are governed by requirements specified by the standard for installation requirements for that category of vehicles.",
+    "AIS": [
+      "AIS-002",
+      "AIS-114"
+    ]
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "Page 11/46, clause 6.2.1.3",
+    "heading_number": "1",
+    "subheading": null,
+    "rule": "1.2",
+    "description": "This standard does not apply to devices other than those prescribed under clause 1.1 and their installation, for observing the vision area(s) immediately adjacent to the front and/or the passenger's side of vehicles of category M1, M2, M3, N1 and N2 ≤ 7.5 t.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "Page 21/46, clause 6.3.1.1",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2",
+    "description": "Page 21/46, clause 6.3.1.1 '6.3.1.1 The test provided for in clause 6.3.2. shall not be required in the case of any Class II to VI exterior device for indirect vision of which no part is less than 2 m from the ground, regardless of the adjustment position, when the vehicle is under a load corresponding to its maximum technically permissible mass.' PRINTED BY THE AUTOMOTIVE RESEARCH ASSOCIATION OF INDIA P. B. NO. 832, PUNE 411 004 ON BEHALF OF AUTOMOTIVE INDUSTRY STANDARDS COMMITTEE UNDER CENTRAL MOTOR VEHICLES RULES - TECHNICAL STANDING COMMITTEE SET-UP BY MINISTRY OF ROAD TRANSPORT & HIGHWAYS GOVERNMENT OF INDIA For the purposes of this standard:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "Page 21/46, clause 6.3.1.1",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.1",
+    "description": "\" Devices for indirect vision \" means devices intended to give a clear view of the rear, side or front of the vehicle within the fields of vision defined in clause 15.2.4. These may be conventional mirrors, cameramonitors or other devices able to present information about the indirect field of vision to the driver.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "Page 21/46, clause 6.3.1.1",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.1.1",
+    "description": "\" Mirror \" means any device, excluding devices such as periscopes, intended to give a clear view to the rear, side or front of the vehicle within the fields of vision defined in clause 15.2.4 of AIS-002 (Part 1) (Rev. 2), by means of a reflective surface.",
+    "AIS": [
+      "AIS-002"
+    ]
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "Page 21/46, clause 6.3.1.1",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.1.1.1",
+    "description": "\" Interior mirror \" means a device as defined in clause 2.1.1 above, which is intended to be fitted in the passenger compartment of a vehicle.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "Page 21/46, clause 6.3.1.1",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.1.1.2",
+    "description": "\" Exterior mirror \" means a device as defined in clause 2.1.1 above, which is intended to be mounted on the external surface of a vehicle.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "Page 21/46, clause 6.3.1.1",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.1.1.3",
+    "description": "\" Surveillance mirror \" means a mirror other than the ones defined in clause 2.1.1. which is intended to be fitted to the inside or outside of the vehicle in order to provide fields of vision other than those specified in clause 15.2.4 of AIS-002 (Part 1) (Rev. 2).",
+    "AIS": [
+      "AIS-002"
+    ]
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "Page 21/46, clause 6.3.1.1",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.1.1.4",
+    "description": "\"r\" means the average of the radii of curvature measured over the reflecting surface, in accordance with the method described in Annex G.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "Page 21/46, clause 6.3.1.1",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.1.1.5",
+    "description": "\" The principal radii of curvature at one point on the reflecting surface (r i ) \" means the values obtained with the apparatus defined in Annex G measured on the arc of the reflecting surface passing through the centre of this surface parallel to the segment b, as defined in 6.1.2.1.2.1 of this standard and on the arc perpendicular to this segment.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "Page 21/46, clause 6.3.1.1",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.1.1.6",
+    "description": "\" The radius of curvature at one point on the reflecting surface (rp) \" means the arithmetical average of the principal radii of curvature r i and r ′ i i.e.: <!-- formula-not-decoded -->",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "Page 21/46, clause 6.3.1.1",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.1.1.7",
+    "description": "\" Spherical surface \" means a convex surface, which has, in both horizontal and vertical direction, measured radii of curvature compliant with the provisions given in paragraphs 6.1.2.2.2 and 6.1.2.2.4.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "Page 21/46, clause 6.3.1.1",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.1.1.8",
+    "description": "\" Aspherical surface \" means a convex surface, which may have variable radii of curvature both in the horizontal and vertical direction.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "Page 21/46, clause 6.3.1.1",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.1.1.9",
+    "description": "\" Aspherical mirror \" means a mirror composed of a spherical and an aspherical part, defined in clause 2.1.1.7 and 2.1.1.8 respectively, in which the transition of the reflecting surface from the spherical to the aspherical part has to be marked. As an example, the curvature of the main axis of the mirrors may be defined in the x/y coordinate system defined by the radius of the spherical primary calotte with: <!-- formula-not-decoded --> R: nominal radius in the spherical part k: constant for the change of curvature a: constant for the spherical size of the spherical primary calotte",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "Page 21/46, clause 6.3.1.1",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.1.1.10",
+    "description": "\" Centre of the reflecting surface \" means the centre of the visible area of the reflecting surface.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "Page 21/46, clause 6.3.1.1",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.1.1.11",
+    "description": "\" The radius of curvature of the constituent parts of the mirror \" means the radius \"c\" of the arc of the circle which most closely approximates to the curved form of the part in question.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "Page 21/46, clause 6.3.1.1",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.1.2",
+    "description": "\" Camera-monitor system (CMS) \" means a device for indirect vision as defined in clause 2.1, where the field of vision is obtained by means of a camera-monitor combination as defined in clause 2.1.2.1 and 2.1.2.2. below.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "Page 21/46, clause 6.3.1.1",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.1.2.1",
+    "description": "\" Camera\" means a device that renders an image of the outside world and then converts this image into a signal (e.g. video signal).",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "Page 21/46, clause 6.3.1.1",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.1.2.2",
+    "description": "\"Monitor\" means a device that converts a signal into images that are rendered into the visual spectrum.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "Page 21/46, clause 6.3.1.1",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.1.3",
+    "description": "\" Other devices for indirect vision \" means devices as defined in clause 2.1. above, where the field of vision is not obtained by means of a mirror or a camera-monitor device.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "Page 21/46, clause 6.3.1.1",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.1.4",
+    "description": "\" Vision support system \" means a system to enable the driver to detect and/or see objects in the area adjacent to the vehicle.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "Page 21/46, clause 6.3.1.1",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.1.5",
+    "description": "\"Luminance contrast\" means the brightness ratio between an object and its immediate background/surrounding that allows the object to be distinguished from its background/surroundings. The definition is in accordance with the definition given in ISO 9241-302:2008.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "Page 21/46, clause 6.3.1.1",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.1.6",
+    "description": "\"Resolution\" means the smallest detail that is discerned with a perceptual system, i.e. perceived as separate from the larger whole. The resolution of the human eye is indicated as \"visual acuity\".",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "Page 21/46, clause 6.3.1.1",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.1.7",
+    "description": "\"Critical object\" means a cylindrical object with a height of 0.50 m and a diameter of 0.30 m. (See note below) - Note : A system for indirect vision is intended to detect relevant road users. The relevancy of a road user is defined by his or her position and (potential) speed. More or less in proportion with the speed of the pedestrian-cyclist- moped driver, the dimensions of these road users increase as well. For detection purposes a moped driver (D = 0.3 m) at 40 m distance would be equal to a pedestrian (D = 0.5 m) at a distance of 25 m. Considering the speeds, the moped driver would be selected as the criterion for the detection size; for that reason an object with a size of 0.3 m shall be used for determining the detection performance.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "Page 21/46, clause 6.3.1.1",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.1.8",
+    "description": "\"Critical perception\" means the level of perception that can just be obtained under critical conditions via the viewing system used. This corresponds to the situation in which the representative scale of the critical object is multiple times larger than the smallest detail that can be perceived via the viewing system.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "Page 21/46, clause 6.3.1.1",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.1.9",
+    "description": "\"Field of vision\" means the section of the tri-dimensional space which is monitored with the help of a device for indirect vision. Unless otherwise stated, this is based on the view on ground level offered by a device and/or devices other than mirrors. This may be limited by the relevant detection distance corresponding to the critical object.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "Page 21/46, clause 6.3.1.1",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.1.10",
+    "description": "\"Detection distance\" means the distance measured from the centre of the lens of the camera to the point at which a critical object is just perceived (as defined by the critical perception.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "Page 21/46, clause 6.3.1.1",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.1.11",
+    "description": "\"Visual spectrum\" means light with a wavelength within the range of the perceptual limits of the human eyes: 380-780 nm.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "Page 21/46, clause 6.3.1.1",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.1.12",
+    "description": "\"Smear \" is a bright line displayed on the monitor while sun light or light from other bright light sources is directly hitting into the lens of the camera.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "Page 21/46, clause 6.3.1.1",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.1.13",
+    "description": "\" Mirror and CMS dual function system \" means a CMS of Class I in which a monitor complying with this standard is placed behind a semitransparent mirror complying with this standard. The monitor is visible in the CMS mode.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "Page 21/46, clause 6.3.1.1",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.2",
+    "description": "\"Type of device for indirect vision\" means devices that do not differ on the following essential characteristics: - design of the device inclusive, if pertinent , the attachment to the bodywork; - in case of mirrors the class, the shape , the dimensions and radius of curvature of the mirror's reflecting surface; - in case of camera-monitor systems, the class, the field of view, the magnification and resolution",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "Page 21/46, clause 6.3.1.1",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.3",
+    "description": "\"Surveillance camera-monitor-recording device\" means a camera and either a monitor or recording equipment other than the camera monitor device defined in clause 2.1.2. which can be fitted to the inside or outside of the vehicle in order to provide fields of vision other than those specified in 15.2.4. of AIS-002 (Part 1) (Rev.2) or to provide a security system within or around the vehicle.",
+    "AIS": [
+      "AIS-002"
+    ]
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "Page 21/46, clause 6.3.1.1",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.4",
+    "description": "\" Class of device for indirect vision \" means all devices having one or more common characteristics or functions. They are classified as follows: - Class I \" rear-view device \" intended to give the field of vision defined in clause 15.2.4.1 of AIS-002 (Part 1) (Rev.2) - Class II and III \"Main rear-view device\" intended to give the fields of vision defined in clause 15.2.4.2 and 15.2.4.3 of AIS-002 (Part 1) (Rev.2) - Class IV \" Wide-angle exterior device \", intended to give the field of vision defined in clause 15.2.4.4 of AIS-002 (Part 1) (Rev.2) - Class V \" Close-proximity view device \", intended to give the field of vision defined in clause 15.2.4.5 of AIS-002 (Part 1) (Rev.2) - Class VI \" Front- view device \", intended to give the field of vision defined in clause 15.2.4.6 of AIS-002 (Part 1) (Rev.2) - Class VII Main rear-view Mirrors intended for L category vehicles with bodywork intended to give the field of vision defined in clause 15.2.4.7 of AIS-002 (Part 1) (Rev.2)",
+    "AIS": [
+      "AIS-002"
+    ]
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "Page 21/46, clause 6.3.1.1",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.5",
+    "description": "\" Point light source detection factor (PLSDF) \" means the level of distinctness of a pair of point light sources, based on luminance intensities and horizontal and vertical dimension of the rendition on the monitor.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "Page 21/46, clause 6.3.1.1",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2.6",
+    "description": "\" Point light source contrast factor (PLSCF) \" means the level of distinctness of a pair of point light sources, based on luminance differences between the maximum luminance of the luminance profile LH max and the minimum luminance of the luminance profile LH, min in the horizontal direction (see Figure 3 of Annex M).",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "APPLICATION FOR APPROVAL",
+    "heading_number": "3",
+    "subheading": "Information to be submitted at the time of applying for type approval of the indirect vision devices shall be as given in Annex A",
+    "rule": "3.1",
+    "description": "Information to be submitted at the time of applying for type approval of the indirect vision devices shall be as given in Annex A.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "APPLICATION FOR APPROVAL",
+    "heading_number": "3",
+    "subheading": "Reserved",
+    "rule": "3.2",
+    "description": "Reserved.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "APPLICATION FOR APPROVAL",
+    "heading_number": "3",
+    "subheading": "For each type of device for indirect vision the application shall be accompanied by: three samples of the parts",
+    "rule": "3.3",
+    "description": "For each type of device for indirect vision the application shall be accompanied by: three samples of the parts.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "APPLICATION FOR APPROVAL",
+    "heading_number": "3",
+    "subheading": "The CMS shall be provided by the applicant with the following documents: - (a) Technical specification of the CMS; and - (b) Operator's manual",
+    "rule": "3.4",
+    "description": "The CMS shall be provided by the applicant with the following documents: - (a) Technical specification of the CMS; and - (b) Operator's manual",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "MARKINGS",
+    "heading_number": "4",
+    "subheading": null,
+    "rule": "4.1",
+    "description": "The samples of devices for indirect vision submitted for approval shall bear the trade name or mark of the manufacturer; this marking shall be clearly legible and be indelible.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "MARKINGS",
+    "heading_number": "4",
+    "subheading": null,
+    "rule": "4.2",
+    "description": "Every device for indirect vision shall possess on at least one of the main components a space large enough to accommodate the approval mark, which shall be legible this space shall be shown on the sketches referred to in Annex A. The approval mark shall also be legible when the device has been mounted on the vehicle with exception of cameramonitor devices as defined in clause 2.1.2. Other components of the device shall bear a means of identification. In the case of limited space for the approval mark(s), other means of identification that link it to the approval mark shall be provided. - Note 1: The above condition is deemed to be complied with, if the space for approval marking is on the portion which does not get housed in the vehicle at the time of installation or on a portion which can be seen by repositioning the mirror. - Note 2: On the prototype for type approval, the markings may be provided by suitable temporary methods and need not necessary be obtained from the tools used for series production.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "APPROVAL",
+    "heading_number": "5",
+    "subheading": "If the samples submitted for approval meet the requirements of clause 6 of this standard, approval of the pertinent type of device for indirect vision shall be granted",
+    "rule": "5.1",
+    "description": "If the samples submitted for approval meet the requirements of clause 6 of this standard, approval of the pertinent type of device for indirect vision shall be granted.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "APPROVAL",
+    "heading_number": "5",
+    "subheading": "The Approval number shall be as per AIS-037",
+    "rule": "5.2",
+    "description": "The Approval number shall be as per AIS-037.",
+    "AIS": [
+      "AIS-037"
+    ]
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "APPROVAL",
+    "heading_number": "5",
+    "subheading": "Reserved",
+    "rule": "5.3",
+    "description": "Reserved",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "APPROVAL",
+    "heading_number": "5",
+    "subheading": "Reserved",
+    "rule": "5.4",
+    "description": "Reserved",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "APPROVAL",
+    "heading_number": "5",
+    "subheading": "Reserved",
+    "rule": "5.4.1",
+    "description": "Reserved",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "APPROVAL",
+    "heading_number": "5",
+    "subheading": "Reserved",
+    "rule": "5.4.2",
+    "description": "Reserved",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "APPROVAL",
+    "heading_number": "5",
+    "subheading": "Reserved",
+    "rule": "5.4.3",
+    "description": "In addition to the approval mark (5.2), an additional symbol I or II or III or IV or V or VI, or VII specifying the class to which the type of device for indirect vision belongs. The additional symbol shall be placed in any convenient position.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "APPROVAL",
+    "heading_number": "5",
+    "subheading": "The approval mark and the additional symbol shall be clearly legible and be indelible",
+    "rule": "5.5",
+    "description": "The approval mark and the additional symbol shall be clearly legible and be indelible.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "APPROVAL",
+    "heading_number": "5",
+    "subheading": "Reserved",
+    "rule": "5.6",
+    "description": "Reserved",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "All mirrors shall be adjustable",
+    "rule": "6.1.1.1",
+    "description": "All mirrors shall be adjustable",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "General specifications",
+    "rule": "6.1.1.2",
+    "description": "(a) Rear-view mirrors (Classes II to VII) The edge of the reflecting surface shall be enclosed in a protective housing (holder, etc.) which, on its perimeter, shall have a value 'c' greater than or equal to 2.5 mm at all points and in all directions. If the reflecting surface projects beyond the protective housing, the radius of curvature 'c' on the edge of the projecting part shall be not less than 2.5 mm and the reflecting surface shall return into the protective housing under a force of 50 N applied to the point of greatest projection, relative to the protective housing, in a horizontal direction, approximately parallel to the longitudinal median plane of the vehicle. - (b) Rear-view mirrors (Class I) In cases, where the edge of the reflecting surface is enclosed in a protective housing (holder, etc.), the radius of curvature \"c\" on its perimeter shall be not less than 2.5 mm at all points and in all directions. In cases, where the edge of the reflecting surface projects beyond the protective housing, this requirement shall apply to the edge of the projecting part.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "General specifications",
+    "rule": "6.1.1.3",
+    "description": "When the mirror is mounted on a plane surface, all parts, irrespective of the adjustment position of the device, including those parts remaining attached to the support after the test provided for in clause 6.3.2 below, which are in potential static contact with a sphere either 165 mm in diameter in the case of an Class I mirror or 100 mm in diameter in the case of an Class II to VII mirror, shall have a radius of curvature 'c' of not less than 2.5 mm.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "General specifications",
+    "rule": "6.1.1.4",
+    "description": "The requirements in clause 6.1.1.2. and 6.1.1.3. above shall not apply to parts of the external surface which protrude less than 5 mm, but the outward facing angles of such parts shall be blunted, save where such parts protrude less than 1.5 mm. For determining the dimension of the projection, the following method shall apply:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "General specifications",
+    "rule": "6.1.1.4.1",
+    "description": "The dimension of the projection of a component which is mounted on a convex surface may be determined either directly or by reference to a drawing of an appropriate section of this component in its installed condition.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "General specifications",
+    "rule": "6.1.1.4.2",
+    "description": "If the dimension of the projection of a component which is mounted on a surface other than convex cannot be determined by simple measurement, it shall be determined by the maximum variation of the distance of the center of a 100 mm diameter sphere from the nominal line of the panel when the sphere is moved over and is in constant contact with that component. Figure 1 shows an example of the use of this procedure.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "General specifications",
+    "rule": "6.1.1.5",
+    "description": "Edges of fixing holes or recesses of which the diameter or longest diagonal is less than 12 mm are exempt from the radius requirements of clause 6.1.1.3. above provided that they are blunted.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "General specifications",
+    "rule": "6.1.1.6",
+    "description": "The device for the attachment of mirrors to the vehicle shall be so designed that a cylinder with a 70 mm radius, (50 mm in the case of an L-category vehicle), having at its axis, or one of the axes, of pivot or rotation which ensures deflection of the mirror in the direction of Figure 1 Example for the measurement by maximum variation impact concerned, passes through at least part of the surface to which the device is attached.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "General specifications",
+    "rule": "6.1.1.7",
+    "description": "The parts of Classes II to VII mirrors referred to in clause 6.1.1.2. and 6.1.1.3. which are made of a material with a Shore A hardness not exceeding 60 are exempt from the relevant provisions.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "General specifications",
+    "rule": "6.1.1.8",
+    "description": "In the case of those parts of Class I mirrors which are made of a material with a Shore A hardness of less than 50 and which are mounted on a rigid support, the requirements of clause 6.1.1.2. and 6.1.1.3 shall only apply to the support.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Rear-view mirrors (Class I)",
+    "rule": "6.1.2.1",
+    "description": "The dimensions of the reflecting surface shall be such that it is possible to inscribe thereon a rectangle one side of which is 40 mm and the other 'a' mm in length, where <!-- formula-not-decoded --> and r is the radius of curvature.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Main rear-view mirrors (Classes II and III)",
+    "rule": "6.1.2.1.2.1",
+    "description": "The dimensions of the reflecting surface shall be such that it is possible to inscribe therein: - (a) a rectangle 40 mm high the base length of which, measured in millimetres, has the value 'a'; - (b) a segment which is parallel to the height of the rectangle and the length of which, expressed in millimetres, has the value 'b'.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "The minimum values of 'a' and 'b' are given in the table below",
+    "rule": "6.1.2.1.2.2",
+    "description": "The minimum values of 'a' and 'b' are given in the table below: II, a (mm) = 170 ൅ 1000 r. II, b (mm) = 200. III, a (mm) = 130. III, b (mm) = 70 The contours of the reflecting surface shall be of simple geometric form and its dimensions such that it provides, if necessary, in conjunction with a Class II exterior mirror, the field of vision specified in clause 15.2.4.4. of AIS-002 (Part 1) (Rev.2). The contours of the reflecting surface shall be of simple geometric form and its dimensions such that the mirror provides the field of vision specified in clause 15.2.4.5. of AIS-002 (Part 1) (Rev. 2).",
+    "AIS": [
+      "AIS-002"
+    ]
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Front- view mirrors (Class VI)",
+    "rule": "6.1.2.1.5",
+    "description": "The contours of the reflecting surface shall be of simple geometric form and its dimensions such that the mirror provides the field of vision specified in clause 15.2.4.6. of AIS-002 (Part 1) (Rev. 2). Note : Conditions given in clause 6.1.2.1.3, 6.1.2.1.4 and 6.1.2.1.5 are for general guidelines and need not be verified at the time of type approval of the mirror",
+    "AIS": [
+      "AIS-002"
+    ]
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Main' rear-view mirrors (Class VII)",
+    "rule": "6.1.2.1.6.1",
+    "description": "Main' rear-view mirrors (Class VII) The minimum dimensions of the reflecting surface shall be as per clause 7.1 of Part 2 of this standard.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Reflecting surface and coefficients of reflection",
+    "rule": "6.1.2.2.1",
+    "description": "The reflecting surface of a mirror shall be either flat or convex. Exterior mirrors may be equipped with an additional aspherical part provided that the main mirror fulfils the requirements of the indirect field of vision.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Differences between the radii of curvature of mirrors",
+    "rule": "6.1.2.2.2",
+    "description": "Differences between the radii of curvature of mirrors",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "The difference between ri or r'i, and rp at each reference point shall not exceed 0.15 r",
+    "rule": "6.1.2.2.2.1",
+    "description": "The difference between ri or r'i, and rp at each reference point shall not exceed 0.15 r",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "The difference between any of the radii of curvature (rp1, rp2, and rp3) and r shall not exceed 0.15 r",
+    "rule": "6.1.2.2.2.2",
+    "description": "The difference between any of the radii of curvature (rp1, rp2, and rp3) and r shall not exceed 0.15 r.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "When r is not less than 3,000 mm, the value of 0.15 r quoted in clause 6.1.2.2.2.1. and 6.1.2.2.2.2. is replaced by 0.25 r",
+    "rule": "6.1.2.2.2.3",
+    "description": "When r is not less than 3,000 mm, the value of 0.15 r quoted in clause 6.1.2.2.2.1. and 6.1.2.2.2.2. is replaced by 0.25 r.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Requirements for aspherical parts of mirrors",
+    "rule": "6.1.2.2.3",
+    "description": "In the case of reflecting surfaces with a changeable degree of reflection, the \"day\" position shall allow the colours of the signals used for road traffic to be recognized. The value of the normal coefficient of reflection in the \"night\" position shall be not less than 4 per cent. Note : 6.1.2.2.6 is general clause and no specific tests are required for verifying compliance to this clause.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Aspherical mirrors shall be of sufficient size and shape to provide useful information to the driver. This normally means a minimum width of 30 mm at some point",
+    "rule": "6.1.2.2.3.1",
+    "description": "Aspherical mirrors shall be of sufficient size and shape to provide useful information to the driver. This normally means a minimum width of 30 mm at some point.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "The radius of curvature ri of the aspherical part shall not be less than 150 mm",
+    "rule": "6.1.2.2.3.2",
+    "description": "The radius of curvature ri of the aspherical part shall not be less than 150 mm.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Value of 'r' for spherical mirrors shall not be less than",
+    "rule": "6.1.2.2.4",
+    "description": "Value of 'r' for spherical mirrors shall not be less than:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Value of 'r' for spherical mirrors shall not be less than",
+    "rule": "6.1.2.2.4.1",
+    "description": "1200 mm for rear-view mirrors (Class I);",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Value of 'r' for spherical mirrors shall not be less than",
+    "rule": "6.1.2.2.4.2",
+    "description": "1200 mm for Class II and III main rear-view mirrors;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Value of 'r' for spherical mirrors shall not be less than",
+    "rule": "6.1.2.2.4.3",
+    "description": "300 mm for \"wide-angle\" mirrors (Class IV) and \"close-proximity\" mirrors (Class V);",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Value of 'r' for spherical mirrors shall not be less than",
+    "rule": "6.1.2.2.4.4",
+    "description": "200 mm for front mirrors (Class VI).",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Value of 'r' for spherical mirrors shall not be less than",
+    "rule": "6.1.2.2.4.5",
+    "description": "1000 mm or more than 1500 mm in the case of Class VII main rear-view mirrors",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "The value of the normal coefficient of reflection, as determined according to the method described in Annex F, shall be not less than 40 per cent",
+    "rule": "6.1.2.2.5",
+    "description": "The value of the normal coefficient of reflection, as determined according to the method described in Annex F, shall be not less than 40 per cent.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "The reflecting surface shall retain the characteristics laid down in 6.1.2.2.5. in spite of prolonged exposure to adverse weather conditions in normal use",
+    "rule": "6.1.2.2.6",
+    "description": "The reflecting surface shall retain the characteristics laid down in 6.1.2.2.5. in spite of prolonged exposure to adverse weather conditions in normal use.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "General requirements",
+    "rule": "6.2.1",
+    "description": "The requirements of paragraph 6.2.2.1. shall be considered to be satisfied in the case of monitors of a vehicle that fulfills the provisions of IS 15223: 2002. - 6.2.2.1.1. When the devices of the camera-monitor system are mounted in the position recommended by the manufacturer for normal driving, all parts, irrespective of the adjustment position of the device which are in potential, static contact with a sphere either 165 mm in diameter in the case of a CMS or parts of CMS installed inside the vehicle or 100 mm in diameter in the case of a CMS or parts of CMS installed outside the vehicle, shall have a radius of curvature \"c\" of not less than 2.5 mm. - 6.2.2.2.1. The camera shall function well in conditions in which low sunlight falls on the camera. The saturated area, defined as the area in which the luminance contrast ratio (C=Lw/Lb) of a high contrast pattern falls below 2.0, shall not cover more than 15 percent of the displayed image under the conditions of clauses 6.2.2.2.1.1. to 6.2.2.2.1.4. below. In the case the camera system shows dynamical changes in the blooming area during the test the maximum blooming area shall fulfill the requirements. The test pattern shall be evenly illuminated at an illumination of 3,000 ± 300 lx. The test pattern shall be medium gray on average and cover the complete area viewed by the camera; the camera shall view no other objects than the test pattern. The emission of the light source in infrared shall be negligible. 12345 - Black and white test pattern. - Lamps to make the test pattern evenly illuminated. - Mirror. - High intensity light. - 6: Monitor. - Camera. Figure A - Diagram of the blooming measurement set-up Unless otherwise specified in this standard, the definitions and symbols used in clause 6.2.2.3. are in accordance with ISO 16505:2015, Chapters 3 and 4. Unless otherwise specified in this standard, the requirements given in clause 6.2.2.3. shall be verified according to the test procedures given in ISO 16505:2015, Chapter 7, where available. It shall be possible to adjust the average luminance of the monitor either manually or automatically to the ambient conditions. If the system is not operational (e.g. CMS failure), it shall be indicated to the driver by i.e. warning indication, display information, absence of status indicator. The operator's manual shall explain the information indicated. The monitor shall conform to optical requirements over the range of viewing directions that is specified in the following clauses. When driven by an artificial 70 per cent grey-scale image, the deviation of the monitor luminance from the luminance white level with specific viewing direction ( ɵ , ɸ ) = ( ɵ monitor/D, ɸ monitor/D ) shall be such that the ratio relative to the luminance white level for the same specific viewing direction L( ɵ monitor/D, ɸ monitor/D) does not exceed 35 per cent of the luminance white level for the monitor standard isotropy range and shall not exceed 50 per cent of the luminance white level for the monitor extended isotropy range. For the standard isotropy range: for points i =1,2,3,4,5,6,7,8,9, as defined in Table 1 below. Table 1 Measurement directions for standard isotropy range , Horizontal/degree = -7. , Vertical/degree = +6. 2, Horizontal/degree = 0. 2, Vertical/degree = +6. 3, Horizontal/degree = +7. 3, Vertical/degree = +6. 4, Horizontal/degree = -7. 4, Vertical/degree = 0. 5, Horizontal/degree = N/A. 5, Vertical/degree = N/A. 6, Horizontal/degree = +7. 6, Vertical/degree = 0. 7, Horizontal/degree = -7. 7, Vertical/degree = -6. 8, Horizontal/degree = 0. 8, Vertical/degree = -6. 9, Horizontal/degree = +7. 9, Vertical/degree = -6 For the extended isotropy range: <!-- formula-not-decoded --> for points i'= 1,2,3,4,5,6,7,8,9 as defined in Table 2 below. Table 2 Measurement directions for extended isotropy range 1, Horizontal/degree = -12. 1, Vertical/degree = +11. 2, Horizontal/degree = 0. 2, Vertical/degree = +11. 3, Horizontal/degree = +12. 3, Vertical/degree = +11. 4, Horizontal/degree = -12. 4, Vertical/degree = 0. 5, Horizontal/degree = N/A. 5, Vertical/degree = N/A. 6, Horizontal/degree = +12. 6, Vertical/degree = 0. 7, Horizontal/degree = -12. 7, Vertical/degree = -11. 8, Horizontal/degree = 0. 8, Vertical/degree = -11. 9, Horizontal/degree = +12. 9, Vertical/degree = -11",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "If adjustment by the user is needed, the device for indirect vision shall be adjustable without the use of tools",
+    "rule": "6.2.1.1",
+    "description": "If adjustment by the user is needed, the device for indirect vision shall be adjustable without the use of tools.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "General requirements",
+    "rule": "6.2.1.2",
+    "description": "If a device for indirect vision can only render the total prescribed field of vision by scanning the field of vision, the total process of scanning, rendering and reset to its initial position together shall not take more than 200 milliseconds at room temperature of 22 °C ± 5 °C",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "General requirements",
+    "rule": "6.2.1.3",
+    "description": "The effectiveness of the CMS of Classes I to IV shall not be adversely affected by magnetic or electrical fields. This shall be demonstrated by compliance with the technical requirements and transitional provisions of AIS-004 (Part 3), as amended from time to time.",
+    "AIS": [
+      "AIS-004"
+    ]
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Camera-monitor systems",
+    "rule": "6.2.2",
+    "description": "Camera-monitor systems",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "General requirements",
+    "rule": "6.2.2.1",
+    "description": "General requirements",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "General requirements",
+    "rule": "6.2.2.1.2",
+    "description": "Edges of fixing holes or recesses of which the diameter or longest diagonal is less than 12 mm are exempt from the radius requirements of clause 6.2.2.1.1. above provided that they are blunted.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "General requirements",
+    "rule": "6.2.2.1.3",
+    "description": "For parts of the camera and the monitor which are made of a material with a Shore A hardness of less than 60 and which are mounted on a rigid support, the requirements of clause 6.2.2.1.1. above shall only apply to the support.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Functional requirements for camera-monitor devices of Classes V and VI",
+    "rule": "6.2.2.2",
+    "description": "Functional requirements for camera-monitor devices of Classes V and VI.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "A black and white test pattern, having a minimum contrast ratio of 20 shall be positioned in front of the camera",
+    "rule": "6.2.2.2.1.1",
+    "description": "A black and white test pattern, having a minimum contrast ratio of 20 shall be positioned in front of the camera.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Functional requirements for camera-monitor devices of Classes V and VI",
+    "rule": "6.2.2.2.1.2",
+    "description": "The camera shall be hit by a (simulated sun) light of 40 klx, spanning an angle between 0.6 and 0.9° with an elevation angle of 10°(directly or indirectly via a mirror) removed from the optical axis of the sensor. The light source shall: - (a) Have a spectrum D65 with a tolerance of ±1,500 K; - (b) Be homogeneous in space and time within a tolerance of 2 klx.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "There shall be no ambient illumination of the monitor during the test",
+    "rule": "6.2.2.2.1.3",
+    "description": "There shall be no ambient illumination of the monitor during the test.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "An example of the set-up is given in the Figure A below",
+    "rule": "6.2.2.2.1.4",
+    "description": "An example of the set-up is given in the Figure A below.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "The monitor shall render a minimum contrast under various light conditions as specified by ISO 15008:2003",
+    "rule": "6.2.2.2.2",
+    "description": "The monitor shall render a minimum contrast under various light conditions as specified by ISO 15008:2003.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "It shall be possible to adjust the average luminance of the monitor either manually or automatically to the ambient conditions",
+    "rule": "6.2.2.2.3",
+    "description": "It shall be possible to adjust the average luminance of the monitor either manually or automatically to the ambient conditions",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "The measurements for the luminance contrast of the monitor shall be carried out according to ISO 15008:2009",
+    "rule": "6.2.2.2.4",
+    "description": "The measurements for the luminance contrast of the monitor shall be carried out according to ISO 15008:2009.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Functional requirements for camera-monitor devices of Classes I to IV (see Annex M)",
+    "rule": "6.2.2.3",
+    "description": "Functional requirements for camera-monitor devices of Classes I to IV (see Annex M).",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Luminance adjustment",
+    "rule": "6.2.2.3.1",
+    "description": "Luminance adjustment",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Operating readiness (System availability)",
+    "rule": "6.2.2.3.2",
+    "description": "Operating readiness (System availability)",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Image quality",
+    "rule": "6.2.2.3.3",
+    "description": "Image quality",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Monitor isotropy",
+    "rule": "6.2.2.3.3.1",
+    "description": "Monitor isotropy",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Directional uniformity",
+    "rule": "6.2.2.3.3.1.1",
+    "description": "Directional uniformity",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Lateral uniformity",
+    "rule": "6.2.2.3.3.1.2",
+    "description": "The luminance white lateral dependency shall satisfy: for points j = 1, 2, 3, 4, 5, 6, 7, 8, 9 as defined in Table 3 below, where (q, f) = (0, 0). Table 3 Measurement points for the lateral uniformity 1, Percentage W monitor/horizontal from top left corner = 20. 1, Percentage of H monitor/horizontal from top left corner = 20. 2, Percentage W monitor/horizontal from top left corner = 50. 2, Percentage of H monitor/horizontal from top left corner = 20. 3, Percentage W monitor/horizontal from top left corner = 80. 3, Percentage of H monitor/horizontal from top left corner = 20. 4, Percentage W monitor/horizontal from top left corner = 20. 4, Percentage of H monitor/horizontal from top left corner = 50. 5, Percentage W monitor/horizontal from top left corner = 50. 5, Percentage of H monitor/horizontal from top left corner = 50. 6, Percentage W monitor/horizontal from top left corner = 80. 6, Percentage of H monitor/horizontal from top left corner = 50. 7, Percentage W monitor/horizontal from top left corner = 20. 7, Percentage of H monitor/horizontal from top left corner = 80. 8, Percentage W monitor/horizontal from top left corner = 50. 8, Percentage of H monitor/horizontal from top left corner = 80. 9, Percentage W monitor/horizontal from top left corner = 80. 9, Percentage of H monitor/horizontal from top left corner = 80",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Luminance and contrast rendering",
+    "rule": "6.2.2.3.3.2",
+    "description": "For luminance and contrast rendering the following requirements shall apply: - (a) The minimum luminance contrast at the monitor (including any screen protector) reproducing a high contrast pattern shall be: - (i) For direct sunlight condition: 2:1; - (ii) For day condition with diffuse ambient light: 3:1; - (iii) For sunset condition: 2:1; - (iv) For night condition: 10:1 except in the case of Mirror and CMS dual function system of class I: 5:1. - (b) The night condition for the camera's field of view is replicated in a dark environment such that the maximum illuminance on the objects to be measured shall not exceed 2.0 lx; - (c) The background luminance of the monitor shall be limited under the night condition. The maximum background luminance under the night condition shall be less than 2.0 cd/m2; - (d) The instructions for use shall contain a note that sunlight or light from other intense light source upon the monitor reduces the luminance contrast which may require the driver to be particularly alert and attentive.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Day condition with diffuse sky-light exposure test",
+    "rule": "6.2.2.3.3.2.1",
+    "description": "For the day condition with diffuse sky-light exposure, the test method given in ISO 16505:2015, subclause 7.8.2., Test 2 shall be applied, but a value of 4,000 to 4,200 cd/m2 for luminance diffuse illuminator shall be used. At the request of the manufacturer, the value for luminance diffuse illuminator may be determined by using the diagram of figure below. Ratio of projected area vs. luminance of the diffuse illuminator Procedure for determining the ration of the projected area leaving the vehicle: - (a) Determine the projected area in the vehicle that represents the mirror reflected direction from the monitor extended isotropy range. - (b) Evaluation shall be made in the centre of the monitor defined size, under consideration of the monitor design viewing direction (see figure below). This projected area represents the 100 per cent of the surface to be considered. Based on virtual testing, evaluate the ratio of the projected area that leaves the vehicle openings (e.g. through a side door window, rear window or sunroof; however, for example a sunroof having an opaque shutter shall not be considered an opening). Case when the orientation of the mirror and CMS dual function system of Class I is adjustable: Based on virtual testing, if the applicant demonstrates that the Mirror and CMS dual function system of Class I adjustment range permits a driver to avoid any incident specular light from the vehicle opening while a driver's eye is within any fixed position of the standard isotropy range, then the value for luminance diffuse illuminator shall be the one of ISO 16505:2015 subclause 7.8.2., Test 2: 1,300 to 1,500 cd/m2.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Grey scale rendering",
+    "rule": "6.2.2.3.3.3",
+    "description": "A CMS shall have a sufficient grey scale rendering. CMS shall display a tonal range of at least eight distinguishable different grey tonal stepson the monitor. For the grey scale rendering, the test method of clause 1.4. of Annex M shall be applied.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Colour rendering",
+    "rule": "6.2.2.3.3.4",
+    "description": "For colour rendering, the hue angle of reproduced colour of the chart patches on the monitor shall satisfy the following requirements. The colour coordinates are described based in the CIE 1976 uniform colour space: - (a) Red colour coordinates shall not exceed the range of (0°, 44.8°) or (332.2°, 360°); - (b) Green colour coordinates shall not exceed the range of (96.6°, 179.9°); - (c) Blue colour coordinates shall not exceed the range of (209.9°, 302.2°); - (d) Yellow colour coordinates shall not exceed the range of (44.8°, 96.6°); - (e) To distinguish from the white colour, define distance from white as Ri 3 0.02, where Ri is the chromatic distance of each colour patch (i= Red, Green, Blue, Yellow), relative to white (i = White). Figure B shows an illustrative tolerance range described on CIE 1976 uniform colour space Amber, blue and red light signals shall be distinguishable from each other.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Artefacts",
+    "rule": "6.2.2.3.3.5",
+    "description": "The operator's manual shall refer to possible artefacts and their impact on the partial occlusion of the field of view and of the objects which may require the driver to be particularly alert and attentive.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Smear",
+    "rule": "6.2.2.3.3.5.1",
+    "description": "Smear shall be transparent and not be more than 10 per cent of the maximum luminance value of the displayed glare source luminance level, which causes smear effect.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Blooming and lens flare",
+    "rule": "6.2.2.3.3.5.2",
+    "description": "The total area of disturbing blooming and lens flare areas shall not cover more than 25 per cent of the displayed camera image.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Point light sources",
+    "rule": "6.2.2.3.3.5.3",
+    "description": "The CMS shall have an operation mode in which the driver of the vehicle equipped with CMS can recognize two point light sources (e.g. passing beam headlights) rendered as two distinguishable separate point light sources. In this operation mode, a set of two point light sources corresponding to a vehicle passing beam headlamp each having a reference luminous intensity 1,750 cd and being separated each other laterally by 1.3 m and located at a distance of 250 m away from the CMS shall be distinguishable as two point light source. This requirement is applicable to Class I, Class II and Class III devices for indirect vision. The point light source detection factor (PLSDF) shall be at least 2.7 or the point light source contrast factor (PLSCF) shall be at least 0.12, whichever is satisfied by the CMS test under the conditions and the test procedure described in Annex M, clause 1.3. If the system is in a mode where point light sources are not rendered as described above, this shall be indicated to the driver. The information indicated shall be explained in the operator's manual.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Sharpness and depth of field",
+    "rule": "6.2.2.3.3.6",
+    "description": "Sharpness and depth of field",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Sharpness",
+    "rule": "6.2.2.3.3.6.1",
+    "description": "The sharpness is represented by the MTF50(1:1) and it shall satisfy: Horizontal and vertical MTF50(1:1) at center <!-- formula-not-decoded --> Horizontal and vertical MTF50(1:1) at corners (70 per cent of image height) <!-- formula-not-decoded -->",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Depth of field",
+    "rule": "6.2.2.3.3.6.2",
+    "description": "The CMS shall enable the driver to observe the occupied space by the object and perceive the content shown within the range of interest with detailed resolution. The MTF10(1:1), when measured at different distances to the object, shall satisfy at least the minimum resolution for the following points: - (a) Resolution at point 1 (10 m as representative point for infinity) and point 2 (middle distance at 6 m) <!-- formula-not-decoded --> - (b) Resolution at point 3 (Close distance at 4 meters) <!-- formula-not-decoded -->",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Geometric distortion",
+    "rule": "6.2.2.3.3.7",
+    "description": "For CMS of Classes I, II and III the maximum distortion within the minimum required field of view shall not exceed 20 per cent relative to recto-linear or pinhole projection. This performance shall be tested according to the method given in ISO 16505:2015, Annex G.3.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Flicker",
+    "rule": "6.2.2.3.3.8.1",
+    "description": "The entire image area of the monitor shall be free of flicker according to the test method of Annex M, clause 1.2. of AIS-002 (Part 1) (Rev. 2).",
+    "AIS": [
+      "AIS-002"
+    ]
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Frame rate",
+    "rule": "6.2.2.3.4.1",
+    "description": "Movements of objects in front of the camera shall be rendered smooth and fluid. The minimum frame rate of the system (update rate of the image information) shall be at least 30 Hz. At low light conditions or while maneuvering at low speed, the minimum frame rate of the system (i.e., update rate of the image information) shall be at least 15 Hz.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Image formation time",
+    "rule": "6.2.2.3.4.2",
+    "description": "The image formation time of the monitor shall be less than 55 ms at a temperature of 22 °C ±5 °C. This performance shall be tested according to the method given in ISO 9241-305:2008.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "System latency",
+    "rule": "6.2.2.3.4.3",
+    "description": "A CMS shall have a sufficient short latency to render the scenery nearly at the same time. The latency shall be lower than 200 ms at room temperature 22 °C ±5 °C.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Glare due to high luminance of the monitor",
+    "rule": "6.2.2.3.5.1",
+    "description": "- In order to avoid glare from a high luminance of the monitor, the luminance shall be dimmable in the night condition either manually or automatically. It has to be proved that the device meets the following requirements: - 6.2.3.2. The functionality shall be guaranteed under the circumstances of use in which the system shall be put into service. Depending on the technology used in obtaining images and presenting them clause 6.2.2.2. above shall be entirely or partly applicable. In other cases this can be achieved by establishing and demonstrating by means of system sensitivity analogous to clause 6.2.2.2. above that a function is ensured that is comparable to or better than what is required for and by demonstrating that a functionality is guaranteed that is equivalent or better than that required for mirror- or camera-monitor type devices for indirect vision.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Other devices for indirect vision",
+    "rule": "6.2.3",
+    "description": "Other devices for indirect vision",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "The device shall perceive the visual spectrum and shall always render this image without the need for interpretation into the visual spectrum",
+    "rule": "6.2.3.1",
+    "description": "The device shall perceive the visual spectrum and shall always render this image without the need for interpretation into the visual spectrum.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Test",
+    "rule": "6.3",
+    "description": "The requirements of clause 6.3. shall be considered to be satisfied in the case of monitors of a vehicle fulfilling the provisions of IS 15223: 2002.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Test",
+    "rule": "6.3.1",
+    "description": "Devices for indirect vision in Classes I to VI and Class VII mirror (having fitments identical to Class III) shall be subjected to the tests described in clause 6.3.2.1 and 6.3.2.2. below. Class VII mirrors with a stem, shall be subjected to the tests described in clause 6.3.2.3. below.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Test",
+    "rule": "6.3.1.1",
+    "description": "The test provided for in clause 6.3.2. shall not be required in the case of any Class II to IV exterior device for indirect vision of which no part is less than 2 m from the ground, regardless of the adjustment position, when the vehicle is under a load corresponding to its maximum technically permissible mass. This derogation also applies to the attachments of devices for indirect vision (attachment plates, arms, swivel joints, etc.) which are situated less than 2 m from the ground and which do not project beyond the overall width of the vehicle, measured in the transverse plane passing through the lowest mirror attachments or any other point forward of this plane if this configuration produces a greater overall width. In such cases, a description specifying that the device for indirect vision shall be mounted so as to conform to the above-mentioned conditions for the positioning of its attachments on the vehicle must be provided. Where advantage is taken of this derogation, the arm shall be indelibly marked with the symbol 2m and the type-approval report shall be endorsed to this effect.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Impact test",
+    "rule": "6.3.2",
+    "description": "The test according to this paragraph is not to be carried out for devices integrated in the bodywork of the vehicle and providing a frontal deflecting area of an angle not more than 45° measured in relation to the longitudinal median plane of the vehicle, or devices not protruding more than 100 mm measured beyond the circumscribing bodywork of the vehicle according to IS: 13942. Note: If this test is not carried out, it shall be mentioned in the test report. 3. 6.3.2.2.6. The test consists in allowing the hammer to fall from a height corresponding to a pendulum angle of 60° from the vertical so that the hammer strikes the device for indirect vision at the moment when the pendulum reaches the vertical position. 4. 6.3.2.2.7. The device for indirect vision are subjected to impact under the following different conditions 5. 6.3.2.2.7.1. Class I rear-view mirrors - a) Test 1: The points of impact shall be as defined in clause 6.3.2.2.3. above. The impact shall be such that the hammer strikes the mirror on the reflecting surface side. - b) Test 2: Point of impact on the edge of the protective housing, such that the impact produced makes an angle of 45° with the plane of the reflecting surface and is situated in the horizontal plane passing through the centre of that surface. The impact shall occur on the reflecting surface side. 8. 6.3.2.2.7.2. Classes II to VII mirrors - a) Test 1: The point of impact shall be as defined in clause 6.3.2.2.3. or 6.3.2.2.5. above. The impact shall be such that the hammer strikes the mirror on the reflecting surface side. - b) Test 2 : The point of impact shall be as defined in clause 6.3.2.2.3. or 6.3.2.2.5. above. The impact shall be such that the hammer strikes the mirror on the side opposite to the reflecting surface. Where Class II or III rear-view mirrors are fixed to the same mounting as Class IV rear-view mirrors, the above-mentioned tests shall be executed on the lower mirror. Nevertheless, the testing agency may repeat one or both of these tests on the upper mirror if this is less than 2 m from the ground.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Description of the test rig",
+    "rule": "6.3.2.1",
+    "description": "Description of the test rig",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Description of the test rig",
+    "rule": "6.3.2.1.1",
+    "description": "The test rig consists of a pendulum capable of swinging about two horizontal axes at right angles to each other, one of which is perpendicular to the plane containing the \"release\" trajectory of the pendulum. The end of the pendulum comprises a hammer formed by a rigid sphere with a diameter of 165 ± 1 mm having a 5 mm thick rubber covering of Shore A hardness 50. A device is provided which permits determination of the maximum angle assumed by the arm in the plane of release. A support firmly fixed to the structure of the pendulum serves to hold the specimens in compliance with the impact requirements specified in 6.1.3.2.2.6. Figure 1 below Figure 1 gives the dimensions (in mm) of the test rig and the special design specifications:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Description of the test rig",
+    "rule": "6.3.2.1.2",
+    "description": "The centre of percussion of the pendulum coincides with the centre of the sphere, which forms the hammer. It is at a distance l from the axis of oscillation in the release plane, which is equal to 1 m ± 5 mm. The reduced mass of the pendulum is mo = 6.8 ± 0.05 kilograms. The relationship of mo to the total mass m of the pendulum and to the distance d between the centre of gravity of the pendulum and its axis of rotation is expressed in the equation: <!-- formula-not-decoded -->",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Description of the test",
+    "rule": "6.3.2.2",
+    "description": "Description of the test",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Description of the test",
+    "rule": "6.3.2.2.1",
+    "description": "The procedure used to clamp the device for indirect vision to the support shall be that recommended by the manufacturer of the device or, where appropriate, by the vehicle manufacturer.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Positioning of the device for indirect vision for the test",
+    "rule": "6.3.2.2.2",
+    "description": "Positioning of the device for indirect vision for the test:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Positioning of the device for indirect vision for the test",
+    "rule": "6.3.2.2.2.1",
+    "description": "Device for indirect vision shall be positioned on the pendulum impact rig in such a way that the axes which are horizontal and vertical when the mirror is installed on a vehicle in accordance with the applicant's mounting instructions are in a similar position;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Positioning of the device for indirect vision for the test",
+    "rule": "6.3.2.2.2.2",
+    "description": "When a device for indirect vision is adjustable with respect to the base, the test position shall be that in which any pivoting device is least likely to operate, within the limits of adjustment provided by the applicant;",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Positioning of the device for indirect vision for the test",
+    "rule": "6.3.2.2.2.3",
+    "description": "When the device for indirect vision has a device for adjusting its distance from the base, the device shall be set in the position in which the distance between the housing and the base is shortest.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Positioning of the device for indirect vision for the test",
+    "rule": "6.3.2.2.2.4",
+    "description": "In the case of mirrors, when the reflecting surface is mobile in the housing, it shall be so adjusted that the upper corner, which is furthest from the vehicle, is in the position of greatest projection relative to the housing.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Description of the test",
+    "rule": "6.3.2.2.3",
+    "description": "In the case of mirrors, except in the case of test 2 for Class I mirrors (see clause 6.3.2.2.7.1. below), when the pendulum is in a vertical position the horizontal and longitudinal vertical planes passing through the centre of the hammer shall pass through the centre of the reflecting surface as defined in clause 2.1.1.10. The longitudinal direction of oscillation of the pendulum shall be parallel to the longitudinal median plane of the vehicle.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Description of the test",
+    "rule": "6.3.2.2.4",
+    "description": "In the case of camera-monitor systems, when the pendulum is in a vertical position the horizontal and longitudinal vertical planes passing through the centre of the hammer shall pass through the centre of the lens or of the transparent protection part protecting the lens. The longitudinal direction of oscillation of the pendulum shall be parallel to the longitudinal median plane of the vehicle. If the test is performed with a shutter camera system, the shutter has to be open during the pendulum impact.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Description of the test",
+    "rule": "6.3.2.2.5",
+    "description": "When, under the conditions governing adjustment laid down in clause 6.3.2.2.1. and 6.3.2.2.2. above parts of the device for indirect vision limit the return of the hammer, the point of impact shall be displaced in a direction perpendicular to the axis of rotation or pivoting in question. The displacement shall be no greater than is strictly necessary for the execution of the test; it shall be limited in such a way that: - a) either the sphere delimiting the hammer remains at least tangential to the cylinder as defined in 6.1.1.6; - b) or in the case of mirrors the point of contact with the hammer is located at least 10 mm from the periphery of the reflecting surface.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Description of the test",
+    "rule": "6.3.2.2.7.3",
+    "description": "Camera-Monitor Systems - a) Test 1: The point of impact shall be as defined in clause 6.3.2.2.4. or 6.3.2.2.5. The impact shall be such that the hammer strikes the camera on the lens side. - b) Test 2: The point of impact shall be as defined in clause 6.3.2.2.4. or 6.3.2.2.5. The impact shall be such that the hammer strikes the camera on the side opposite to the lens. Where more than one camera is fixed to the same mounting, the above-mentioned tests shall be executed on the lower camera. Nevertheless, the test agency responsible for testing may repeat one or both of these tests on the upper camera if this is less than 2 m from the ground.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Bending test on the protective housing attached to the stem (Class VII)",
+    "rule": "6.3.2.3",
+    "description": "Bending test on the protective housing attached to the stem (Class VII)",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Description of test",
+    "rule": "6.3.2.3.1",
+    "description": "The test shall be carried out as per claque 8.3 of Part 2 of this standard.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Results of the tests",
+    "rule": "6.3.3.1",
+    "description": "In the tests described in 6.3.2. above, the pendulum shall continue to swing after impact in such a way that the projection of the position assumed by the arm on the plane of release makes an angle of at least 20° with the vertical. The accuracy of measurement of the angle shall be within ± 1°.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Results of the tests",
+    "rule": "6.3.3.1.1",
+    "description": "In the case of mirrors this requirement is not applicable to mirrors stuck to the windscreen, in respect of which the requirement stipulated in clause 6.3.3.2. shall apply after the test.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Results of the tests",
+    "rule": "6.3.3.1.2",
+    "description": "The required angle to the vertical is reduced from 20° to 10° for all Class II and Class IV devices for indirect vision and for Class III devices for indirect vision which are attached to the same mounting as Class IV devices for indirect vision.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Results of the tests",
+    "rule": "6.3.3.2",
+    "description": "In the case of mirrors, should the mounting of the mirror break during the tests described in clause 6.3.2. above for mirrors stuck to the windscreen, the part remaining shall not project beyond the base by more than 10 mm and the configuration remaining after the test shall satisfy the conditions laid down in clause 6.1.1.3.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Results of the tests",
+    "rule": "6.3.3.3",
+    "description": "The reflecting surface shall not break during the tests described in 6.3.2. However, breakage of the reflecting surface will be allowed if one of the following conditions is fulfilled:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "REQUIREMENTS",
+    "heading_number": "6",
+    "subheading": "Results of the tests",
+    "rule": "6.3.3.3.1",
+    "description": "the fragments of glass still adhere to the back of the housing or to a surface firmly attached to the housing; partial separation of the glass from its backing is admissible provided that this does not exceed 2.5 mm on either side of the cracks. It is permissible for small splinters , 1 = to become detached from the surface of the glass at the point of impact.. 6.3.3.3.2, 1 = the reflecting surface is made of safety glass.. 6.3.3.4., 1 = In the case of camera-monitor systems, the lens shall not break during the tests described in clause 6.3.2. above.. 7., 1 = EXTENSION OF TYPE APPROVAL. 7.1, 1 = Every modification pertaining to the information, even if the changes are not technical in nature declared in accordance with 3.2 shall be intimated by the manufacturer to the testing agency.. , 1 = If the changes are in parameters not related to the provisions, no further action need be taken.. , 1 = If the changes are in parameters related to the provisions, the Testing Agency, which has issued the certificate of compliance, shall then consider, whether,. 7.1.1, 1 = the device with the changed specifications still complies with provisions, or. 7.1.2, 1 = any further verification is required to establish compliance.. 7.2, 1 = For considering whether testing is required or not, guidelines given in clause 7.5 (Criteria for Extension of Approval) shall be used.. 7.3, 1 = In case of clause 7.1.2, tests for only those parameters which are affected by the modifications need be carried out.. 7.4, 1 = In case of fulfilment of criterion of clause 7.1.1 or after results of further verification as per clause of 7.1.2 are satisfactory, the approval of compliance shall be extended for the changes carried out.. 7.5, 1 = Criteria for extension of approval. , 1 = The criteria for extension of approval shall be as given in Annex N.. 8., 1 = CONFORMITY OF PRODUCTION. 8.1, 1 = Every device for indirect vision approved pursuant to this standard shall be so manufactured as to conform to the type approved by meeting the requirements set out in Clause 6 of this standard.. 8.2, 1 = Verification of the Conformity of Production procedure by the testing agencies shall be as per AIS-037, as amended from time to time.. 8.3., 1 = The normal frequency of these verifications shall be once every two years.",
+    "AIS": [
+      "AIS-037"
+    ]
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "SECTION 8",
+    "heading_number": "8",
+    "subheading": "During the verification of Conformity of productions, the following tests may be conducted by the testing Agency",
+    "rule": "8.4",
+    "description": "During the verification of Conformity of productions, the following tests may be conducted by the testing Agency.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "SECTION 8",
+    "heading_number": "8",
+    "subheading": "General specifications as per 6.1.1 and 6.2.1",
+    "rule": "8.4.1",
+    "description": "General specifications as per 6.1.1 and 6.2.1.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "SECTION 8",
+    "heading_number": "8",
+    "subheading": "Dimensions as per 6.1.2.1",
+    "rule": "8.4.2",
+    "description": "Dimensions as per 6.1.2.1.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "SECTION 8",
+    "heading_number": "8",
+    "subheading": "Reflecting surface requirements as per 6.1.2.2",
+    "rule": "8.4.3",
+    "description": "Reflecting surface requirements as per 6.1.2.2.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "SECTION 8",
+    "heading_number": "8",
+    "subheading": "Impact test pursuant to the requirements of 6.3.2, where applicable",
+    "rule": "8.4.4",
+    "description": "Impact test pursuant to the requirements of 6.3.2, where applicable.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "SECTION 8",
+    "heading_number": "8",
+    "subheading": "Camera monitor devices as per 6.2.2",
+    "rule": "8.4.5",
+    "description": "Camera monitor devices as per 6.2.2.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "SECTION 8",
+    "heading_number": "8",
+    "subheading": "Other devices for indirect vision as per 6.2.3",
+    "rule": "8.4.6",
+    "description": "Other devices for indirect vision as per 6.2.3",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "PENALTIES FOR NON-CONFORMITY OF PRODUCTION",
+    "heading_number": "9",
+    "subheading": null,
+    "rule": "9",
+    "description": "The provisions shall be as prescribed in AIS-037, as amended from time to time.",
+    "AIS": [
+      "AIS-037"
+    ]
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "th December 2024",
+    "heading_number": "17",
+    "subheading": null,
+    "rule": "17",
+    "description": "th December 2024 PRINTED BY THE AUTOMOTIVE RESEARCH ASSOCIATION OF INDIA P.B. NO. 832, PUNE 411 004 ON BEHALF OF AUTOMOTIVE INDUSTRY STANDARDS COMMITTEE UNDER CENTRAL MOTOR VEHICLE RULES - TECHNICAL STANDING COMMITTEE SET-UP BY MINISTRY OF ROAD TRANSPORT & HIGHWAYS (DEPARTMENT OF ROAD TRANSPORT & HIGHWAYS) GOVERNMENT OF INDIA May 2023",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "TRANSITIONAL PROVISION",
+    "heading_number": "21",
+    "subheading": null,
+    "rule": "21.1",
+    "description": "At the request of the applicant, type approvals of Class I, II, III, IV, V and VI rear view mirrors and devices for indirect vision for compliance to AIS-001(Part 1) (Rev.2):2023 shall be granted by test agencies from 17 th May 2023 (date of adoption in CMVR-TSC). Such type approvals shall be deemed to be compliance to Class I, II, III, IV, V and VI respectively rear view mirrors and devices for indirect vision of AIS-001 (Part 1) (Rev.1):2011.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "TRANSITIONAL PROVISION",
+    "heading_number": "21",
+    "subheading": null,
+    "rule": "21.2",
+    "description": "At the request of applicant, type approval to the compliance to Class I, II, III, IV, V and VI rear view mirrors and devices for indirect vision of AIS-001 (Part 1) (Rev.1):2011 shall be granted up to the notified date of implementation of AIS-001 (Part 1) (Rev.2) :2023.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "TRANSITIONAL PROVISION",
+    "heading_number": "21",
+    "subheading": null,
+    "rule": "21.3",
+    "description": "Type approvals issued for Class I, II, III, IV, V and VI rear view mirrors and devices for indirect vision for compliance to AIS-001 (Part 1) (Rev.1):2011 shall be extended to approval of Class I, II, III, IV, V and VI respectively for rear view mirrors and devices for indirect of AIS-001 (Part 1) (Rev.2) :2023 subject to satisfactory compliance of the following:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "TRANSITIONAL PROVISION",
+    "heading_number": "21",
+    "subheading": "Marking as per clause 4.0",
+    "rule": "21.3.1",
+    "description": "Marking as per clause 4.0.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "TRANSITIONAL PROVISION",
+    "heading_number": "21",
+    "subheading": "In case of 'E/e' approved devices, requirements specified in clause 22",
+    "rule": "21.3.2",
+    "description": "In case of 'E/e' approved devices, requirements specified in clause 22. Note: Additional verification for the above need not be carried out, if compliance to the above requirements has already been established during the type approval as per AIS-001 (Part 1) (Rev.1):2011.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "TRANSITIONAL PROVISION",
+    "heading_number": "21",
+    "subheading": "Extension of Approvals for engineering and administrative changes",
+    "rule": "21.4",
+    "description": "Extension of Approvals for engineering and administrative changes:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "TRANSITIONAL PROVISION",
+    "heading_number": "21",
+    "subheading": "Extension of Approvals for engineering and administrative changes",
+    "rule": "21.4.1",
+    "description": "In the case of clause 21.1, extensions shall be granted subject to the conditions of AIS-001 (Part 1) (Rev.2) :2023. Such extensions shall be deemed to be compliance to AIS-001 (Part 1) (Rev.1):2011.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "TRANSITIONAL PROVISION",
+    "heading_number": "21",
+    "subheading": "Extension of Approvals for engineering and administrative changes",
+    "rule": "21.4.2",
+    "description": "In the case of 21.2, extensions shall be granted subject to conditions of AIS-001 (Part 1) (Rev.1):2011 till the notified date of implementation AIS-001 (Part 1) (Rev.2) :2023.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "TRANSITIONAL PROVISION",
+    "heading_number": "21",
+    "subheading": "Type approvals for compliance to AIS-037 , already been granted, shall continue to be valid for AIS-001 (Part 1) (Rev.2) :2023",
+    "rule": "21.5",
+    "description": "Type approvals for compliance to AIS-037 , already been granted, shall continue to be valid for AIS-001 (Part 1) (Rev.2) :2023. Note: Necessary corrections to the reference of verification reports as per this standard shall be incorporated while issuing the next COP certificate. In the meantime for issuing of vehicle certificate, test/verification report as per this standard shall deemed to be the proof of compliance of AIS-037.",
+    "AIS": [
+      "AIS-037"
+    ]
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "ESTABLISHING COMPLIANCE OF 'E'/'e' APPROVED DEVICES TO THIS STANDARDS",
+    "heading_number": "22",
+    "subheading": null,
+    "rule": "22.1",
+    "description": "As an exception to clause 7.4 of AIS-037, (or related administrative decisions) for certifying compliance of 'E'/'e' approved rear-view mirrors devices to this standard, the test for the following shall be carried out by testing agency.",
+    "AIS": [
+      "AIS-037"
+    ]
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "ESTABLISHING COMPLIANCE OF 'E'/'e' APPROVED DEVICES TO THIS STANDARDS",
+    "heading_number": "22",
+    "subheading": "Requirements of dimension as per clause 6.1.2.1",
+    "rule": "22.1.1",
+    "description": "Requirements of dimension as per clause 6.1.2.1",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "ESTABLISHING COMPLIANCE OF 'E'/'e' APPROVED DEVICES TO THIS STANDARDS",
+    "heading_number": "22",
+    "subheading": "Requirements of reflecting surfaces as per clause 6.1.2.2",
+    "rule": "22.1.2",
+    "description": "Requirements of reflecting surfaces as per clause 6.1.2.2",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "AMENDMENTS TO UN REGULATIONS AFTER THE LEVEL DESCRIBED IN 0.3 OF INTRODUCTION",
+    "heading_number": "23",
+    "subheading": "Supplements",
+    "rule": "23.1",
+    "description": "In case of changes in UN regulation , which are issued as supplements (Supplements do not affect the earlier type approvals) at the request of applicant, approval of compliance to this standard shall be issued taking into account the changes arising out of such supplement(s) to UN regulation with approval from Chairman AISC. This shall be incorporated in the test report. Note : Such changes will be considered for inclusion in this standard at the time of its next amendment /revision.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-001",
+    "source_file": "7_AIS 001_Part_1_Rev_2_&_Corri_1F_3eeec486-eb12-4468-ba72-e42ef749a1c0.pdf",
+    "heading": "AMENDMENTS TO UN REGULATIONS AFTER THE LEVEL DESCRIBED IN 0.3 OF INTRODUCTION",
+    "heading_number": "23",
+    "subheading": "Series of amendments",
+    "rule": "23.2",
+    "description": "Changes in UN regulation, which are issued as series of amendments (series of amendments may affect the earlier type approvals) will not be considered for issuing approval to this standard. However, Chairman, AISC may, on a case to case basis, permit to accept latest series of amendments. This shall be incorporated in the test report. Note : Such changes will be considered for inclusion in this standard at the time of its next revision.",
+    "AIS": null
+  }
+]

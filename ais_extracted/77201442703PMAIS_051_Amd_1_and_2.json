@@ -1,0 +1,464 @@
+[
+  {
+    "AIS_id": "AIS-051",
+    "source_file": "77201442703PMAIS_051_Amd_1_and_2.pdf",
+    "heading": "SECTION 1",
+    "heading_number": "1",
+    "subheading": "Page No. 1, Clause No. 2.1 (a)",
+    "rule": "1.0",
+    "description": "Substitute following text for existing text at (a) - a) i) IS 15636:2005 Automotive Vehicles -Pneumatic Tyres for Commercial Vehicles - Diagonal and Radial Ply - Specification Add following new clause 9.0 after clause 8: '9.0 Requirements specified under paragraphs 4.0, 5.0 and 6.0 shall not be applicable to temporary use spare wheels / tyre and run flat tyres fitted on M1/N1 category of vehicles. However they shall comply with the requirements of clause numbers 5.1.2, 5.1.5 and 5.1.6 of AIS-110.' PRINTED BY THE AUTOMOTIVE RESEARCH ASSOCIATION OF INDIA P.B. NO. 832, PUNE 411 004 ON BEHALF OF AUTOMOTIVE INDUSTRY STANDARDS COMMITTEE UNDER CENTRAL MOTOR VEHICLE RULES - TECHNICAL STANDING COMMITTEE SET-UP BY MINISTRY OF SHIPPING, ROAD TRANSPORT & HIGHWAYS (DEPARTMENT OF ROAD TRANSPORT & HIGHWAYS) GOVERNMENT OF INDIA May 2009 PRINTED BY: THE AUTOMOTIVE RESEARCH ASSOCIATION OF INDIA P.B.NO.832, PUNE 411 004 ON BEHALF OF: AUTOMOTIVE INDUSTRY STANDARDS COMMITTEE UNDER CENTRAL MOTOR VEHICLES RULES - TECHNICAL STANDING COMMITTEE SET-UP BY MINISTRY OF ROAD TRANSPORT & HIGHWAYS GOVERNMENT OF INDIA June 2004 Sr. No.. Corr- igenda.. Amend- ment. Revision. Date. Remark. Misc. General Remarks: The Government of India felt the need for a permanent agency to expedite the publication of standards and development of test facilities in parallel when the work on the preparation of the standards is going on, as the development of improved safety critical parts can be undertaken only after the publication of the standard and commissioning of test facilities. To this end, the Ministry of Surface Transport (MOST) has constituted a permanent Automotive Industry Standards Committee (AISC) vide order No. RT-11028/11/97-MVL dated September 15, 1997. The standards prepared by AISC will be approved by the permanent CMVR Technical Standing Committee (CTSC). After approval, the Automotive Research Association of India, (ARAI),Pune, being the Secretariat of the AIS Committee, has published this standard. For better dissemination of this information ARAI may publish this document on their Web site. The selection and fitment of pneumatic tyre is important for the safe operation of vehicles. With the new generation vehicles and development in road infrastructure facilities the vehicle speeds are increasing day by day. To ensure, safety of operation of tyres and vehicles by proper selection of tyres, there was a need for a standard specifying the selection and fitment requirements of the pneumatic tyres to vehicles, based on their speed and load carrying capabilities. Considerable assistance has been taken from (EEC Directive 92/23/EEC (31 st March 1992) relating to tyres for motor vehicles and their trailers and to their fittings and other national standards. The Automotive Industry Standards Committee responsible for preparation of this standard is given in Annexure - A This standard specifies the guidelines for selection and approval for use of tyres for vehicles other than two wheelers, three wheelers.",
+    "AIS": [
+      "AIS-110"
+    ]
+  },
+  {
+    "AIS_id": "AIS-051",
+    "source_file": "77201442703PMAIS_051_Amd_1_and_2.pdf",
+    "heading": "ii) IS 15633: 2005 Automotive Vehicles - Pneumatic Tyres for Passenger Car Vehicles - Diagonal and Radial Ply - Specification",
+    "heading_number": "2",
+    "subheading": null,
+    "rule": "2",
+    "description": "ii) IS 15633: 2005 Automotive Vehicles - Pneumatic Tyres for Passenger Car Vehicles - Diagonal and Radial Ply - Specification.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-051",
+    "source_file": "77201442703PMAIS_051_Amd_1_and_2.pdf",
+    "heading": "ii) IS 15633: 2005 Automotive Vehicles - Pneumatic Tyres for Passenger Car Vehicles - Diagonal and Radial Ply - Specification",
+    "heading_number": "2",
+    "subheading": "Page No. 1, Clause No. 2.2.3",
+    "rule": "2.0",
+    "description": "Substitute the words and figures 'IS: 15636:2005 or 1S:15633:2005' for the words and figures 'AIS-044 (Part 1 or 2)'.",
+    "AIS": [
+      "AIS-044"
+    ]
+  },
+  {
+    "AIS_id": "AIS-051",
+    "source_file": "77201442703PMAIS_051_Amd_1_and_2.pdf",
+    "heading": "ii) IS 15633: 2005 Automotive Vehicles - Pneumatic Tyres for Passenger Car Vehicles - Diagonal and Radial Ply - Specification",
+    "heading_number": "2",
+    "subheading": "References",
+    "rule": "2.1",
+    "description": "Following standards are necessary adjuncts to this standard: - a) AIS-044 (Part 1 to 3) Automotive Industry Standard: Tyres for motor vehicles. - b) AIS-007 (Revision 1) Information on Technical Specifications to be submitted by the Manufacturer - c) IS 9211 - 2003 Terms and definitions of weights of road vehicles other than 2 and 3 wheelers.. - d) ETRTO Standards manual",
+    "AIS": [
+      "AIS-007",
+      "AIS-044"
+    ]
+  },
+  {
+    "AIS_id": "AIS-051",
+    "source_file": "77201442703PMAIS_051_Amd_1_and_2.pdf",
+    "heading": "ii) IS 15633: 2005 Automotive Vehicles - Pneumatic Tyres for Passenger Car Vehicles - Diagonal and Radial Ply - Specification",
+    "heading_number": "2",
+    "subheading": "Definitions",
+    "rule": "2.2",
+    "description": "For the purpose of this standard the following definitions shall apply:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-051",
+    "source_file": "77201442703PMAIS_051_Amd_1_and_2.pdf",
+    "heading": "ii) IS 15633: 2005 Automotive Vehicles - Pneumatic Tyres for Passenger Car Vehicles - Diagonal and Radial Ply - Specification",
+    "heading_number": "2",
+    "subheading": "Definitions",
+    "rule": "2.2.1",
+    "description": "'Maximum axle weight' means the 'authorized axle weight' as defined in IS 9211 - 2003 and declared by the manufacturer in the formats prescribed in AIS-007 (Revision 1).",
+    "AIS": [
+      "AIS-007"
+    ]
+  },
+  {
+    "AIS_id": "AIS-051",
+    "source_file": "77201442703PMAIS_051_Amd_1_and_2.pdf",
+    "heading": "ii) IS 15633: 2005 Automotive Vehicles - Pneumatic Tyres for Passenger Car Vehicles - Diagonal and Radial Ply - Specification",
+    "heading_number": "2",
+    "subheading": "Definitions",
+    "rule": "2.2.2",
+    "description": "'Maximum design speed of the vehicle' means the 'maximum speed of the vehicle' as declared by the vehicle manufacturer in the technical specification submitted as per AIS-007 (Revision 1). #### 2.2.3 Definitions given in AIS-044 (part 1 or 2 ) are also applicable.",
+    "AIS": [
+      "AIS-007",
+      "AIS-044"
+    ]
+  },
+  {
+    "AIS_id": "AIS-051",
+    "source_file": "77201442703PMAIS_051_Amd_1_and_2.pdf",
+    "heading": "iii) IS 15627:2005 Automotive Vehicles - Pneumatic Tyres for Two and Three wheeled vehicles - Specification",
+    "heading_number": "3",
+    "subheading": null,
+    "rule": "3",
+    "description": "iii) IS 15627:2005 Automotive Vehicles - Pneumatic Tyres for Two and Three wheeled vehicles - Specification",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-051",
+    "source_file": "77201442703PMAIS_051_Amd_1_and_2.pdf",
+    "heading": "iii) IS 15627:2005 Automotive Vehicles - Pneumatic Tyres for Two and Three wheeled vehicles - Specification",
+    "heading_number": "3",
+    "subheading": "Page No. 2, Clause No. 4.1",
+    "rule": "3.0",
+    "description": "Substitute the words and figures 'IS: 15636:2005 or 1S:15633:2005' for the words and figures 'AIS-044 (Part 1 or 2)'. A1, A 1.1, A 1.2, A1.3, A1.4, A1.5, A1.6 and A1.7. A3, A3.1, A3.2, A3.2.1, A3.2.2 and A5.2. A6, A6.1, A6.1.1, A6.1.2, A6.1.3, A6.2, A6.2.1, A6.2.2 and A6.2.3, A7, A7.1, A7.1.1, A7.1.2, A7.1.3, A7.2.1, A7.2.2, A7.2.3, A7.2.4, A7.3, A7.3.1, A7.3.2, A7.4, A7.4.1, A7.4.2, A7.4.3, A7.5, A7.5.1, A7.5.2 and A7.5.3. B12, B12.1, B12.1.1, B12.1.2 and B12.1.3.",
+    "AIS": [
+      "AIS-044"
+    ]
+  },
+  {
+    "AIS_id": "AIS-051",
+    "source_file": "77201442703PMAIS_051_Amd_1_and_2.pdf",
+    "heading": "iii) IS 15627:2005 Automotive Vehicles - Pneumatic Tyres for Two and Three wheeled vehicles - Specification",
+    "heading_number": "3",
+    "subheading": "Application for type approval",
+    "rule": "3.1",
+    "description": "Application for type approval",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-051",
+    "source_file": "77201442703PMAIS_051_Amd_1_and_2.pdf",
+    "heading": "iii) IS 15627:2005 Automotive Vehicles - Pneumatic Tyres for Two and Three wheeled vehicles - Specification",
+    "heading_number": "3",
+    "subheading": "Application for type approval",
+    "rule": "3.1.1",
+    "description": "The specification submitted by the manufacturer at the time of Type Approval of the vehicle to this standard shall contain at least the information listed in following paragraphs of AIS007, Rev.1.",
+    "AIS": [
+      "AIS-007"
+    ]
+  },
+  {
+    "AIS_id": "AIS-051",
+    "source_file": "77201442703PMAIS_051_Amd_1_and_2.pdf",
+    "heading": "iii) IS 15627:2005 Automotive Vehicles - Pneumatic Tyres for Two and Three wheeled vehicles - Specification",
+    "heading_number": "3",
+    "subheading": "If the above information is submitted in a consolidated form, for the type approval of the whole vehicle, it is not necessary to submit this information again",
+    "rule": "3.1.2",
+    "description": "If the above information is submitted in a consolidated form, for the type approval of the whole vehicle, it is not necessary to submit this information again.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-051",
+    "source_file": "77201442703PMAIS_051_Amd_1_and_2.pdf",
+    "heading": "iii) IS 15627:2005 Automotive Vehicles - Pneumatic Tyres for Two and Three wheeled vehicles - Specification",
+    "heading_number": "3",
+    "subheading": "Modifications/changes in Technical Specification",
+    "rule": "3.2.1",
+    "description": "Every functional modification in technical specifications pertaining to fitment of tyres, declared in accordance with para 3.1, shall be intimated to the testing agency. Testing agency may then consider, whether,",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-051",
+    "source_file": "77201442703PMAIS_051_Amd_1_and_2.pdf",
+    "heading": "iii) IS 15627:2005 Automotive Vehicles - Pneumatic Tyres for Two and Three wheeled vehicles - Specification",
+    "heading_number": "3",
+    "subheading": "Vehicle with modifications complies with specified requirements, or,",
+    "rule": "3.2.1.1",
+    "description": "Vehicle with modifications complies with specified requirements, or,",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-051",
+    "source_file": "77201442703PMAIS_051_Amd_1_and_2.pdf",
+    "heading": "iii) IS 15627:2005 Automotive Vehicles - Pneumatic Tyres for Two and Three wheeled vehicles - Specification",
+    "heading_number": "3",
+    "subheading": "any further verification is required",
+    "rule": "3.2.1.2",
+    "description": "any further verification is required.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-051",
+    "source_file": "77201442703PMAIS_051_Amd_1_and_2.pdf",
+    "heading": "iii) IS 15627:2005 Automotive Vehicles - Pneumatic Tyres for Two and Three wheeled vehicles - Specification",
+    "heading_number": "3",
+    "subheading": "For considering whether testing/verification is required or not, guidelines given in para 7.0 shall be followed",
+    "rule": "3.2.2",
+    "description": "For considering whether testing/verification is required or not, guidelines given in para 7.0 shall be followed.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-051",
+    "source_file": "77201442703PMAIS_051_Amd_1_and_2.pdf",
+    "heading": "iii) IS 15627:2005 Automotive Vehicles - Pneumatic Tyres for Two and Three wheeled vehicles - Specification",
+    "heading_number": "3",
+    "subheading": "In case of 3.2.1.2, checks for those parameters, which are affected by the modifications, only need to be carried out",
+    "rule": "3.2.3",
+    "description": "In case of 3.2.1.2, checks for those parameters, which are affected by the modifications, only need to be carried out.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-051",
+    "source_file": "77201442703PMAIS_051_Amd_1_and_2.pdf",
+    "heading": "iii) IS 15627:2005 Automotive Vehicles - Pneumatic Tyres for Two and Three wheeled vehicles - Specification",
+    "heading_number": "3",
+    "subheading": "In the event of 3.2.1.1. or in the case of 3.2.1.2 after successful compliance to requirements, the certificate of compliance shall be validated for the modified version",
+    "rule": "3.2.4",
+    "description": "In the event of 3.2.1.1. or in the case of 3.2.1.2 after successful compliance to requirements, the certificate of compliance shall be validated for the modified version.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-051",
+    "source_file": "77201442703PMAIS_051_Amd_1_and_2.pdf",
+    "heading": "iii) IS 15627:2005 Automotive Vehicles - Pneumatic Tyres for Two and Three wheeled vehicles - Specification",
+    "heading_number": "3",
+    "subheading": "These conditions are applicable irrespective of any change in commercial name of the model",
+    "rule": "3.2.5",
+    "description": "These conditions are applicable irrespective of any change in commercial name of the model.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-051",
+    "source_file": "77201442703PMAIS_051_Amd_1_and_2.pdf",
+    "heading": "iii) IS 15627:2005 Automotive Vehicles - Pneumatic Tyres for Two and Three wheeled vehicles - Specification",
+    "heading_number": "3",
+    "subheading": "for commercial vehicle tyre sizes on 5 O drop centre rim",
+    "rule": "3.03",
+    "description": "for commercial vehicle tyre sizes on 5 O drop centre rim. 3.03 for commercial vehicle tyre sizes with nominal aspect ratio 65 on 15 O drop centre rim.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-051",
+    "source_file": "77201442703PMAIS_051_Amd_1_and_2.pdf",
+    "heading": "iii) IS 15627:2005 Automotive Vehicles - Pneumatic Tyres for Two and Three wheeled vehicles - Specification",
+    "heading_number": "3",
+    "subheading": "for other tyre sizes for commercial vehicle",
+    "rule": "3.05",
+    "description": "for other tyre sizes for commercial vehicle.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-051",
+    "source_file": "77201442703PMAIS_051_Amd_1_and_2.pdf",
+    "heading": "SECTION 4",
+    "heading_number": "4",
+    "subheading": "Page No. 2, Clause No. 4.2",
+    "rule": "4.0",
+    "description": "Substitute the words and figures 'IS: 15636:2005 or 1S:15633:2005' for the words and figures 'AIS-044 (Part 1 or 2)'.",
+    "AIS": [
+      "AIS-044"
+    ]
+  },
+  {
+    "AIS_id": "AIS-051",
+    "source_file": "77201442703PMAIS_051_Amd_1_and_2.pdf",
+    "heading": "SECTION 4",
+    "heading_number": "4",
+    "subheading": null,
+    "rule": "4.1",
+    "description": "All the tyres fitted on the vehicle shall comply with the requirements of AIS-044 ( part 1 or 2) as applicable and shall have speed capability and load carrying capacity as given in para 5.0 and 6.0.",
+    "AIS": [
+      "AIS-044"
+    ]
+  },
+  {
+    "AIS_id": "AIS-051",
+    "source_file": "77201442703PMAIS_051_Amd_1_and_2.pdf",
+    "heading": "SECTION 4",
+    "heading_number": "4",
+    "subheading": "The size designation of the tyre used on the vehicle shall be one covered by AIS-044 (Part 1 or 2) as applicable",
+    "rule": "4.2",
+    "description": "The size designation of the tyre used on the vehicle shall be one covered by AIS-044 (Part 1 or 2) as applicable.",
+    "AIS": [
+      "AIS-044"
+    ]
+  },
+  {
+    "AIS_id": "AIS-051",
+    "source_file": "77201442703PMAIS_051_Amd_1_and_2.pdf",
+    "heading": "SECTION 4",
+    "heading_number": "4",
+    "subheading": null,
+    "rule": "4.3",
+    "description": "All tyres fitted on the same axle shall be identical in following respects: - a) Tyre size designation, - b) Structure (diagonal or bias ply (cross-ply), bias-belted, radial), - c) Speed category ### Load-capacity index/ply rating and maximum load rating",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-051",
+    "source_file": "77201442703PMAIS_051_Amd_1_and_2.pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "Page No. 3, Clause No. 6.2",
+    "rule": "5.0",
+    "description": "Substitute the words and figures 'IS: 15636:2005 or 1S:15633:2005' for the words and figures 'AIS-044 (Part 1 or 2)'.",
+    "AIS": [
+      "AIS-044"
+    ]
+  },
+  {
+    "AIS_id": "AIS-051",
+    "source_file": "77201442703PMAIS_051_Amd_1_and_2.pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": null,
+    "rule": "5.1",
+    "description": "Every tyre which is fitted on the vehicle shall have a speed category symbol compatible with the maximum design speed of the vehicle as declared by the vehicle manufacturer or the applicable load/speed combination, as detailed in para 6.0.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-051",
+    "source_file": "77201442703PMAIS_051_Amd_1_and_2.pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "The speed corresponding to the speed category of the tyre may be equal to or more than the maximum design speed of the vehicle",
+    "rule": "5.2",
+    "description": "The speed corresponding to the speed category of the tyre may be equal to or more than the maximum design speed of the vehicle.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-051",
+    "source_file": "77201442703PMAIS_051_Amd_1_and_2.pdf",
+    "heading": "SECTION 5",
+    "heading_number": "5",
+    "subheading": "The load carrying capacity of the tyre shall be corrected as a relation to its speed category and the maximum design speed of the vehicle as detailed in para 6.2",
+    "rule": "5.3",
+    "description": "The load carrying capacity of the tyre shall be corrected as a relation to its speed category and the maximum design speed of the vehicle as detailed in para 6.2.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-051",
+    "source_file": "77201442703PMAIS_051_Amd_1_and_2.pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Page No. 4, Clause No. 7.4",
+    "rule": "6.0",
+    "description": "Substitute the words and figures 'IS: 15636:2005 or 1S:15633:2005' for the words and figures 'AIS-044 (Part 1 or 2)'. at least equal to half of the maximum axle weight as declared by the manufacturer of the vehicle in respect of the relevant axle. at least equal to 0.27 times the maximum axle weight as declared by the manufacturer of the vehicle in respect of the relevant axle. at least equal to 0.25 times, with reference to the load capacity for dual application, the maximum axle weight as declared by the manufacturer of the vehicle in respect of the relevant axle. For the purpose of verification of compliance to para 6.1 above, the load carrying capacity of the tyre shall be the maximum permitted load corresponding to the load capacity index/ply rating of the tyre with the permitted variation added or subtracted as applicable as per AIS-044 (part 1 or 2) corresponding to the maximum design speed of the vehicle.",
+    "AIS": [
+      "AIS-044"
+    ]
+  },
+  {
+    "AIS_id": "AIS-051",
+    "source_file": "77201442703PMAIS_051_Amd_1_and_2.pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Subject to the provision of para 6.2, the maximum load carrying capacity of every tyre with which the vehicle is fitted is",
+    "rule": "6.1",
+    "description": "Subject to the provision of para 6.2, the maximum load carrying capacity of every tyre with which the vehicle is fitted is:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-051",
+    "source_file": "77201442703PMAIS_051_Amd_1_and_2.pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Subject to the provision of para 6.2, the maximum load carrying capacity of every tyre with which the vehicle is fitted is",
+    "rule": "6.1.1",
+    "description": "In case of a vehicle fitted with tyres of the same type in single formation, a t least equal to half of the maximum axle weight for most heavily loaded axle, as declared by the manufacturer of the vehicle.",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-051",
+    "source_file": "77201442703PMAIS_051_Amd_1_and_2.pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "In the case of vehicle fitted with tyres of more than one type, in single formation,",
+    "rule": "6.1.2",
+    "description": "In the case of vehicle fitted with tyres of more than one type, in single formation,",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-051",
+    "source_file": "77201442703PMAIS_051_Amd_1_and_2.pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "In the case of vehicles fitted with passenger car tyres, in dual (twin) formation,",
+    "rule": "6.1.3",
+    "description": "In the case of vehicles fitted with passenger car tyres, in dual (twin) formation,",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-051",
+    "source_file": "77201442703PMAIS_051_Amd_1_and_2.pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "In case of axles fitted with commercial vehicle tyres in dual (twin) formation,",
+    "rule": "6.1.4",
+    "description": "In case of axles fitted with commercial vehicle tyres in dual (twin) formation,",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-051",
+    "source_file": "77201442703PMAIS_051_Amd_1_and_2.pdf",
+    "heading": "SECTION 6",
+    "heading_number": "6",
+    "subheading": "Correction to load carrying capacity based on the maximum design speed",
+    "rule": "6.2",
+    "description": "Correction to load carrying capacity based on the maximum design speed:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-051",
+    "source_file": "77201442703PMAIS_051_Amd_1_and_2.pdf",
+    "heading": "SECTION 7",
+    "heading_number": "7",
+    "subheading": "CRITERIA FOR EXTENSION OF APPROVAL",
+    "rule": "7.0",
+    "description": "- a) Use of tyre having speed category symbol of a lower maximum designated speed. - b) Use of a tyre with a decrease in the load capacity index/ply rating. ### Increase in the maximum axle weight of the vehicle. ### Increase in the maximum design speed of the vehicle. 5. 7.2.2 For use of tyre having speed category symbol of a higher maximum designated speed or increased load capacity index/ply rating or a decrease in the maximum design speed or maximum axle weights of the vehicle, no verification is required. 6. 7.3 In case of a change of the tyre size designation, for the purpose of this standard, requirements of verification shall be as per para 7.2. 7. 7.4 All tyres fitted on vehicles shall have approval to AIS-044 (part 1 or 2) In addition, if there are changes in the speed category or load capacity index/ply rating or tyre size designation, the requirements of para 7.2 and 7.3 shall apply. 8. 7.5 Changes other than the above are not considered to affect compliance to this standard adversely. ### 8.0 For the purpose of type approval of the vehicle, the dynamic rolling radius shall be calculated as:",
+    "AIS": [
+      "AIS-044"
+    ]
+  },
+  {
+    "AIS_id": "AIS-051",
+    "source_file": "77201442703PMAIS_051_Amd_1_and_2.pdf",
+    "heading": "SECTION 7",
+    "heading_number": "7",
+    "subheading": "In case of following changes, the verification shall be carried out for establishing compliance of the changed parameters to the requirements specified in this standard",
+    "rule": "7.1",
+    "description": "In case of following changes, the verification shall be carried out for establishing compliance of the changed parameters to the requirements specified in this standard:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-051",
+    "source_file": "77201442703PMAIS_051_Amd_1_and_2.pdf",
+    "heading": "SECTION 7",
+    "heading_number": "7",
+    "subheading": "Requirements of speed and load capacity",
+    "rule": "7.2",
+    "description": "Requirements of speed and load capacity:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-051",
+    "source_file": "77201442703PMAIS_051_Amd_1_and_2.pdf",
+    "heading": "SECTION 7",
+    "heading_number": "7",
+    "subheading": "In the case of following changes, the requirements of para 5.0 and 6.0 shall be verified",
+    "rule": "7.2.1",
+    "description": "In the case of following changes, the requirements of para 5.0 and 6.0 shall be verified:",
+    "AIS": null
+  },
+  {
+    "AIS_id": "AIS-051",
+    "source_file": "77201442703PMAIS_051_Amd_1_and_2.pdf",
+    "heading": "SECTION 8",
+    "heading_number": "8",
+    "subheading": "Page No. 4, Clause No. 8.0, 9 th Line",
+    "rule": "8.0",
+    "description": "Substitute the words and figures 'IS: 15636:2005, IS: 15633:2005 and IS: 15627:2005' for the words and figures 'AIS-044'. Dynamic rolling radius = 2 π Rolling circumference (Cr) Where \"Rolling circumference (Cr)\" means the theoretical distance covered by the center (axis) of the wheel of a vehicle in motion during one complete revolution of the tyre and obtained from the following formula: Cr = f × D, where: - D = Design overall outer diameter of the tyre in accordance with the tyre size designation as defined in AIS-044. - f = 3.05 for tyres for passenger cars vehicles. - Note: This formula is applicable in the cases where the dynamic rolling radius is a parameter affecting the vehicle test results. This is based on the details given in ETRTO Standards manual. In case the information is available in the documents referred to in AIS-044 (part 1 and 2) the same may be used instead of using the above formula.",
+    "AIS": [
+      "AIS-044"
+    ]
+  },
+  {
+    "AIS_id": "AIS-051",
+    "source_file": "77201442703PMAIS_051_Amd_1_and_2.pdf",
+    "heading": "SECTION 9",
+    "heading_number": "9",
+    "subheading": "Page No. 4, Clause No. 8.0, Note",
+    "rule": "9.0",
+    "description": "Substitute the words and figures 'IS: 15636:2005 and IS: 15633:2005' for the words and figures 'AIS-044 (Part 1 and 2)'. PRINTED BY THE AUTOMOTIVE RESEARCH ASSOCIATION OF INDIA P. B. NO. 832, PUNE 411 004 ON BEHALF OF AUTOMOTIVE INDUSTRY STANDARDS COMMITTEE UNDER CENTRAL MOTOR VEHICLE RULES - TECHNICAL STANDING COMMITTEE SET-UP BY MINISTRY OF ROAD TRANSPORT & HIGHWAYS (DEPARTMENT OF ROAD TRANSPORT & HIGHWAYS) GOVERNMENT OF INDIA",
+    "AIS": [
+      "AIS-044"
+    ]
+  },
+  {
+    "AIS_id": "AIS-051",
+    "source_file": "77201442703PMAIS_051_Amd_1_and_2.pdf",
+    "heading": "September 2013",
+    "heading_number": "17",
+    "subheading": null,
+    "rule": "17",
+    "description": "September 2013",
+    "AIS": null
+  }
+]
