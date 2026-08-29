@@ -1,0 +1,237 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1680" height="1040" viewBox="0 0 1680 1040" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0f1b17"/>
+      <stop offset="1" stop-color="#0a1512"/>
+    </linearGradient>
+    <linearGradient id="srcCard" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#20313b"/>
+      <stop offset="1" stop-color="#182730"/>
+    </linearGradient>
+    <linearGradient id="ingCard" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#243a2f"/>
+      <stop offset="1" stop-color="#1a2c24"/>
+    </linearGradient>
+    <linearGradient id="mdbCard" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0f3d2e"/>
+      <stop offset="1" stop-color="#0a2e22"/>
+    </linearGradient>
+    <linearGradient id="appCard" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2a2c3f"/>
+      <stop offset="1" stop-color="#1f2130"/>
+    </linearGradient>
+    <linearGradient id="resultCard" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3a2f18"/>
+      <stop offset="1" stop-color="#2c2412"/>
+    </linearGradient>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#5fd3a0"/>
+    </marker>
+    <marker id="arrowMuted" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#6b7f77"/>
+    </marker>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+
+  <rect width="1680" height="1040" fill="url(#bg)"/>
+
+  <!-- Title -->
+  <text x="52" y="56" fill="#ffffff" font-size="30" font-weight="700">CMVR / AIS Regulatory Search — End-to-End Reference Architecture</text>
+  <text x="52" y="86" fill="#8fb3a6" font-size="16">Regulatory sources → Ingestion &amp; Normalization → MongoDB Atlas (records · metadata · hybrid-search indexes) → Ranked application results</text>
+
+  <!-- Column band labels -->
+  <rect x="52"   y="112" width="300" height="30" rx="6" fill="#20313b"/>
+  <rect x="392"  y="112" width="360" height="30" rx="6" fill="#243a2f"/>
+  <rect x="792"  y="112" width="420" height="30" rx="6" fill="#0f3d2e"/>
+  <rect x="1252" y="112" width="376" height="30" rx="6" fill="#2a2c3f"/>
+  <text x="202"  y="132" fill="#bcd" font-size="14" font-weight="700" text-anchor="middle" letter-spacing="1">1 · REGULATORY SOURCES</text>
+  <text x="572"  y="132" fill="#bfe6cf" font-size="14" font-weight="700" text-anchor="middle" letter-spacing="1">2 · INGESTION &amp; NORMALIZATION</text>
+  <text x="1002" y="132" fill="#a9f0cd" font-size="14" font-weight="700" text-anchor="middle" letter-spacing="1">3 · MONGODB ATLAS</text>
+  <text x="1440" y="132" fill="#c9c9ef" font-size="14" font-weight="700" text-anchor="middle" letter-spacing="1">4 · APPLICATION LAYER</text>
+
+  <!-- ================= COLUMN 1: SOURCES ================= -->
+  <g filter="url(#soft)">
+    <rect x="52" y="180" width="300" height="86" rx="10" fill="url(#srcCard)" stroke="#3a5261" stroke-width="1"/>
+    <rect x="52" y="298" width="300" height="86" rx="10" fill="url(#srcCard)" stroke="#3a5261" stroke-width="1"/>
+    <rect x="52" y="416" width="300" height="86" rx="10" fill="url(#srcCard)" stroke="#3a5261" stroke-width="1"/>
+    <rect x="52" y="534" width="300" height="86" rx="10" fill="url(#srcCard)" stroke="#3a5261" stroke-width="1"/>
+  </g>
+  <text x="72" y="212" fill="#eaf2f0" font-size="18" font-weight="700">CMVR Rules</text>
+  <text x="72" y="238" fill="#9fb6bf" font-size="13">Central Motor Vehicles Rules, 1989</text>
+  <text x="72" y="256" fill="#9fb6bf" font-size="13">(rules &amp; sub-sections, PDF)</text>
+
+  <text x="72" y="330" fill="#eaf2f0" font-size="18" font-weight="700">AIS Standards</text>
+  <text x="72" y="356" fill="#9fb6bf" font-size="13">Automotive Industry Standards</text>
+  <text x="72" y="374" fill="#9fb6bf" font-size="13">(AIS-002 … technical specs, PDF)</text>
+
+  <text x="72" y="448" fill="#eaf2f0" font-size="18" font-weight="700">Gazette Notifications</text>
+  <text x="72" y="474" fill="#9fb6bf" font-size="13">Statutory amendments &amp; new</text>
+  <text x="72" y="492" fill="#9fb6bf" font-size="13">provisions (dated, versioned)</text>
+
+  <text x="72" y="566" fill="#eaf2f0" font-size="18" font-weight="700">ARAI Circulars</text>
+  <text x="72" y="592" fill="#9fb6bf" font-size="13">Test agency circulars,</text>
+  <text x="72" y="610" fill="#9fb6bf" font-size="13">clarifications &amp; guidance</text>
+
+  <!-- ================= COLUMN 2: INGESTION & NORMALIZATION ================= -->
+  <g filter="url(#soft)">
+    <rect x="392" y="180" width="360" height="470" rx="12" fill="url(#ingCard)" stroke="#3f6a55" stroke-width="1"/>
+  </g>
+  <text x="412" y="212" fill="#dff3e8" font-size="16" font-weight="700">Ingestion Pipeline</text>
+
+  <g>
+    <rect x="412" y="232" width="320" height="60" rx="8" fill="#1c2f27" stroke="#33665a" stroke-opacity="0.4" stroke-width="1"/>
+    <text x="428" y="256" fill="#eaf2f0" font-size="14" font-weight="600">Document loaders &amp; PDF parsing</text>
+    <text x="428" y="277" fill="#94b3a4" font-size="12.5">Extract raw text, tables, section headings</text>
+
+    <rect x="412" y="302" width="320" height="60" rx="8" fill="#1c2f27" stroke="#33665a" stroke-opacity="0.4" stroke-width="1"/>
+    <text x="428" y="326" fill="#eaf2f0" font-size="14" font-weight="600">Normalization &amp; canonicalization</text>
+    <text x="428" y="347" fill="#94b3a4" font-size="12.5">Canonical titles, clean rule text, chunking</text>
+
+    <rect x="412" y="372" width="320" height="60" rx="8" fill="#1c2f27" stroke="#33665a" stroke-opacity="0.4" stroke-width="1"/>
+    <text x="428" y="396" fill="#eaf2f0" font-size="14" font-weight="600">Metadata extraction</text>
+    <text x="428" y="417" fill="#94b3a4" font-size="12.5">Rule/section locator · revision · status · source</text>
+
+    <rect x="412" y="442" width="320" height="60" rx="8" fill="#1c2f27" stroke="#33665a" stroke-opacity="0.4" stroke-width="1"/>
+    <text x="428" y="466" fill="#eaf2f0" font-size="14" font-weight="600">Cross-reference linking</text>
+    <text x="428" y="487" fill="#94b3a4" font-size="12.5">CMVR ⇄ AIS ⇄ gazette ⇄ circular graph</text>
+
+    <rect x="412" y="512" width="320" height="76" rx="8" fill="#173a2a" stroke="#2f7a58" stroke-width="1.2"/>
+    <text x="428" y="536" fill="#a9f0cd" font-size="14" font-weight="700">Embedding generation</text>
+    <text x="428" y="557" fill="#94b3a4" font-size="12.5">Voyage voyage-4-large · 1024-dim vectors</text>
+    <text x="428" y="576" fill="#94b3a4" font-size="12.5">Title &amp; rule-text embeddings</text>
+  </g>
+  <text x="412" y="622" fill="#7fae97" font-size="12">Notebooks / scripts: extract_*, ingest_regulatory_graph.py</text>
+
+  <!-- ================= COLUMN 3: MONGODB ATLAS ================= -->
+  <g filter="url(#soft)">
+    <rect x="792" y="180" width="420" height="640" rx="14" fill="url(#mdbCard)" stroke="#2f9d6e" stroke-width="1.4"/>
+  </g>
+  <text x="812" y="214" fill="#ffffff" font-size="17" font-weight="700">MongoDB Atlas</text>
+  <text x="812" y="236" fill="#8fe0b6" font-size="12.5">Single store: operational data + search</text>
+
+  <!-- Source records collection -->
+  <rect x="812" y="256" width="380" height="120" rx="10" fill="#0c2a20" stroke="#2f8d63" stroke-width="1"/>
+  <text x="830" y="282" fill="#c9f6de" font-size="15" font-weight="700">Source Records (collection)</text>
+  <text x="830" y="306" fill="#9fcbb6" font-size="12.5">One document per rule / standard / clause</text>
+  <text x="830" y="326" fill="#9fcbb6" font-size="12.5">canonicalTitle · ruleText · sourceType</text>
+  <text x="830" y="346" fill="#9fcbb6" font-size="12.5">Embedded vectors: title &amp; rule-text (1024-d)</text>
+  <text x="830" y="366" fill="#9fcbb6" font-size="12.5">Raw + normalized passages retained</text>
+
+  <!-- Metadata -->
+  <rect x="812" y="392" width="380" height="96" rx="10" fill="#0c2a20" stroke="#2f8d63" stroke-width="1"/>
+  <text x="830" y="418" fill="#c9f6de" font-size="15" font-weight="700">Metadata</text>
+  <text x="830" y="442" fill="#9fcbb6" font-size="12.5">rule/section locator · revision · status</text>
+  <text x="830" y="462" fill="#9fcbb6" font-size="12.5">effective date · source doc · cross-refs</text>
+  <text x="830" y="481" fill="#9fcbb6" font-size="12.5">Powers filters, locators &amp; provenance</text>
+
+  <!-- Hybrid search indexes -->
+  <rect x="812" y="504" width="380" height="296" rx="10" fill="#0c2a20" stroke="#2f8d63" stroke-width="1"/>
+  <text x="830" y="530" fill="#c9f6de" font-size="15" font-weight="700">Hybrid-Search Indexes</text>
+
+  <rect x="830" y="544" width="344" height="66" rx="8" fill="#123a2b" stroke="#3aa579" stroke-width="1"/>
+  <text x="846" y="568" fill="#eafff4" font-size="13.5" font-weight="600">Vector index · cmvr_title_vector</text>
+  <text x="846" y="588" fill="#95c9b1" font-size="12">canonicalTitleEmbedding · cosine · vectorSearch</text>
+
+  <rect x="830" y="620" width="344" height="66" rx="8" fill="#123a2b" stroke="#3aa579" stroke-width="1"/>
+  <text x="846" y="644" fill="#eafff4" font-size="13.5" font-weight="600">Vector index · cmvr_rule_text_vector</text>
+  <text x="846" y="664" fill="#95c9b1" font-size="12">ruleTextEmbedding · cosine · vectorSearch</text>
+
+  <rect x="830" y="696" width="344" height="66" rx="8" fill="#123a2b" stroke="#3aa579" stroke-width="1"/>
+  <text x="846" y="720" fill="#eafff4" font-size="13.5" font-weight="600">Lexical index · cmvr_rules_lexical</text>
+  <text x="846" y="740" fill="#95c9b1" font-size="12">Atlas Search full-text (BM25) on title &amp; text</text>
+
+  <text x="830" y="784" fill="#7fbb9c" font-size="11.5">Managed by RuleSearch.ensure_search_indexes() in rule_search.py</text>
+
+  <!-- ================= COLUMN 4: APPLICATION LAYER ================= -->
+  <g filter="url(#soft)">
+    <rect x="1252" y="180" width="376" height="470" rx="12" fill="url(#appCard)" stroke="#4a4d66" stroke-width="1"/>
+  </g>
+  <text x="1272" y="212" fill="#e7e7f6" font-size="16" font-weight="700">Retrieval &amp; Serving</text>
+
+  <rect x="1272" y="232" width="336" height="70" rx="8" fill="#242637" stroke="#4a4d66" stroke-width="1"/>
+  <text x="1288" y="256" fill="#eeeeff" font-size="14" font-weight="600">Hybrid retrieval</text>
+  <text x="1288" y="277" fill="#a9abc8" font-size="12">Title-vector + text-vector + lexical, in parallel</text>
+  <text x="1288" y="295" fill="#a9abc8" font-size="12">Reciprocal Rank Fusion (RRF, k=60)</text>
+
+  <rect x="1272" y="312" width="336" height="64" rx="8" fill="#242637" stroke="#4a4d66" stroke-width="1"/>
+  <text x="1288" y="336" fill="#eeeeff" font-size="14" font-weight="600">Reranking</text>
+  <text x="1288" y="357" fill="#a9abc8" font-size="12">Voyage rerank-2.5 over fused candidates</text>
+
+  <rect x="1272" y="386" width="336" height="64" rx="8" fill="#242637" stroke="#4a4d66" stroke-width="1"/>
+  <text x="1288" y="410" fill="#eeeeff" font-size="14" font-weight="600">FastAPI backend</text>
+  <text x="1288" y="431" fill="#a9abc8" font-size="12">/api/search · /api/health · :7860</text>
+
+  <rect x="1272" y="460" width="336" height="64" rx="8" fill="#242637" stroke="#4a4d66" stroke-width="1"/>
+  <text x="1288" y="484" fill="#eeeeff" font-size="14" font-weight="600">Web UI</text>
+  <text x="1288" y="505" fill="#a9abc8" font-size="12">Next.js (:3000) / Gradio · query &amp; results</text>
+
+  <rect x="1272" y="534" width="336" height="98" rx="8" fill="#2b2d40" stroke="#5a5d7a" stroke-width="1"/>
+  <text x="1288" y="558" fill="#cceeff" font-size="13.5" font-weight="700">Consumers</text>
+  <text x="1288" y="580" fill="#a9abc8" font-size="12">Homologation &amp; compliance engineers</text>
+  <text x="1288" y="599" fill="#a9abc8" font-size="12">Type-approval &amp; certification teams</text>
+  <text x="1288" y="618" fill="#a9abc8" font-size="12">Regulatory / legal analysts</text>
+
+  <!-- ================= RANKED RESULTS PANEL ================= -->
+  <g filter="url(#soft)">
+    <rect x="792" y="856" width="836" height="150" rx="12" fill="url(#resultCard)" stroke="#8a6d2e" stroke-width="1.2"/>
+  </g>
+  <text x="812" y="886" fill="#ffe6ad" font-size="16" font-weight="700">Ranked Results (per hit)</text>
+
+  <g font-size="13">
+    <rect x="812" y="900" width="250" height="42" rx="7" fill="#403316" stroke="#7d6528"/>
+    <text x="828" y="920" fill="#ffe9bb" font-weight="600">Title</text>
+    <text x="828" y="937" fill="#cdb98a" font-size="11.5">canonical rule/standard title</text>
+
+    <rect x="1076" y="900" width="250" height="42" rx="7" fill="#403316" stroke="#7d6528"/>
+    <text x="1092" y="920" fill="#ffe9bb" font-weight="600">Matched passage</text>
+    <text x="1092" y="937" fill="#cdb98a" font-size="11.5">highlighted snippet of rule text</text>
+
+    <rect x="1340" y="900" width="270" height="42" rx="7" fill="#403316" stroke="#7d6528"/>
+    <text x="1356" y="920" fill="#ffe9bb" font-weight="600">Rule / section locator</text>
+    <text x="1356" y="937" fill="#cdb98a" font-size="11.5">e.g. CMVR r.126 / AIS-002 cl.4</text>
+
+    <rect x="812" y="950" width="250" height="42" rx="7" fill="#403316" stroke="#7d6528"/>
+    <text x="828" y="970" fill="#ffe9bb" font-weight="600">Revision</text>
+    <text x="828" y="987" fill="#cdb98a" font-size="11.5">amendment / version + date</text>
+
+    <rect x="1076" y="950" width="250" height="42" rx="7" fill="#403316" stroke="#7d6528"/>
+    <text x="1092" y="970" fill="#ffe9bb" font-weight="600">Status</text>
+    <text x="1092" y="987" fill="#cdb98a" font-size="11.5">in force / superseded / draft</text>
+
+    <rect x="1340" y="950" width="270" height="42" rx="7" fill="#403316" stroke="#7d6528"/>
+    <text x="1356" y="970" fill="#ffe9bb" font-weight="600">Relevance score</text>
+    <text x="1356" y="987" fill="#cdb98a" font-size="11.5">rerank + fused ranks</text>
+  </g>
+
+  <!-- ================= FLOW ARROWS ================= -->
+  <!-- Sources -> Ingestion -->
+  <g stroke="#5fd3a0" stroke-width="2.4" fill="none">
+    <path d="M352 223 C 372 223, 380 300, 400 320" marker-end="url(#arrow)"/>
+    <path d="M352 341 C 375 341, 382 345, 400 350" marker-end="url(#arrow)"/>
+    <path d="M352 459 C 375 430, 382 385, 400 380" marker-end="url(#arrow)"/>
+    <path d="M352 577 C 380 520, 384 430, 400 410" marker-end="url(#arrow)"/>
+  </g>
+
+  <!-- Ingestion -> MongoDB -->
+  <path d="M752 415 C 772 415, 776 415, 792 415" stroke="#5fd3a0" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+  <text x="756" y="405" fill="#8fd3b3" font-size="11">write records, metadata &amp; vectors</text>
+
+  <!-- MongoDB -> Application (query / candidates) -->
+  <path d="M1212 360 C 1232 360, 1240 360, 1252 360" stroke="#5fd3a0" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+  <text x="1216" y="350" fill="#8fd3b3" font-size="11">$vectorSearch + $search</text>
+  <path d="M1252 300 C 1236 300, 1230 320, 1212 330" stroke="#6b7f77" stroke-width="2" fill="none" stroke-dasharray="5 4" marker-end="url(#arrowMuted)"/>
+  <text x="1120" y="292" fill="#8aa89a" font-size="11">query embedding</text>
+
+  <!-- Application -> Ranked results -->
+  <path d="M1440 650 C 1440 720, 1300 800, 1210 856" stroke="#e6c46a" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+  <text x="1300" y="720" fill="#e6c46a" font-size="12" font-weight="600">ranked results</text>
+
+  <!-- MongoDB metadata feeds result fields -->
+  <path d="M1002 820 C 1002 835, 1002 842, 1002 856" stroke="#6b7f77" stroke-width="2" fill="none" stroke-dasharray="5 4" marker-end="url(#arrowMuted)"/>
+  <text x="1012" y="844" fill="#8aa89a" font-size="11">metadata → result fields</text>
+
+  <!-- Footer -->
+  <text x="52" y="1024" fill="#5f7a70" font-size="12">Hybrid = dense vector (Voyage) + lexical (Atlas Search BM25) fused via RRF, then Voyage rerank-2.5. All persisted and searched in a single MongoDB Atlas cluster.</text>
+</svg>
