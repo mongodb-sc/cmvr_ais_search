@@ -4,7 +4,7 @@ A hybrid-search and agentic research assistant for Indian automotive type approv
 
 The system pairs MongoDB lexical (full-text) search with MongoDB vector search over embeddings, fuses the two candidate sets with `$rankFusion`, applies regulatory-lifecycle filters, and reranks the survivors so that superseded or not-yet-effective passages are never presented as current law.
 
-![Regulatory Search Platform — reference architecture](docs/reference_architecture_highlevel.png)
+![Regulatory Search Platform — reference architecture](docs/reference_architecture_light.png)
 
 ---
 
@@ -13,6 +13,7 @@ The system pairs MongoDB lexical (full-text) search with MongoDB vector search o
 - [Why this project](#why-this-project)
 - [Key features](#key-features)
 - [Architecture](#architecture)
+- [App in action](#app-in-action)
 - [Repository layout](#repository-layout)
 - [Prerequisites](#prerequisites)
 - [Configuration](#configuration)
@@ -53,41 +54,23 @@ Compliance-style questions such as *“What tests apply to an M3 bus?”* cannot
 
 ## Architecture
 
-```
-┌─────────────────────────────────────────┐
-│      Next.js Frontend (Port 3000)        │
-│    • React research workspace            │
-│    • Streaming API client                │
-└────────────────┬─────────────────────────┘
-                 │ HTTP (SSE stream)
-                 ▼
-┌─────────────────────────────────────────┐
-│      FastAPI Backend (Port 7860)         │
-│    • /api/chat    – streamed answers     │
-│    • /api/history – query history        │
-│    • /api/health  – health check         │
-│    • Agentic loop + tools                │
-└────────────────┬─────────────────────────┘
-                 │ Aggregation pipelines
-                 ▼
-┌─────────────────────────────────────────┐
-│              MongoDB                      │
-│  • cmvr_rules        (+ vector/lexical)  │
-│  • ais_rules         (+ vector/lexical)  │
-│  • research_history                      │
-└─────────────────────────────────────────┘
-                 ▲
-                 │ embeddings + rerank
-        ┌────────┴─────────┐
-        │  Voyage AI API   │
-        └──────────────────┘
-```
-
-Reference diagrams are available in [docs/](/Users/utsav.talwar/Desktop/UST/ust-demo/docs) (`reference_architecture.svg`, `reference_architecture_highlevel.svg`, `figure2_hybrid_retrieval_sequence.svg`).
+The Next.js frontend streams chat responses over SSE from the FastAPI backend, which runs the agentic loop and tool calls against MongoDB (lexical + vector search across `cmvr_rules`, `ais_rules`, and `research_history`) and the Voyage AI API for embeddings and reranking. See the reference architecture diagram above.
 
 The hybrid-retrieval request path — query preparation, parallel lexical and vector search, fusion and reranking, active-version filtering, and the provenance-rich response — is shown below.
 
-![Figure 2 — hybrid-retrieval sequence](docs/figure2_hybrid_retrieval_sequence.png)
+![Figure 2 — hybrid-retrieval sequence](docs/figure2_hybrid_retrieval_sequence_light.png)
+
+---
+
+## App in action
+
+Live run against the Next.js frontend and FastAPI backend for a multi-part conversion scenario: *"A manufacturer wants to convert an N2 category goods carrier into an M3 category bus with hydraulic braking and rear underrun protection. What CMVR rules and cross-referenced AIS standards govern the braking, underrun protection, and type-approval requirements for this conversion?"* The agent runs 7 tool calls across CMVR rule search and AIS clause search, then returns a structured, cited answer with the full evidence trace kept visible.
+
+![CMVR/AIS research assistant resolving a vehicle-category conversion question across braking, underrun protection, and type-approval rules, with the evidence trace and cited answer shown](docs/app_demo.gif)
+
+Final answer view:
+
+![Completed research showing type-approval, braking, and rear underrun protection citations across CMVR Rules 96, 124, 125-C, 126, 128-A and AIS-023, AIS-041, AIS-049, AIS-052, AIS-057, AIS-063](docs/app_screenshot.png)
 
 ---
 
@@ -95,18 +78,18 @@ The hybrid-retrieval request path — query preparation, parallel lexical and ve
 
 | Path | Purpose |
 | --- | --- |
-| [cmvr_agentic_ai/](/Users/utsav.talwar/Desktop/UST/ust-demo/cmvr_agentic_ai) | Main application package (config, search, agent, API, web UI). |
-| [cmvr_agentic_ai/config.py](/Users/utsav.talwar/Desktop/UST/ust-demo/cmvr_agentic_ai/config.py) | Central settings and lazy MongoDB/Voyage handles. |
-| [cmvr_agentic_ai/search/](/Users/utsav.talwar/Desktop/UST/ust-demo/cmvr_agentic_ai/search) | Retrieval pipeline: embeddings, lexical + vector search, hybrid fusion, reranking. |
-| [cmvr_agentic_ai/db/](/Users/utsav.talwar/Desktop/UST/ust-demo/cmvr_agentic_ai/db) | Index creation and embedding backfill utilities. |
-| [cmvr_agentic_ai/agent/](/Users/utsav.talwar/Desktop/UST/ust-demo/cmvr_agentic_ai/agent) | LLM client, tool definitions, and the agentic loop. |
-| [cmvr_agentic_ai/api.py](/Users/utsav.talwar/Desktop/UST/ust-demo/cmvr_agentic_ai/api.py) | Streaming FastAPI backend. |
-| [cmvr_agentic_ai/web/](/Users/utsav.talwar/Desktop/UST/ust-demo/cmvr_agentic_ai/web) | Next.js frontend. |
-| [ingest_regulatory_graph.py](/Users/utsav.talwar/Desktop/UST/ust-demo/ingest_regulatory_graph.py) | Corpus ingestion / graph building. |
-| [rule_search.py](/Users/utsav.talwar/Desktop/UST/ust-demo/rule_search.py) | Standalone rule-search entry point. |
-| [extract_AIS.ipynb](/Users/utsav.talwar/Desktop/UST/ust-demo/extract_AIS.ipynb), [extract_cmvr_rules_ais.ipynb](/Users/utsav.talwar/Desktop/UST/ust-demo/extract_cmvr_rules_ais.ipynb) | Source-extraction notebooks. |
-| [tests/](/Users/utsav.talwar/Desktop/UST/ust-demo/tests) | Test suite. |
-| [Makefile](/Users/utsav.talwar/Desktop/UST/ust-demo/Makefile), [RUNNING.md](/Users/utsav.talwar/Desktop/UST/ust-demo/RUNNING.md) | Run/automation reference. |
+| **cmvr_agentic_ai/** | Main application package (config, search, agent, API, web UI). |
+| **cmvr_agentic_ai/config.py** | Central settings and lazy MongoDB/Voyage handles. |
+| **cmvr_agentic_ai/search/** | Retrieval pipeline: embeddings, lexical + vector search, hybrid fusion, reranking. |
+| **cmvr_agentic_ai/db/** | Index creation and embedding backfill utilities. |
+| **cmvr_agentic_ai/agent/** | LLM client, tool definitions, and the agentic loop. |
+| **cmvr_agentic_ai/api.py** | Streaming FastAPI backend. |
+| **cmvr_agentic_ai/web/** | Next.js frontend. |
+| **ingest_regulatory_graph.py** | Corpus ingestion / graph building. |
+| **rule_search.py** | Standalone rule-search entry point. |
+| **extract_AIS.ipynb**, **extract_cmvr_rules_ais.ipynb** | Source-extraction notebooks. |
+| **tests/** | Test suite. |
+| **Makefile**, **RUNNING.md** | Run/automation reference. |
 
 ---
 
@@ -124,7 +107,7 @@ To follow the internals comfortably you should be familiar with FastAPI, React/N
 
 ## Configuration
 
-Copy [.env.example](/Users/utsav.talwar/Desktop/UST/ust-demo/.env.example) to `.env` and fill in the values:
+Copy **.env.example** to `.env` and fill in the values:
 
 ```bash
 cp .env.example .env
@@ -158,7 +141,7 @@ make setup
 make dev
 ```
 
-See [RUNNING.md](/Users/utsav.talwar/Desktop/UST/ust-demo/RUNNING.md) and [MAKEFILE_REFERENCE.txt](/Users/utsav.talwar/Desktop/UST/ust-demo/MAKEFILE_REFERENCE.txt) for the full command set (`make backend`, `make frontend`, `make start-bg`, `make stop`, `make verify`, `make clean`).
+See **RUNNING.md** and **MAKEFILE_REFERENCE.txt** for the full command set (`make backend`, `make frontend`, `make start-bg`, `make stop`, `make verify`, `make clean`).
 
 ---
 
@@ -170,7 +153,7 @@ This is the end-to-end path from a raw regulatory source to a filtered, cited se
 
 Collect the CMVR rule text, AIS standards, and the notifications or circulars that change their applicability. For each source, capture the original file or URL, document type, identifier, revision, publication date, effective date, and current lifecycle state.
 
-[ingest_regulatory_graph.py](/Users/utsav.talwar/Desktop/UST/ust-demo/ingest_regulatory_graph.py) reads a regulatory PDF with Docling, chunks it hierarchically, and keeps structural parsing separate from the regulatory-context tracker (in the sampled CMVR/AIS PDFs, rules and clauses are not consistently classified as headings, so trusting heading metadata alone would attach chunks to the wrong rule):
+**ingest_regulatory_graph.py** reads a regulatory PDF with Docling, chunks it hierarchically, and keeps structural parsing separate from the regulatory-context tracker (in the sampled CMVR/AIS PDFs, rules and clauses are not consistently classified as headings, so trusting heading metadata alone would attach chunks to the wrong rule):
 
 ```python
 from docling.document_converter import DocumentConverter, PdfFormatOption
@@ -226,7 +209,7 @@ AIS standards are normalized into flat, section-level records with the searchabl
 
 ### 3. Create the hybrid-search indexes
 
-Create a MongoDB Search index for exact identifiers and textual matching, and a MongoDB Vector Search index for the embedding field. [cmvr_agentic_ai/db/indexes.py](/Users/utsav.talwar/Desktop/UST/ust-demo/cmvr_agentic_ai/db/indexes.py) defines both idempotently. The lexical index uses the English analyzer for prose fields and `token` fields for exact code matching:
+Create a MongoDB Search index for exact identifiers and textual matching, and a MongoDB Vector Search index for the embedding field. **cmvr_agentic_ai/db/indexes.py** defines both idempotently. The lexical index uses the English analyzer for prose fields and `token` fields for exact code matching:
 
 ```python
 SearchIndexModel(
@@ -269,7 +252,7 @@ SearchIndexModel(
 
 ### 4. Execute lexical and semantic retrieval
 
-For a user query, retrieve keyword candidates and vector candidates, then fuse them with a single MongoDB `$rankFusion` stage and rerank the survivors with Voyage AI. [cmvr_agentic_ai/search/hybrid.py](/Users/utsav.talwar/Desktop/UST/ust-demo/cmvr_agentic_ai/search/hybrid.py) defines the fusion once for both the CMVR and AIS tools:
+For a user query, retrieve keyword candidates and vector candidates, then fuse them with a single MongoDB `$rankFusion` stage and rerank the survivors with Voyage AI. **cmvr_agentic_ai/search/hybrid.py** defines the fusion once for both the CMVR and AIS tools:
 
 ```python
 pipeline = [
@@ -349,7 +332,7 @@ python -m pytest
 python -m pytest tests/test_rule_search.py
 ```
 
-Existing tests live in [tests/](/Users/utsav.talwar/Desktop/UST/ust-demo/tests):
+Existing tests live in **tests/**:
 `test_rule_search.py` and `test_ingest_regulatory_graph.py`.
 
 ---
